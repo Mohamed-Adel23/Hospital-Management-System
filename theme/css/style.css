@@ -16,39 +16,56 @@ body {
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
-  color: #6F8BA4;
+  color: #6f8ba4;
   font-weight: 400;
   overflow-x: hidden;
 }
 
-h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
   font-family: "Exo", sans-serif;
   font-weight: 700;
   color: #222;
 }
 
-h1, .h1 {
+h1,
+.h1 {
   font-size: 2.5rem;
 }
 
-h2, .h2 {
+h2,
+.h2 {
   font-size: 44px;
 }
 
-h3, .h3 {
+h3,
+.h3 {
   font-size: 1.5rem;
 }
 
-h4, .h4 {
+h4,
+.h4 {
   font-size: 1.3rem;
   line-height: 30px;
 }
 
-h5, .h5 {
+h5,
+.h5 {
   font-size: 1.25rem;
 }
 
-h6, .h6 {
+h6,
+.h6 {
   font-size: 1rem;
 }
 
@@ -60,13 +77,19 @@ p {
   background: #223a66;
 }
 
-input[type=email], input[type=password], input[type=text], input[type=tel] {
+input[type="email"],
+input[type="password"],
+input[type="text"],
+input[type="tel"] {
   box-shadow: none;
   height: 45px;
   outline: none;
   font-size: 14px;
 }
-input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, input[type=tel]:focus {
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="text"]:focus,
+input[type="tel"]:focus {
   box-shadow: none;
   border: 1px solid #223a66;
 }
@@ -96,6 +119,23 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   border-radius: 5px;
   border: 2px solid transparent;
   transition: all 0.35s ease;
+  margin: 20px 0 0 50px;
+}
+
+.radio {
+  padding-left: 20px;
+}
+.radio input {
+  margin-left: 20px;
+}
+.lgnbtn {
+  background-color: #fff;
+  padding: 5px 14px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+.swap {
+  margin: 30px 0 0 50px;
 }
 .btn.btn-icon i {
   border-left: 1px solid rgba(255, 255, 255, 0.09);
@@ -148,10 +188,10 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 .btn-transparent {
   background: transparent;
   color: #222;
-  border-color: #6F8BA4;
+  border-color: #6f8ba4;
 }
 .btn-transparent:hover {
-  background: #6F8BA4;
+  background: #6f8ba4;
   color: #fff;
 }
 
@@ -183,7 +223,9 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   border-radius: 50px;
 }
 
-.btn.active:focus, .btn:active:focus, .btn:focus {
+.btn.active:focus,
+.btn:active:focus,
+.btn:focus {
   outline: 0;
 }
 
@@ -208,7 +250,11 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .bg-gradient {
-  background-image: linear-gradient(145deg, rgba(19, 177, 205, 0.95) 0%, rgba(152, 119, 234, 0.95) 100%);
+  background-image: linear-gradient(
+    145deg,
+    rgba(19, 177, 205, 0.95) 0%,
+    rgba(152, 119, 234, 0.95) 100%
+  );
   background-repeat: repeat-x;
 }
 
@@ -275,13 +321,21 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 /* Links */
+
+.except {
+  color: #ffffff;
+  text-decoration: none;
+  transition: all 0.35s ease;
+}
 a {
   color: #222;
   text-decoration: none;
   transition: all 0.35s ease;
 }
 
-a:focus, a:hover {
+a:focus,
+a:hover,
+.except:hover {
   color: #e12454;
   text-decoration: none;
 }
@@ -311,12 +365,14 @@ a:focus {
   border-top: 1px solid rgba(255, 255, 255, 0.06);
 }
 
-.slick-slide:focus, .slick-slide a {
+.slick-slide:focus,
+.slick-slide a {
   outline: none;
 }
 
 @media (max-width: 480px) {
-  h2, .h2 {
+  h2,
+  .h2 {
     font-size: 1.3rem;
     line-height: 36px;
   }
@@ -469,7 +525,8 @@ a:focus {
     display: block;
     opacity: 0;
     visibility: hidden;
-    transition: all 0.2s ease-in, visibility 0s linear 0.2s, transform 0.2s linear;
+    transition: all 0.2s ease-in, visibility 0s linear 0.2s,
+      transform 0.2s linear;
     display: block;
     visibility: hidden;
     opacity: 0;
@@ -477,7 +534,7 @@ a:focus {
     transform: translateY(10px);
   }
   .navigation .dropleft .dropdown-menu,
-.navigation .dropright .dropdown-menu {
+  .navigation .dropright .dropdown-menu {
     margin-top: -5px;
   }
   .navigation .dropdown:hover > .dropdown-menu {
@@ -751,7 +808,9 @@ a:focus {
   background: #e12454;
   color: #fff;
 }
-.doctors .btn-group > .btn-group:not(:last-child) > .btn, .doctors .btn-group > .btn:not(:last-child):not(.dropdown-toggle), .doctors .btn-group > .btn:not(:first-child) {
+.doctors .btn-group > .btn-group:not(:last-child) > .btn,
+.doctors .btn-group > .btn:not(:last-child):not(.dropdown-toggle),
+.doctors .btn-group > .btn:not(:first-child) {
   border-radius: 3px;
 }
 
@@ -959,7 +1018,7 @@ a:focus {
 }
 .contact-form-wrap .form-group .form-control {
   height: 60px;
-  border: 1px solid #EEF2F6;
+  border: 1px solid #eef2f6;
   box-shadow: none;
   width: 100%;
   background: #f4f9fc;
@@ -969,7 +1028,7 @@ a:focus {
 }
 .contact-form-wrap .form-group-2 textarea {
   height: auto;
-  border: 1px solid #EEF2F6;
+  border: 1px solid #eef2f6;
   box-shadow: none;
   background: #f4f9fc;
   width: 100%;
@@ -998,7 +1057,7 @@ a:focus {
 
 .contact-block {
   text-align: center;
-  border: 5px solid #EEF2F6;
+  border: 5px solid #eef2f6;
   padding: 50px 25px;
 }
 .contact-block i {
@@ -1064,7 +1123,7 @@ a:focus {
 .tag-option a {
   border: 1px solid #eff0f3;
   padding: 6px 12px;
-  color: #6F8BA4;
+  color: #6f8ba4;
   font-size: 14px;
 }
 
@@ -1210,16 +1269,19 @@ a:focus {
 .comment-reply-form {
   margin-top: 80px;
 }
-.comment-reply-form input, .comment-reply-form textarea {
+.comment-reply-form input,
+.comment-reply-form textarea {
   height: 35px;
   border-radius: 0;
   box-shadow: none;
 }
-.comment-reply-form input:focus, .comment-reply-form textarea:focus {
+.comment-reply-form input:focus,
+.comment-reply-form textarea:focus {
   box-shadow: none;
   border: 1px solid #223a66;
 }
-.comment-reply-form textarea, .comment-reply-form .btn-main {
+.comment-reply-form textarea,
+.comment-reply-form .btn-main {
   height: auto;
 }
 
@@ -1331,7 +1393,7 @@ a:focus {
   color: #223a66;
 }
 .widget .footer-menu a {
-  color: #6F8BA4;
+  color: #6f8ba4;
 }
 .widget .footer-menu a:hover {
   color: #e12454;
@@ -1339,7 +1401,7 @@ a:focus {
 
 .footer-contact-block span {
   font-weight: 400;
-  color: #6F8BA4;
+  color: #6f8ba4;
 }
 .footer-contact-block i {
   font-size: 20px;
@@ -1352,7 +1414,7 @@ a:focus {
 .footer-socials li a {
   width: 45px;
   height: 45px;
-  background: #6F8BA4;
+  background: #6f8ba4;
   color: #fff;
   display: inline-block;
   text-align: center;

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <title>Nurse - Profile</title>
+ 
+    <link rel="stylesheet" href="css/nurse.css">
+
+    <!-- font awesome Stylesheet -->
+    <link href="fontawesome-free-6.4.0-web/css/fontawesome.css" rel="stylesheet">
+    <!-- <link href="fontawesome-free-6.4.0-web/css/brands.css" rel="stylesheet"> -->
+    <link href="fontawesome-free-6.4.0-web/css/solid.css" rel="stylesheet">
+
+<style>
+        body {
+	font-family: Arial, sans-serif;
+	background-color: #eee;
+}
+
+.profile-card {
+	background: linear-gradient(to bottom, #ffffff 0%, #f2f2f2 100%);
+	box-shadow: 0px 1px 3px rgba(0,0,0,0.12), 0px 1px 2px rgba(0,0,0,0.24);
+	padding: 20px;
+	margin: 50px auto;
+	max-width: 500px;
+}
+
+.profile-img {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.profile-img img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+.profile-info {
+	display: grid;
+	grid-gap: 20px;
+}
+
+.form-group {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	align-items: center;
+}
+
+.form-group label {
+	text-align: right;
+	margin-right: 20px;
+}
+
+.form-group input {
+	padding: 5px;
+	border-radius: 4px;
+	border: 1px solid #cccccc;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.profile-actions {
+	margin-top: 20px;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.edit-button, .save-button {
+	background-color: #6f8ba4;
+	color: white;
+	padding: 8px 16px;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.edit-button:hover, .save-button:hover {
+	background-color: #6f8ba4;
+}
+
+.edit-button:focus, .save-button:focus {
+	outline: none;
+}
+
+.save-button:disabled {
+    opacity: 0.6;
+	cursor: not-allowed;
+}
+
+@media (max-width: 768px) {
+	.profile-info {
+		display: block;
+	}
+	
+	.form-group label {
+		margin-right: 0;
+		margin-bottom: 5px;
+		display: block;
+	}
+	
+	.form-group input {
+		margin-bottom: 10px;
+	}
+	
+	.profile-actions {
+		display: block;
+		margin-top: 20px;
+		text-align: right;
+	}
+	
+}
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <section class="a-page-title bg-1"> 
+      <div class="overlay"></div>
+        <div class="column-md">
+          <div class="text-center">
+            <h1 class="text-capitalize">Hospital Management System</h1>
+            <ul class="line-in-list">
+              <li class="nurse-list"><a href="index.html" class="except"> Home</a></li>
+              <li class="nurse-list">/</li>
+              <li class="nurse-list">Nurse</li>
+            </ul>
+          </div>
+        </div>
+    </section>
+	<div class="profile-card">
+		<div class="profile-img">
+			<img src="images/bg/22.jpg">
+		</div>
+		<div class="profile-info">
+			<form>
+				<div class="form-group">
+					<label for="name">Name:</label>
+					<input type="text" id="name" name="name" placeholder="Enter name" >
+				</div>
+				<div class="form-group">
+					<label for="age">Age:</label>
+					<input type="text" id="age" name="age" placeholder="Enter age" >
+				</div>
+				<div class="form-group">
+					<label for="phone">Phone Number:</label>
+					<input type="text" id="phone" name="phone" placeholder="Enter phone number" >
+				</div>
+				<div class="form-group">
+					<label for="address">Address:</label>
+					<input type="text" id="address" name="address" placeholder="Enter address" >
+				</div>
+				<div class="form-group">
+					<label for="email">Email:</label>
+					<input type="email" id="email" name="email" placeholder="Enter email" >
+				</div>
+			</form>
+		</div>
+		<div class="profile-actions">
+			<button class="edit-button">Edit</button>
+			<button class="save-button" >Save</button>
+		</div>
+	</div>
+</body>
+</html>
+
+
+

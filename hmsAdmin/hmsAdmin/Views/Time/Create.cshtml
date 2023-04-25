@@ -1,0 +1,118 @@
+﻿<div class="row">
+    <div class="col-2"></div>
+    <div class="col-9 mt-5 pt-5 mx-5 px-5">
+        <div class="card">
+            <div class="card-header">
+                <strong style="font-size: 25px">Add</strong>
+                <span style="color: red; font-size: 20px">Time</span>
+                <hr width="" style="margin-top: 0" />
+            </div>
+            <div class="card-body card-block">
+                <form action="#"
+                      method="post"
+                      enctype="multipart/form-data"
+                      class="form-horizontal">
+                    <div class="row form-group mt-4">
+                        <div class="col col-md-3">
+                            <label for="day" class="form-control-label text-black">Day</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <select name="day" id="day" class="form-control">
+                                <option value="0">Please select</option>
+                                <option value="1">Sunday</option>
+                                <option value="2">Monday</option>
+                                <option value="2">Tuesday</option>
+                                <option value="2">Wednesday</option>
+                                <option value="2">Thursday</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row form-group mt-4">
+                        <div class="col col-md-3">
+                            <label for="date" class="form-control-label text-black">Date</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <input type="date"
+                                   id="date"
+                                   name="date"
+                                   placeholder="date"
+                                   class="form-control" />
+                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                        </div>
+                    </div>
+                    <div class="row form-group mt-4">
+                        <div class="col col-md-12">
+                            <label for="sp" class="form-control-label text-black">Department Details</label>
+                            <hr width="50%"/>
+                        </div>
+                        <div style="display: flex; justify-content: space-around;">
+                            <div>
+                                <label for="skin" class="form-check-label ">
+                                    <input type="checkbox" id="skin" name="skin" value="skin"
+                                           class="form-check-input" style="border: 1px solid black;"> &nbsp; Skin
+                                </label>
+                                <input type="number"
+                                       name="av_dr_sk"
+                                       placeholder="avai. dr"
+                                       class="form-control" />
+                                <input type="number"
+                                       name="av_app_sk"
+                                       placeholder="avai. app"
+                                       class="form-control mt-2" />
+                            </div>
+                            <div>
+                                <label for="de" class="form-check-label ">
+                                    <input type="checkbox" id="de" name="dental" value="dental"
+                                           class="form-check-input" style="border: 1px solid black;"> &nbsp; Dental
+                                </label>
+                                <input type="number"
+                                       name="av_dr_de"
+                                       placeholder="avai. dr"
+                                       class="form-control" />
+                                <input type="number"
+                                       name="av_app_de"
+                                       placeholder="avai. app"
+                                       class="form-control mt-2" />
+                            </div>
+                            <div>
+                                <label for="ey" class="form-check-label ">
+                                    <input type="checkbox" id="ey" name="eyes" value="eyes"
+                                           class="form-check-input" style="border: 1px solid black;"> &nbsp; Eyes
+                                </label>
+                                <input type="number"
+                                       name="av_dr_ey"
+                                       placeholder="avai. dr"
+                                       class="form-control" />
+                                <input type="number"
+                                       name="av_app_ey"
+                                       placeholder="avai. app"
+                                       class="form-control mt-2" />
+                            </div>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="card-footer"
+                         style="
+                    display: flex;
+                    justify-content: space-between;
+                    margin-top: 25px;
+                    background-color: white;
+                  ">
+                        <button type="submit"
+                                class="btn btn-outline-primary btn-sm mx-4">
+                            <i class="fas fa-paper-plane"></i> Submit
+                        </button>
+                        <button type="reset" class="btn btn-outline-danger btn-sm">
+                            <i class="fas fa-ban"></i> Reset
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <footer class="footer text-center text-muted">
+            All Rights Reserved &copy; Copyright.
+            <a href="#">Before Others</a>.
+        </footer>
+    </div>
+</div>

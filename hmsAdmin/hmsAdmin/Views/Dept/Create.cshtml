@@ -1,0 +1,89 @@
+﻿<div class="row">
+    <div class="col-2"></div>
+    <div class="col-9 mt-5 pt-5 mx-5 px-5">
+        <div class="card">
+            <div class="card-header">
+                <strong style="font-size: 25px">Add</strong>
+                <span style="color: #f1c34f; font-size: 20px">Dept</span>
+                <hr width="" style="margin-top: 0" />
+            </div>
+            <div class="card-body card-block">
+                <form action="#"
+                      method="post"
+                      enctype="multipart/form-data"
+                      class="form-horizontal">
+                    <div class="row form-group">
+                        <div class="col col-md-3">
+                            <label for="name" class="form-control-label text-black">Dept Name</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <input type="text"
+                                   id="name"
+                                   name="name"
+                                   placeholder="dept name"
+                                   class="form-control" />
+                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                        </div>
+                    </div>
+                    <div class="row form-group mt-4">
+                        <div class="col col-md-3">
+                            <label for="nd" class="form-control-label text-black">No. Doctors</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <input type="number"
+                                   id="nd"
+                                   name="nd"
+                                   placeholder="doctors"
+                                   class="form-control" />
+                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                        </div>
+                    </div>
+                    <div class="row form-group mt-4">
+                        <div class="col col-md-3">
+                            <label for="nn" class="form-control-label text-black">No. Nurses</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <input type="number"
+                                   id="nn"
+                                   name="nn"
+                                   placeholder="nurses"
+                                   class="form-control" />
+                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                        </div>
+                    </div>
+                    <div class="row form-group mt-4">
+                        <div class="col col-md-3">
+                            <label for="sp" class="form-control-label text-black">Availability</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <select name="spec" id="sp" class="form-control">
+                                <option value="0">Please select</option>
+                                <option value="1">available</option>
+                                <option value="2">not available</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="card-footer"
+                         style="
+                    display: flex;
+                    justify-content: space-between;
+                    margin-top: 25px;
+                    background-color: white;
+                  ">
+                        <button type="submit"
+                                class="btn btn-outline-primary btn-sm mx-4">
+                            <i class="fas fa-paper-plane"></i> Submit
+                        </button>
+                        <button type="reset" class="btn btn-outline-danger btn-sm">
+                            <i class="fas fa-ban"></i> Reset
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <footer class="footer text-center text-muted">
+            All Rights Reserved &copy; Copyright.
+            <a href="#">Before Others</a>.
+        </footer>
+    </div>
+</div>

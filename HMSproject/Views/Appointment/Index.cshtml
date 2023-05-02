@@ -1,0 +1,75 @@
+@using NuGet.Common
+@using Azure
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using System.Security.Claims
+@model IEnumerable<HMSproject.Models.Appointment>
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="text-align: center;margin: 70px 0 30px;">Your last Appointments you made</h1>
+<hr/>
+
+<table class="table " style="width: 70%;margin: 20px auto;font-size: 16px;text-align: center;">
+    <thead>
+    <tr>
+        <th>Patient Name</th>
+        <th>Department Name</th>
+        <th>@Html.DisplayNameFor(model => model.Day)</th>
+        <th>@Html.DisplayNameFor(model => model.Status)</th>
+        <th>Price</th>
+        <th>Options</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        var userId = HttpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
+        if (item.PatientID!=userId)continue;
+        <tr >
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Day)
+            </td>
+            @if (item.Status == 0)
+            {
+                <td>Cash</td>
+            }
+            else
+            {
+                <td>Online</td>
+            }
+            <th>
+                @if (item.Status == 0)
+                {
+                    @item.Department.app_price<span>$</span>
+                }
+                else
+                {
+                    <span>0$</span>
+                }
+               
+            </th>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+
+<p>
+    <a class="btn btn-main-2 btn-icon btn-round-full" asp-action="Create">Make New one<i class="icofont-simple-right ml-2"></i></a>
+</p>

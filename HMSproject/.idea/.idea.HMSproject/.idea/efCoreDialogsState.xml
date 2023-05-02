@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:0f37d63f-b752-4df6-a587-d6b6fb5c6b8c:dbContext" value="HMSproject.Models.HmsContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:noBuild" value="false" />
+      </map>
+    </option>
+  </component>
+</project>

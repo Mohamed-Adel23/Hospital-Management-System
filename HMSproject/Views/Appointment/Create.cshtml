@@ -1,0 +1,49 @@
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model HMSproject.Models.Appointment
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="text-align: center;margin: 70px 0 30px;">Make an Appointment</h1>
+
+<hr />
+<div class="row" style="width: 60%;margin: 100px auto;">
+    @* <div class="col-md-4"> *@
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Day" class="control-label">Department</label>
+                <select class="form-select" asp-for="DepartmentID" asp-items="@ViewBag.deptList"></select>
+                <span asp-validation-for="DepartmentID" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Day" class="control-label">Day</label>
+                <select asp-for="Day" class="form-select" asp-items="@ViewBag.dayList">
+                </select>
+                <span asp-validation-for="Day" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group mb-3">
+                <label asp-for="Status" class="control-label">Payment method </label>
+                <select asp-for="Status" class="form-select" asp-items="@ViewBag.payList">
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" style="padding: 13px 0;width: 30%;border-radius: 10px;border: none;transition-duration: .5s;" class="btn-primary" />
+            </div>
+            <div>
+                <a class="btn btn-main-2 btn-round-full mt-3"
+                   asp-controller="Appointment" asp-action="Index"
+                   style="background: #2196F3;
+                          color: #fff;
+                          border-color: #03A9F4;
+                          margin-left: 0">Show my appointments<i class="icofont-simple-right ml-2"></i></a>
+            </div>
+        </form>
+    @* </div> *@
+</div>
+
+

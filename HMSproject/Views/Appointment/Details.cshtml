@@ -1,0 +1,64 @@
+@model HMSproject.Models.Appointment
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 style="text-align: center;margin: 70px 0 30px;">Details about this Appointment?</h3>
+<div >
+    <hr />
+    <dl class="row" style=" width: 50%;margin: auto;border: 1px solid;">
+        <dt class = "col-sm-4">
+            Patient Name :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Patient.Name)
+        </dd>
+        <dt class = "col-sm-4">
+            Department Name :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Department.Name)
+        </dd>
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Day) :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Day)
+        </dd>
+        
+        <dt class = "col-sm-4">
+            Price :
+        </dt>
+        <dd class="col-sm-8">
+            @if (Model.Status == 0)
+            {
+                @Html.DisplayFor(model => model.Department.app_price)<span>$</span>
+            }
+            else
+            {
+                <span>0$</span>
+            }
+            
+        </dd>
+
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Status) :
+        </dt>
+        <dd class = "col-sm-8">
+            @if (Model.Status == 0)
+            {
+                <td>Cash</td>
+            }
+            else
+            {
+                <td>Online</td>
+            }
+        </dd>
+    </dl>
+</div>
+<div style="margin-bottom: 40px ;display: flex;justify-content: center ">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning">Edit</a>
+    <a asp-action="Index" class="btn btn-info">Back to List</a>
+</div>

@@ -1,4 +1,10 @@
-﻿<div class="row">
+﻿@using hmsAdmin.Models;
+
+
+@model Doctor
+
+
+<div class="row">
     <div class="col-2"></div>
     <div class="col-9 mt-5 pt-5 mx-5 px-5">
         <div class="card">
@@ -8,8 +14,8 @@
                 <hr width="" style="margin-top: 0" />
             </div>
             <div class="card-body card-block">
-                <form action="#"
-                      method="post"
+                <form method="POST"
+                      asp-action="Create"
                       enctype="multipart/form-data"
                       class="form-horizontal">
                     <div class="row form-group">
@@ -19,10 +25,10 @@
                         <div class="col-12 col-md-9">
                             <input type="text"
                                    id="name"
-                                   name="name"
+                                   asp-for="Name"
                                    placeholder="dr name"
                                    class="form-control" />
-                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                            <span asp-validation-for="Name" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="row form-group mt-4">
@@ -32,10 +38,10 @@
                         <div class="col-12 col-md-9">
                             <input type="number"
                                    id="age"
-                                   name="age"
+                                   asp-for="Age"
                                    placeholder="dr age"
                                    class="form-control" />
-                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                            <span asp-validation-for="Age" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="row form-group mt-4">
@@ -45,10 +51,10 @@
                         <div class="col-12 col-md-9">
                             <input type="number"
                                    id="exp"
-                                   name="exp"
+                                   asp-for="Experience"
                                    placeholder="dr exp."
                                    class="form-control" />
-                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                            <span asp-validation-for="Experience" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="row form-group mt-4">
@@ -58,12 +64,23 @@
                         <div class="col-12 col-md-9">
                             <input type="email"
                                    id="email"
-                                   name="email"
+                                   asp-for="Email"
                                    placeholder="dr email"
                                    class="form-control" />
-                            <!-- <small class="help-block form-text"
-                              >Please enter your email</small
-                            > -->
+                            <span asp-validation-for="Email" class="text-danger font-12"></span>
+                        </div>
+                    </div>
+                    <div class="row form-group mt-4">
+                        <div class="col col-md-3">
+                            <label for="ph" class="form-control-label text-black">Phone</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <input type="text"
+                                   id="ph"
+                                   asp-for="Phone"
+                                   placeholder="dr phone"
+                                   class="form-control" />
+                            <span asp-validation-for="Phone" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="row form-group mt-4">
@@ -73,12 +90,10 @@
                         <div class="col-12 col-md-9">
                             <input type="password"
                                    id="password"
-                                   name="password"
+                                   asp-for="Password"
                                    placeholder="dr password"
                                    class="form-control" />
-                            <!-- <small class="help-block form-text"
-                              >Please enter a complex password</small
-                            > -->
+                            <span asp-validation-for="Password" class="text-danger font-12"></span>
                         </div>
                     </div>
 
@@ -88,11 +103,12 @@
                                    class="form-control-label text-black">Address</label>
                         </div>
                         <div class="col-12 col-md-9">
-                            <textarea name="address"
+                            <textarea asp-for="Address"
                                       id="textarea-input"
                                       rows="5"
                                       placeholder="address..."
                                       class="form-control"></textarea>
+                            <span asp-validation-for="Address" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="row form-group mt-4">
@@ -100,11 +116,12 @@
                             <label for="pr" class="form-control-label text-black">Personal Profile</label>
                         </div>
                         <div class="col-12 col-md-9">
-                            <textarea name="profile"
+                            <textarea asp-for="PersonalProfile"
                                       id="pr"
                                       rows="5"
                                       placeholder="..."
                                       class="form-control"></textarea>
+                            <span asp-validation-for="PersonalProfile" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="row form-group mt-4">
@@ -112,12 +129,27 @@
                             <label for="sp" class="form-control-label text-black">Specialization</label>
                         </div>
                         <div class="col-12 col-md-9">
-                            <select name="spec" id="sp" class="form-control">
-                                <option value="0">Please select</option>
-                                <option value="1">Skin</option>
-                                <option value="2">Eyes</option>
-                                <option value="3">Brain</option>
+                            @*@Html.DropDownList("Depts",
+                            ViewBag.DeptNames,
+                            "Please Select..",
+                            new{@class = "form-control"})
+
+                            @Html.DropDownList("Depts",
+                            ViewBag.DeptIds,
+                            "Please Select..",
+                            new{@class = "form-control"})
+
+                            <p>@ViewBag.DeptNames</p>
+                            <p>@ViewBag.DeptIds</p>*@
+
+                            <select class="form-control" asp-for="FkDept">
+                                <option value="" disabled selected>please select..</option>
+                                @foreach (KeyValuePair<int, string> obj in ViewBag.Depts)
+                                {
+                                    <option value="@obj.Key">@obj.Value</option>
+                                }
                             </select>
+                            <span asp-validation-for="FkDept" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="row form-group mt-4">
@@ -125,35 +157,26 @@
                             <label for="gender" class="form-control-label text-black">Gender</label>
                         </div>
                         <div class="col-12 col-md-9">
-                            <select name="gender" id="gender" class="form-control">
-                                <option value="0">Please select</option>
+                            <select class="form-control" asp-for="Gender">
+                                <option disabled selected>please select..</option>
                                 <option value="male">Male</option>
                                 <option value="female">Female</option>
                             </select>
-                        </div>
-                    </div>
-                    <div class="row form-group mt-4">
-                        <div class="col col-md-3">
-                            <label for="sp" class="form-control-label text-black">Availability</label>
-                        </div>
-                        <div class="col-12 col-md-9">
-                            <select name="spec" id="sp" class="form-control">
-                                <option value="0">Please select</option>
-                                <option value="1">available</option>
-                                <option value="2">not available</option>
-                            </select>
+                            <span asp-validation-for="Gender" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="row form-group mt-4">
                         <div class="col col-md-3">
                             <label for="file-input"
-                                   class="form-control-label text-black">Doctor Image</label>
+                            class="form-control-label text-black">Doctor Image</label>
                         </div>
                         <div class="col-12 col-md-9">
                             <input type="file"
-                                   id="file-input"
-                                   name="img"
-                                   class="form-control-file" />
+                            id="file-input"
+                            asp-for="Image"
+                            name="drImage"
+                            class="form-control" />
+                            <span asp-validation-for="Image" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="card-footer"
@@ -167,7 +190,6 @@
                                 class="btn btn-outline-primary btn-sm mx-4">
                             <i class="fas fa-paper-plane"></i> Submit
                         </button>
-                        <span class="font-12 mt-3" style="color: #9aa2eb">CareCoord.com</span>
                         <button type="reset" class="btn btn-outline-danger btn-sm">
                             <i class="fas fa-ban"></i> Reset
                         </button>
@@ -182,3 +204,9 @@
     </div>
 </div>
 
+@* Client Side Validation*@
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

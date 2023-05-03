@@ -1,15 +1,20 @@
-﻿<div class="row">
+﻿@using hmsAdmin.Models
+
+@model Department
+
+
+<div class="row">
     <div class="col-2"></div>
     <div class="col-9 mt-5 pt-5 mx-5 px-5">
         <div class="card">
             <div class="card-header">
                 <strong style="font-size: 25px">Add</strong>
-                <span style="color: #f1c34f; font-size: 20px">Dept</span>
+                <span style="color: #f1c34f; font-size: 20px">Department</span>
                 <hr width="" style="margin-top: 0" />
             </div>
             <div class="card-body card-block">
-                <form action="#"
-                      method="post"
+                <form asp-action="Create"
+                      method="POST"
                       enctype="multipart/form-data"
                       class="form-horizontal">
                     <div class="row form-group">
@@ -19,23 +24,23 @@
                         <div class="col-12 col-md-9">
                             <input type="text"
                                    id="name"
-                                   name="name"
+                                   asp-for="Name"
                                    placeholder="dept name"
                                    class="form-control" />
-                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                            <span asp-validation-for="Name" class="text-danger font-12"></span>
                         </div>
                     </div>
-                    <div class="row form-group mt-4">
+                    @*<div class="row form-group mt-4">
                         <div class="col col-md-3">
                             <label for="nd" class="form-control-label text-black">No. Doctors</label>
                         </div>
                         <div class="col-12 col-md-9">
                             <input type="number"
                                    id="nd"
-                                   name="nd"
+                                   asp-for="DrNumber"
                                    placeholder="doctors"
                                    class="form-control" />
-                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                            <span asp-validation-for="DrNumber" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="row form-group mt-4">
@@ -45,22 +50,23 @@
                         <div class="col-12 col-md-9">
                             <input type="number"
                                    id="nn"
-                                   name="nn"
+                                   asp-for="NsNumber"
                                    placeholder="nurses"
                                    class="form-control" />
-                            <!-- <small class="form-text text-muted">This is a help text</small> -->
+                            <span asp-validation-for="NsNumber" class="text-danger font-12"></span>
                         </div>
-                    </div>
+                    </div>*@
                     <div class="row form-group mt-4">
                         <div class="col col-md-3">
-                            <label for="sp" class="form-control-label text-black">Availability</label>
+                            <label for="name" class="form-control-label text-black">Appointment Cost</label>
                         </div>
                         <div class="col-12 col-md-9">
-                            <select name="spec" id="sp" class="form-control">
-                                <option value="0">Please select</option>
-                                <option value="1">available</option>
-                                <option value="2">not available</option>
-                            </select>
+                            <input type="number"
+                                   id="name"
+                                   asp-for="AppPrice"
+                                   placeholder="cost"
+                                   class="form-control" />
+                            <span asp-validation-for="AppPrice" class="text-danger font-12"></span>
                         </div>
                     </div>
                     <div class="card-footer"
@@ -87,3 +93,10 @@
         </footer>
     </div>
 </div>
+
+@* Client Side Validation*@
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

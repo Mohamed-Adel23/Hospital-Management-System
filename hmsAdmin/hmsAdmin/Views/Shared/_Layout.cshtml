@@ -32,6 +32,9 @@
             href="~/dist/css/icons/font-awesome/css/fontawesome-all.min.css" />
     <link rel="stylesheet"
             href="~/dist/css/icons/font-awesome/css/all.min.css" />
+    <!-- Flash Message -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+
 </head>
 <body style="background-color: #e9eaee">
     <div class="preloader">
@@ -289,20 +292,6 @@
                                 </li>
                             </ul>
                         </li>
-                        <li class="sidebar-item">
-                            <a class="sidebar-link has-arrow" href="#" aria-expanded="false">
-                                <i class="fas fa-clock"></i><span class="hide-menu">Time Table</span>
-                            </a>
-                            <ul aria-expanded="false"
-                                class="collapse first-level base-level-line">
-                                <li class="sidebar-item">
-                                    <a asp-controller="Time" asp-action="Index" class="sidebar-link"><span class="hide-menu text-muted">Show All</span></a>
-                                </li>
-                                <li class="sidebar-item">
-                                    <a asp-controller="Time" asp-action="Create" class="sidebar-link"><span class="hide-menu text-muted">Add New</span></a>
-                                </li>
-                            </ul>
-                        </li>
                         @*<li class="sidebar-item">
                             <a class="sidebar-link has-arrow" href="#" aria-expanded="false">
                                 <i class="fas fa-edit"></i><span class="hide-menu">Blogs</span>
@@ -343,6 +332,9 @@
             <!-- End Sidebar scroll-->
         </aside>
         
+        <!-- Partial Alerts-->
+        <partial name="_Notification" />
+
         @RenderBody()
 
     </div>

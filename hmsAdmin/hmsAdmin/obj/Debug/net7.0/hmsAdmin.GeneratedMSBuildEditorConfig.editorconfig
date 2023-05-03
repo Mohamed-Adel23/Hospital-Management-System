@@ -20,12 +20,28 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Dept/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Dept/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Doctor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Doctor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Doctor/EditImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXRJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Doctor/EditPass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXRQYXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Doctor/Index.cshtml]
@@ -44,6 +60,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Nurse/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Nurse/EditImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcRWRpdEltYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Nurse/EditPass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcRWRpdFBhc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Nurse/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,16 +80,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Time/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZVxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/Time/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web_Development/HMS/hmsAdmin/hmsAdmin/Views/_ViewImports.cshtml]

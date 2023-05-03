@@ -701,6 +701,214 @@
       "PackagePath": "staticwebassets\\dist\\js\\sidebarmenu.min.js"
     },
     {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\0-ben-griffi.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\0-ben-griffi.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\26-flowers.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\26-flowers.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\29-flowers.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\29-flowers.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\29-robot.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\29-robot.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\41-IMG_1130.JPG",
+      "PackagePath": "staticwebassets\\images\\dr\\41-IMG_1130.JPG"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\41-mohamed.JPG",
+      "PackagePath": "staticwebassets\\images\\dr\\41-mohamed.JPG"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\41-road.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\41-road.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\41-water.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\41-water.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\42-physics.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\42-physics.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\43-cloudy.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\43-cloudy.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\44-ben-griffi.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\44-ben-griffi.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\44-lion.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\44-lion.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\45-tree.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\45-tree.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\46-lion.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\46-lion.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\47-road.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\47-road.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\48-cloudy.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\48-cloudy.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\49-Members Name.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\49-Members Name.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\50-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\50-1.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\51-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\51-2.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\52-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\52-1.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\52-chair4.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\52-chair4.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\53-4.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\53-4.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\carecoord-python.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\carecoord-python.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\carecoord-robot.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\carecoord-robot.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\drImage",
+      "PackagePath": "staticwebassets\\images\\dr"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\moh.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\moh.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\ramadan.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\ramadan.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\tree.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\tree.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\dr\\water.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\water.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\10-cloudy.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\10-cloudy.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\11-ramadan.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\11-ramadan.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\12-python.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\12-python.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\12-robot.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\12-robot.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\13-Members Name.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\13-Members Name.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\14-lion.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\14-lion.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\15-2.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\15-2.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\16-2.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\16-2.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\16-test-thumb4.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\16-test-thumb4.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\17-2.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\17-2.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\5-ben-griffi.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\5-ben-griffi.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\5-photo_2022-12-03_14-32-01.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\5-photo_2022-12-03_14-32-01.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\8-IMG_9117.JPG",
+      "PackagePath": "staticwebassets\\images\\ns\\8-IMG_9117.JPG"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\9-flowers.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\9-flowers.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\images\\ns\\9-road.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\9-road.jpg"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\hmsAdmin\\hmsAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.hmsAdmin.props",
       "PackagePath": "build\\hmsAdmin.props"
     },

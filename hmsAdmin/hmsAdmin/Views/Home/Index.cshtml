@@ -1,8 +1,11 @@
-﻿
+﻿@using hmsAdmin.Models
+
+@model Appointment
+
+
+
 <div class="page-wrapper">
-    <!-- ============================================================== -->
-    <!-- Bread crumb and right sidebar toggle -->
-    <!-- ============================================================== -->
+    
     <div class="page-breadcrumb">
         <div class="row">
             <div class="col-7 align-self-center">
@@ -19,16 +22,9 @@
             </div>
         </div>
     </div>
-    <!-- ============================================================== -->
-    <!-- End Bread crumb and right sidebar toggle -->
-    <!-- ============================================================== -->
-    <!-- ============================================================== -->
-    <!-- Container fluid  -->
-    <!-- ============================================================== -->
+    
     <div class="container-fluid">
-        <!-- *************************************************************** -->
-        <!-- Start First Cards -->
-        <!-- *************************************************************** -->
+        
         <div class="row">
             <div class="col-sm-6 col-lg-4">
                 <div class="card border-end">
@@ -99,18 +95,7 @@
                 </div>
             </div>
         </div>
-        <!-- *************************************************************** -->
-        <!-- End First Cards -->
-        <!-- *************************************************************** -->
-        <!-- *************************************************************** -->
-        <!-- Start Sales Charts Section -->
-        <!-- *************************************************************** -->
-        <!-- *************************************************************** -->
-        <!-- End Sales Charts Section -->
-        <!-- *************************************************************** -->
-        <!-- *************************************************************** -->
-        <!-- Start Location and Earnings Charts Section -->
-        <!-- *************************************************************** -->
+        
         <div class="row">
             <div class="col-md-12 col-lg-12">
                 <div class="card">
@@ -143,19 +128,14 @@
                 </div>
             </div>
         </div>
-        <!-- *************************************************************** -->
-        <!-- End Location and Earnings Charts Section -->
-        <!-- *************************************************************** -->
-        <!-- *************************************************************** -->
-        <!-- Start Top Leader Table -->
-        <!-- *************************************************************** -->
+        
         <div class="row">
             <!-- Appointments -->
             <div class="col-12">
                 <div class="card">
                     <div class="card-body">
                         <div class="d-flex align-items-center mb-4">
-                            <h4 class="card-title text-info-emphasis">Appointments</h4>
+                            <h4 class="card-title text-info-emphasis">Latest Appointments</h4>
                             <div class="ms-auto">
                                 <div class="dropdown sub-dropdown">
                                     <button class="btn btn-link text-muted dropdown-toggle"
@@ -175,66 +155,84 @@
                                         <th class="border-0 font-14 font-weight-medium text-muted">
                                             Patient Name
                                         </th>
-                                        <th class="border-0 font-14 font-weight-medium text-muted">
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Patient Age
+                                        </th>
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Patient Phone
+                                        </th>
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Department
+                                        </th>
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
                                             Doctor
                                         </th>
-                                        <th class="border-0 font-14 font-weight-medium text-muted">
-                                            Check-Up
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Day
                                         </th>
-                                        <th class="border-0 font-14 font-weight-medium text-muted">
-                                            Date
-                                        </th>
-                                        <th class="border-0 font-14 font-weight-medium text-muted">
-                                            Time
-                                        </th>
-                                        <th class="border-0 font-14 font-weight-medium text-muted">
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
                                             Status
                                         </th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
-                                        <td class="border-top-0 text-black py-4">
-                                            Mohamed Adel
-                                        </td>
-                                        <td class="border-top-0 text-primary py-4">
-                                            Ali Omar
-                                        </td>
-                                        <td class="border-top-0 py-4 text-info">Dental</td>
-                                        <td class="border-top-0 py-4 text-warning">
-                                            10-11-2023
-                                        </td>
-                                        <td class="border-top-0 font-weight-medium text-warning py-4">
-                                            20:15
-                                        </td>
-                                        <td class="">
-                                            <i class="fa fa-circle text-success font-12"
-                                               data-bs-toggle="tooltip"
-                                               data-placement="top"
-                                               title="completed"></i>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td class="border-top-0 text-black py-4">
-                                            Mohamed Adel
-                                        </td>
-                                        <td class="border-top-0 text-primary py-4">
-                                            Ali Omar
-                                        </td>
-                                        <td class="border-top-0 py-4 text-info">Dental</td>
-                                        <td class="border-top-0 py-4 text-warning">
-                                            10-11-2023
-                                        </td>
-                                        <td class="border-top-0 font-weight-medium text-warning py-4">
-                                            20:15
-                                        </td>
-                                        <td class="">
-                                            <i class="fa fa-circle text-danger font-12"
-                                               data-bs-toggle="tooltip"
-                                               data-placement="top"
-                                               title="cancelled"></i>
-                                        </td>
-                                    </tr>
+                                    @foreach(var obj in ViewBag.App) {
+                                        <tr>
+                                            @if (obj.Status == 1)
+                                            {
+                                                <td class="text-success">
+                                                    @obj.FkPatNavigation.Name
+                                                </td>
+                                            }
+                                            else
+                                            {
+                                                <td class="text-danger">
+                                                    @obj.FkPatNavigation.Name
+                                                </td>
+                                            }
+                                            <td class="text-center">
+                                                @obj.FkPatNavigation.Age
+                                            </td>
+                                            <td class="text-center">
+                                                @obj.FkPatNavigation.Phone
+                                            </td>
+                                            <td class="text-center">@obj.FkDeptNavigation.Name</td>
+
+                                            @foreach (KeyValuePair<int, string> name in ViewBag.Names)
+                                            {
+                                                if (name.Key == obj.FkDept)
+                                                {
+                                                    <td class="text-center">
+                                                        @name.Value
+                                                    </td>
+                                                    break;
+                                                }
+                                            }
+
+                                            <td class="text-center text-orange">
+                                                @obj.day
+                                            </td>
+                                            @if (obj.Status == 1)
+                                            {
+                                                <td class="text-center">
+                                                    <i class="fa fa-circle text-success font-12"
+                                                       data-bs-toggle="tooltip"
+                                                       data-placement="top"
+                                                       title="completed"></i>
+                                                </td>
+                                            }
+                                            else
+                                            {
+                                                <td class="text-center">
+                                                    <i class="fa fa-circle text-danger font-12"
+                                                       data-bs-toggle="tooltip"
+                                                       data-placement="top"
+                                                       title="cancelled"></i>
+                                                </td>
+                                            }
+                                        </tr>
+                                        break;
+                                    }
                                 </tbody>
                             </table>
                         </div>
@@ -247,7 +245,7 @@
                     <div class="card-body">
                         <div class="d-flex align-items-center mb-4">
                             <h4 class="card-title text-info-emphasis">
-                                Doctors Availability
+                                Doctor Stuff
                             </h4>
                             <div class="ms-auto">
                                 <div class="dropdown sub-dropdown">
@@ -268,39 +266,28 @@
                                         <th class="border-0 font-14 font-weight-medium text-muted">
                                             Doctor
                                         </th>
-                                        <th class="border-0 font-14 font-weight-medium text-muted">
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
                                             Speciality
                                         </th>
-                                        <th class="border-0 font-14 font-weight-medium text-muted">
-                                            Availability
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Year Experience
                                         </th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
-                                        <td class="border-top-0 text-black py-4">
-                                            Mohamed Adel
-                                        </td>
-                                        <td class="border-top-0 text-primary py-4">Skin</td>
-                                        <td class="">
-                                            <i class="fa fa-circle text-success font-12"
-                                               data-bs-toggle="tooltip"
-                                               data-placement="top"
-                                               title="completed"></i>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td class="border-top-0 text-black py-4">
-                                            Mohamed Adel
-                                        </td>
-                                        <td class="border-top-0 text-primary py-4">Skin</td>
-                                        <td class="">
-                                            <i class="fa fa-circle text-success font-12"
-                                               data-bs-toggle="tooltip"
-                                               data-placement="top"
-                                               title="completed"></i>
-                                        </td>
-                                    </tr>
+                                    @foreach(var obj in ViewBag.DrData) {
+                                        <tr>
+                                            <td class="text-black">
+                                                @obj.Name
+                                            </td>
+                                            <td class="text-orange text-center">
+                                                @obj.FkDeptNavigation.Name
+                                            </td>
+                                            <td class="text-danger text-center">
+                                                @obj.Experience
+                                            </td>
+                                        </tr>
+                                    }
                                 </tbody>
                             </table>
                         </div>
@@ -308,21 +295,9 @@
                 </div>
             </div>
         </div>
-        <!-- *************************************************************** -->
-        <!-- End Top Leader Table -->
-        <!-- *************************************************************** -->
     </div>
-    <!-- ============================================================== -->
-    <!-- End Container fluid  -->
-    <!-- ============================================================== -->
-    <!-- ============================================================== -->
-    <!-- footer -->
-    <!-- ============================================================== -->
     <footer class="footer text-center text-muted">
         All Rights Reserved &copy; Copyright.
         <a href="#">Before Others</a>.
     </footer>
-    <!-- ============================================================== -->
-    <!-- End footer -->
-    <!-- ============================================================== -->
 </div>

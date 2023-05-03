@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using hmsAdmin.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Service to use the DbContext and connect to SQL Server
+builder.Services.AddDbContext<HmsContext>(options => options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection")
+    ));
+builder.Services.AddRazorPages();
+// builder.Services.AddTransient<HmsContext>();
 
 var app = builder.Build();
 

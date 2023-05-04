@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mostafayoussef/RiderProjects/HMSproject/HMSproject.csproj": {}
+    "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/HMSproject.csproj": {}
   },
   "projects": {
-    "/Users/mostafayoussef/RiderProjects/HMSproject/HMSproject.csproj": {
+    "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/HMSproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mostafayoussef/RiderProjects/HMSproject/HMSproject.csproj",
+        "projectUniqueName": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/HMSproject.csproj",
         "projectName": "HMSproject",
-        "projectPath": "/Users/mostafayoussef/RiderProjects/HMSproject/HMSproject.csproj",
+        "projectPath": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/HMSproject.csproj",
         "packagesPath": "/Users/mostafayoussef/.nuget/packages/",
-        "outputPath": "/Users/mostafayoussef/RiderProjects/HMSproject/obj/",
+        "outputPath": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mostafayoussef/.nuget/NuGet/NuGet.Config"

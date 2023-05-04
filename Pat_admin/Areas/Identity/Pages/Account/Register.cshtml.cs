@@ -73,12 +73,14 @@ namespace HMSproject.Areas.Identity.Pages.Account
         public class InputModel
         {
             [Required]
-            [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [StringLength(50, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [RegularExpression("^[a-zA-Z]*$",ErrorMessage = "The {0} field must contain only characters.")]
             [Display(Name = "Full Name")]
             public string Name { get; set; }
             
             [Required]
-            [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [StringLength(14, ErrorMessage = "The {0} must be of {2} digits long.", MinimumLength = 14)]
+            [RegularExpression("^[0-9]*$", ErrorMessage = "The {0} field must contain only digits.")]
             [Display(Name = "National ID: (SSN)")]
             public string SSN { get; set; }
 
@@ -96,7 +98,7 @@ namespace HMSproject.Areas.Identity.Pages.Account
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
             [Required]
-            [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [StringLength(20, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
             [DataType(DataType.Password)]
             [Display(Name = "Password")]
             public string Password { get; set; }

@@ -205,7 +205,7 @@
 
                                             @foreach (KeyValuePair<int, string> name in ViewBag.Names)
                                             {
-                                                if (name.Key == obj.FkDept)
+                                                if (name.Key == obj.DepartmentID)
                                                 {
                                                     <td class="text-center">
                                                         @name.Value
@@ -215,7 +215,7 @@
                                             }
 
                                             <td class="text-center text-orange">
-                                                @obj.day
+                                                @obj.Day
                                             </td>
                                             @if (obj.Status == 1)
                                             {

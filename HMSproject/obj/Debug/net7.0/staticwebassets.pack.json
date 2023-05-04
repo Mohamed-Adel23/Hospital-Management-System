@@ -1,631 +1,631 @@
 {
   "Files": [
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/obj/Debug/net7.0/scopedcss/projectbundle/HMSproject.bundle.scp.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/obj/Debug/net7.0/scopedcss/projectbundle/HMSproject.bundle.scp.css",
       "PackagePath": "staticwebassets/HMSproject.bundle.scp.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/.DS_Store",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/css/bootstrap.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/css/bootstrap.css",
       "PackagePath": "staticwebassets/css/bootstrap.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/css/site.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/favicon.ico",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/js/site.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/.DS_Store",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/.DS_Store",
       "PackagePath": "staticwebassets/theme/.DS_Store"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/appoinment.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/appoinment.html",
       "PackagePath": "staticwebassets/theme/appoinment.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/confirmation.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/confirmation.html",
       "PackagePath": "staticwebassets/theme/confirmation.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/contact.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/contact.html",
       "PackagePath": "staticwebassets/theme/contact.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/css/style.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/css/style.css",
       "PackagePath": "staticwebassets/theme/css/style.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/css/style.css.map",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/css/style.css.map",
       "PackagePath": "staticwebassets/theme/css/style.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/department-single.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/department-single.html",
       "PackagePath": "staticwebassets/theme/department-single.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/department.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/department.html",
       "PackagePath": "staticwebassets/theme/department.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/doc_profile.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/doc_profile.html",
       "PackagePath": "staticwebassets/theme/doc_profile.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/doctor-single.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/doctor-single.html",
       "PackagePath": "staticwebassets/theme/doctor-single.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/doctor.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/doctor.html",
       "PackagePath": "staticwebassets/theme/doctor.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/.DS_Store",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/.DS_Store",
       "PackagePath": "staticwebassets/theme/images/.DS_Store"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/05.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/05.png",
       "PackagePath": "staticwebassets/theme/images/about/05.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/1.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/1.png",
       "PackagePath": "staticwebassets/theme/images/about/1.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/2.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/2.png",
       "PackagePath": "staticwebassets/theme/images/about/2.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/3.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/3.png",
       "PackagePath": "staticwebassets/theme/images/about/3.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/4.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/4.png",
       "PackagePath": "staticwebassets/theme/images/about/4.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/5.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/5.png",
       "PackagePath": "staticwebassets/theme/images/about/5.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/6.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/6.png",
       "PackagePath": "staticwebassets/theme/images/about/6.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/about-1.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/about-1.jpg",
       "PackagePath": "staticwebassets/theme/images/about/about-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/about-2.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/about-2.jpg",
       "PackagePath": "staticwebassets/theme/images/about/about-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/about-3.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/about-3.jpg",
       "PackagePath": "staticwebassets/theme/images/about/about-3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/about-4.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/about-4.jpg",
       "PackagePath": "staticwebassets/theme/images/about/about-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/img-1.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/img-1.jpg",
       "PackagePath": "staticwebassets/theme/images/about/img-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/img-2.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/img-2.jpg",
       "PackagePath": "staticwebassets/theme/images/about/img-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/img-3.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/img-3.jpg",
       "PackagePath": "staticwebassets/theme/images/about/img-3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/about/sign.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/about/sign.png",
       "PackagePath": "staticwebassets/theme/images/about/sign.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/bg/22.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/bg/22.jpg",
       "PackagePath": "staticwebassets/theme/images/bg/22.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/bg/banner.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/bg/banner.jpg",
       "PackagePath": "staticwebassets/theme/images/bg/banner.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/bg/bg-2.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/bg/bg-2.jpg",
       "PackagePath": "staticwebassets/theme/images/bg/bg-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/bg/bg-4.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/bg/bg-4.jpg",
       "PackagePath": "staticwebassets/theme/images/bg/bg-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/bg/slider-bg-1.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/bg/slider-bg-1.jpg",
       "PackagePath": "staticwebassets/theme/images/bg/slider-bg-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/blog/blog-1.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/blog/blog-1.jpg",
       "PackagePath": "staticwebassets/theme/images/blog/blog-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/blog/blog-2.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/blog/blog-2.jpg",
       "PackagePath": "staticwebassets/theme/images/blog/blog-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/blog/blog-4.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/blog/blog-4.jpg",
       "PackagePath": "staticwebassets/theme/images/blog/blog-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/blog/blog-6.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/blog/blog-6.jpg",
       "PackagePath": "staticwebassets/theme/images/blog/blog-6.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/blog/blog-7.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/blog/blog-7.jpg",
       "PackagePath": "staticwebassets/theme/images/blog/blog-7.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/blog/blog-8.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/blog/blog-8.jpg",
       "PackagePath": "staticwebassets/theme/images/blog/blog-8.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/blog/testimonial1.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/blog/testimonial1.jpg",
       "PackagePath": "staticwebassets/theme/images/blog/testimonial1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/blog/testimonial2.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/blog/testimonial2.jpg",
       "PackagePath": "staticwebassets/theme/images/blog/testimonial2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/favicon.ico",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/favicon.ico",
       "PackagePath": "staticwebassets/theme/images/favicon.ico"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/favicon.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/favicon.png",
       "PackagePath": "staticwebassets/theme/images/favicon.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/logo.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/logo.png",
       "PackagePath": "staticwebassets/theme/images/logo.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/marker.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/marker.png",
       "PackagePath": "staticwebassets/theme/images/marker.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/profilePic.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/profilePic.png",
       "PackagePath": "staticwebassets/theme/images/profilePic.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/service/bg-1.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/service/bg-1.jpg",
       "PackagePath": "staticwebassets/theme/images/service/bg-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/service/service-1.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/service/service-1.jpg",
       "PackagePath": "staticwebassets/theme/images/service/service-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/service/service-2.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/service/service-2.jpg",
       "PackagePath": "staticwebassets/theme/images/service/service-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/service/service-3.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/service/service-3.jpg",
       "PackagePath": "staticwebassets/theme/images/service/service-3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/service/service-4.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/service/service-4.jpg",
       "PackagePath": "staticwebassets/theme/images/service/service-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/service/service-6.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/service/service-6.jpg",
       "PackagePath": "staticwebassets/theme/images/service/service-6.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/service/service-8.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/service/service-8.jpg",
       "PackagePath": "staticwebassets/theme/images/service/service-8.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/slogan.png",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/slogan.png",
       "PackagePath": "staticwebassets/theme/images/slogan.png"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/team/1.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/team/1.jpg",
       "PackagePath": "staticwebassets/theme/images/team/1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/team/2.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/team/2.jpg",
       "PackagePath": "staticwebassets/theme/images/team/2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/team/3.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/team/3.jpg",
       "PackagePath": "staticwebassets/theme/images/team/3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/team/4.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/team/4.jpg",
       "PackagePath": "staticwebassets/theme/images/team/4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/team/test-thumb1.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/team/test-thumb1.jpg",
       "PackagePath": "staticwebassets/theme/images/team/test-thumb1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/team/test-thumb2.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/team/test-thumb2.jpg",
       "PackagePath": "staticwebassets/theme/images/team/test-thumb2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/team/test-thumb3.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/team/test-thumb3.jpg",
       "PackagePath": "staticwebassets/theme/images/team/test-thumb3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/images/team/test-thumb4.jpg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/images/team/test-thumb4.jpg",
       "PackagePath": "staticwebassets/theme/images/team/test-thumb4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/index.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/index.html",
       "PackagePath": "staticwebassets/theme/index.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/js/script.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/js/script.js",
       "PackagePath": "staticwebassets/theme/js/script.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/js/validation.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/js/validation.js",
       "PackagePath": "staticwebassets/theme/js/validation.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/js/validation2.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/js/validation2.js",
       "PackagePath": "staticwebassets/theme/js/validation2.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/login.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/login.html",
       "PackagePath": "staticwebassets/theme/login.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/bootstrap/bootstrap.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/theme/plugins/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/bootstrap/bootstrap.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/bootstrap/bootstrap.min.js",
       "PackagePath": "staticwebassets/theme/plugins/bootstrap/bootstrap.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/google-map/gmap.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/google-map/gmap.js",
       "PackagePath": "staticwebassets/theme/plugins/google-map/gmap.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/icofont/demo.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/icofont/demo.html",
       "PackagePath": "staticwebassets/theme/plugins/icofont/demo.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/icofont/fonts/icofont.eot",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/icofont/fonts/icofont.eot",
       "PackagePath": "staticwebassets/theme/plugins/icofont/fonts/icofont.eot"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/icofont/fonts/icofont.ttf",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/icofont/fonts/icofont.ttf",
       "PackagePath": "staticwebassets/theme/plugins/icofont/fonts/icofont.ttf"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/icofont/fonts/icofont.woff",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/icofont/fonts/icofont.woff",
       "PackagePath": "staticwebassets/theme/plugins/icofont/fonts/icofont.woff"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/icofont/fonts/icofont.woff2",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/icofont/fonts/icofont.woff2",
       "PackagePath": "staticwebassets/theme/plugins/icofont/fonts/icofont.woff2"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/icofont/icofont.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/icofont/icofont.css",
       "PackagePath": "staticwebassets/theme/plugins/icofont/icofont.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/icofont/icofont.min.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/icofont/icofont.min.css",
       "PackagePath": "staticwebassets/theme/plugins/icofont/icofont.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/jquery/jquery.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/jquery/jquery.js",
       "PackagePath": "staticwebassets/theme/plugins/jquery/jquery.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/shuffle/shuffle.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/shuffle/shuffle.min.js",
       "PackagePath": "staticwebassets/theme/plugins/shuffle/shuffle.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/ajax-loader.gif",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/ajax-loader.gif",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/ajax-loader.gif"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/config.rb",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/config.rb",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/config.rb"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.eot",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.eot",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/fonts/slick.eot"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.svg",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.svg",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/fonts/slick.svg"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.ttf",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.ttf",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/fonts/slick.ttf"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.woff",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.woff",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/fonts/slick.woff"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick-theme.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick-theme.css",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick-theme.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick-theme.less",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick-theme.less",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick-theme.less"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick-theme.scss",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick-theme.scss",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick-theme.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.css",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.css",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.css"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.js",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.less",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.less",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.less"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.min.js",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.min.js",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.scss",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/plugins/slick-carousel/slick/slick.scss",
       "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/service.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/service.html",
       "PackagePath": "staticwebassets/theme/service.html"
     },
     {
-      "Id": "/Users/mostafayoussef/RiderProjects/HMSproject/wwwroot/theme/signup.html",
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/theme/signup.html",
       "PackagePath": "staticwebassets/theme/signup.html"
     },
     {

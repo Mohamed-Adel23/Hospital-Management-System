@@ -13,7 +13,7 @@
                                                           background-color: #5b6d93;
                                                           border-radius: 20px;
                                                           vertical-align: baseline;
-                                                          padding-right: inherit;" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello Mostafa!
+                                                          padding-right: inherit;" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @UserManager.GetUserAsync(User).Result.Name
       @try
       {
           <img style="width: 30px;height: 30px; top: -1.28px;position: relative;right: -5px;" class="rounded-circle" alt="profile" src="data:image/*;base64,@(Convert.ToBase64String(UserManager.GetUserAsync(User).Result.profilePic))" />

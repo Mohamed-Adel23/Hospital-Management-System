@@ -1,4 +1,4 @@
-﻿@*@{
+﻿@{
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
 
@@ -20,7 +20,7 @@
                             <tr>
                                 <th>Patient Name</th>
                                 <th class="text-center">Patient Age</th>
-                                <th class="text-center">Patient Phone</th>
+                                @*<th class="text-center">Patient Phone</th>*@
                                 <th class="text-center">Department</th>
                                 <th class="text-center">Doctor</th>
                                 <th class="text-center">Day</th>
@@ -33,26 +33,26 @@
                                     @if (obj.Status == 1)
                                     {
                                         <td class="text-success">
-                                            @obj.PatientID.
+                                            @obj.Patient.Name
                                         </td>
                                     }
                                     else
                                     {
                                         <td class="text-danger">
-                                            @obj.FkPatNavigation.Name
+                                            @obj.Patient.Name
                                         </td>
                                     }
                                     <td class="text-center">
-                                        @obj.FkPatNavigation.Age
+                                        @obj.Patient.Age
                                     </td>
-                                    <td class="text-center">
-                                        @obj.FkPatNavigation.Phone
-                                    </td>
-                                    <td class="text-center">@obj.FkDeptNavigation.Name</td>
+                                    @*<td class="text-center">
+                                        @obj.Patient.Phone
+                                    </td>*@
+                                    <td class="text-center">@obj.Department.Name</td>
 
                                     @foreach (KeyValuePair<int, string> name in ViewBag.Names)
                                     {
-                                        if (name.Key == obj.FkDept)
+                                        if (name.Key == obj.DepartmentID)
                                         {
                                             <td class="text-center">
                                                 @name.Value
@@ -62,7 +62,7 @@
                                     }
                                    
                                     <td class="text-center text-orange">
-                                        @obj.day
+                                        @obj.Day
                                     </td>
                                     @if (obj.Status == 1)
                                     {
@@ -95,4 +95,4 @@
             <a href="#">Before Others</a>.
         </footer>
     </div>
-</div>*@
+</div>

@@ -134,7 +134,7 @@
             </div>
         </div>
         
-        @*<div class="row">
+        <div class="row">
             <!-- Appointments -->
             <div class="col-12">
                 <div class="card">
@@ -163,9 +163,9 @@
                                         <th class="border-0 font-14 font-weight-medium text-muted text-center">
                                             Patient Age
                                         </th>
-                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                        @*<th class="border-0 font-14 font-weight-medium text-muted text-center">
                                             Patient Phone
-                                        </th>
+                                        </th>*@
                                         <th class="border-0 font-14 font-weight-medium text-muted text-center">
                                             Department
                                         </th>
@@ -186,22 +186,22 @@
                                             @if (obj.Status == 1)
                                             {
                                                 <td class="text-success">
-                                                    @obj.FkPatNavigation.Name
+                                                    @obj.Patient.Name
                                                 </td>
                                             }
                                             else
                                             {
                                                 <td class="text-danger">
-                                                    @obj.FkPatNavigation.Name
+                                                    @obj.Patient.Name
                                                 </td>
                                             }
                                             <td class="text-center">
-                                                @obj.FkPatNavigation.Age
+                                                @obj.Patient.Age
                                             </td>
-                                            <td class="text-center">
+                                            @*<td class="text-center">
                                                 @obj.FkPatNavigation.Phone
-                                            </td>
-                                            <td class="text-center">@obj.FkDeptNavigation.Name</td>
+                                            </td>*@
+                                            <td class="text-center">@obj.Department.Name</td>
 
                                             @foreach (KeyValuePair<int, string> name in ViewBag.Names)
                                             {
@@ -299,7 +299,7 @@
                     </div>
                 </div>
             </div>
-        </div>*@
+        </div>
     </div>
     <footer class="footer text-center text-muted">
         All Rights Reserved &copy; Copyright.

@@ -17,32 +17,32 @@ namespace HMSproject.Controllers
 
 		public IActionResult Index()
         {
-            //var dr = _db.Doctors.FromSql($"SELECT * FROM Doctors");
-            //var dp = _db.Departments.FromSql($"SELECT * FROM Departments");
+            var dr = _db.Doctors.FromSql($"SELECT * FROM doctors");
+            var dp = _db.Departments.FromSql($"SELECT * FROM departments");
 
-            //Dictionary<int, string> names = new Dictionary<int, string>();
-            //foreach (var d in dr)
-            //{
-            //    if(d.FkDept == null) continue;
-            //    foreach (var d2 in dp)
-            //    {
-            //        if (d2.Id == d.FkDept)
-            //        {
-            //            if (!names.ContainsKey(d2.Id))
-            //            {
-            //                names.Add(d2.Id, d.Name);
+            Dictionary<int, string> names = new Dictionary<int, string>();
+            foreach (var d in dr)
+            {
+                if (d.FkDept == null) continue;
+                foreach (var d2 in dp)
+                {
+                    if (d2.Id == d.FkDept)
+                    {
+                        if (!names.ContainsKey(d2.Id))
+                        {
+                            names.Add(d2.Id, d.Name);
 
-            //                break;
-            //            }
-            //        }
-            //    }
-            //}
-            //ViewBag.Names = names;
-            //var appData = _db.Appointments.Include(pat => pat.PatientID).Include(dept => dept.DepartmentID).ToList();
-            //ViewBag.App = appData;
+                            break;
+                        }
+                    }
+                }
+            }
+            ViewBag.Names = names;
+            var appData = _db.Appointments.Include(pat => pat.Patient).Include(dept => dept.Department).ToList();
+            ViewBag.App = appData;
 
-            //var drData = _db.Doctors.Include(dept => dept.FkDeptNavigation).ToList();
-            //ViewBag.DrData = drData;
+            var drData = _db.Doctors.Include(dept => dept.FkDeptNavigation).ToList();
+            ViewBag.DrData = drData;
 
             return View();
         }
@@ -77,7 +77,7 @@ namespace HMSproject.Controllers
             }
             ViewBag.Names = names;
 
-            IEnumerable<Appointment> appData = _db.Appointments.Include(pat => pat.PatientID).Include(dept => dept.DepartmentID).ToList();
+            IEnumerable<Appointment> appData = _db.Appointments.Include(pat => pat.Patient).Include(dept => dept.Department).ToList();
             return View(appData);
         }
     }

@@ -17,8 +17,8 @@ public partial class Appointment
     public string? PatientID { get; set; }
 
     [Required]
+    //[Display(Name = "Department")]
     [ForeignKey("Department")]
-    [Display(Name = "Department")]
     public int DepartmentID { get; set; }
 
     [Required]
@@ -26,12 +26,16 @@ public partial class Appointment
     [Required]
     public int? Status { get; set; }
 
+    [InverseProperty("Appointments")]
     public virtual Department? Department { get; set; }
 
+    [InverseProperty("Appointments")]
     public virtual Patient? Patient { get; set; }
 
+    [InverseProperty("FkAppNavigation")]
     public virtual ICollection<Diagnose> Diagnoses { get; set; } = new List<Diagnose>();
 
+    [InverseProperty("FkAppNavigation")]
     public virtual ICollection<Lab> Labs { get; set; } = new List<Lab>();
 
     //[Key]

@@ -1,0 +1,72 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+@using HMSproject.Models;
+
+@model IEnumerable<Doctor>
+
+
+<div class="row">
+    <div class="col-2"></div>
+    <div class="col-9 mt-5 pt-5 mx-5 px-5">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title text-dark mb-4 mt-2">Doctors List</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class="bg-dark text-white">
+                            <tr>
+                                <th class="text-center">Image</th>
+                                <th class="text-center">Doctor Name</th>
+                                @*<th class="text-center">Gender</th>*@
+                                <th class="text-center">Experience <small>(years)</small></th>
+                                <th class="text-center">Phone</th>
+                                <th class="text-center">Specialization</th>
+                                <th class="text-center">operations</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach(var obj in Model) {
+                                <tr>
+                                    <td class="text-center text-black">
+                                        <img src="~/images/dr/@obj.Image" height="40px" width="50px" alt="DrImage">
+                                    </td>
+                                    <td class="text-center text-dark">@obj.Name</td>
+                                    @*<td class="text-center">@obj.Gender</td>*@
+                                    <td class="text-center">@obj.Experience</td>
+                                    <td class="text-center">@obj.Phone</td>
+                                    <td class="text-center text-dark">@obj.FkDeptNavigation.Name</td>
+                                    
+                                    <td class="text-center">
+                                        <div class="w-90 btn-group" role="group">
+                                            <a asp-controller="Doctor" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-outline-primary mx-1">
+                                                <i class="fas fa-pencil" ></i>
+                                            </a>
+                                            <a asp-controller="Doctor" asp-action="EditPass" asp-route-id="@obj.Id" class="btn btn-outline-primary mx-1">
+                                                <i class="fas fa-key"></i>
+                                            </a>
+                                            <a asp-controller="Doctor" asp-action="EditImage" asp-route-id="@obj.Id" class="btn btn-outline-primary mx-1">
+                                                <i class="fas fa-image"></i>
+                                            </a>
+                                            <form method="POST" asp-action="Delete" asp-route-id="@obj.Id">
+                                                <button type="submit" class="btn btn-outline-danger">
+                                                    <i class="fas fa-trash"></i>
+                                                </button>
+                                            </form>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <footer class="footer text-center text-muted mx-5">
+            All Rights Reserved &copy; Copyright.
+            <a href="#">Before Others</a>.
+        </footer>
+    </div>
+</div>

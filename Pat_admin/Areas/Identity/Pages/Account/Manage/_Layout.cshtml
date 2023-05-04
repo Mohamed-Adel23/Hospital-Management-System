@@ -1,0 +1,15 @@
+﻿@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout) && parentLayout !=  null)
+    {
+        Layout = parentLayout.ToString();
+    }
+    else
+    {
+        Layout = "_Layout.cshtml";
+    }
+}
+
+@RenderBody()
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}

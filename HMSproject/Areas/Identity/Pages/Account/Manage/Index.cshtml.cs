@@ -56,26 +56,35 @@ namespace HMSproject.Areas.Identity.Pages.Account.Manage
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
+            
             [Phone]
             [Display(Name = "Phone number")]
+            [StringLength(11, ErrorMessage = "The {0} must be at of {2} digits long.", MinimumLength = 11)]
+            [RegularExpression("^[0-9]*$",ErrorMessage = "The {0} field must contain only digits.")]
             public string? PhoneNumber { get; set; }
             
+            [StringLength(6, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 4)]
+            [RegularExpression("^[a-zA-Z]*$", ErrorMessage = "The {0} field must contain only characters.")]
             [Display(Name = "Gender")]
             public string? Gender { get; set; }
             
             [Display(Name = "Age")]
+            [Range(0,100,ErrorMessage = "The age must be between {1} and {2}")]
             public int? Age { get; set; }
             
+            [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 4)]
             [Display(Name = "Address")]
             public string? Address { get; set; }
             
             [Required]
-            [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [StringLength(50, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [RegularExpression("^[a-zA-Z]*$",ErrorMessage = "The {0} field must contain only characters.")]
             [Display(Name = "Full Name")]
             public string? Name { get; set; }
             
             [Required]
-            [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [StringLength(14, ErrorMessage = "The {0} must be of {2} digits long.", MinimumLength = 14)]
+            [RegularExpression("^[0-9]*$", ErrorMessage = "The {0} field must contain only digits.")]
             [Display(Name = "National ID: (SSN)")]
             public string SSN { get; set; }
             

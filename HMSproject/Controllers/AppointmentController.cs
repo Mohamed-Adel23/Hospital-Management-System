@@ -121,7 +121,7 @@ namespace HMSproject.Controllers
             {
                 appointment.PatientID = _userManager.GetUserId(User);
                 appointment.Day = getDay(appointment.Day);
-                appointment.Id = _context.Appointments.Max(i => i.Id) + 1;
+                // appointment.Id = _context.Appointments.Max(i => i.Id) + 1;
                 _context.Add(appointment);
                 await _context.SaveChangesAsync();
                 TempData["Day"] = appointment.Day;

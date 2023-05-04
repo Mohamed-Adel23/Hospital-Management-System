@@ -98,7 +98,7 @@ namespace HMSproject.Controllers
                     // Upload The Image To wwwroot Folder
                     string imageName = drImage.FileName;
                     imageName = $"{obj.Id}-" + Path.GetFileName(imageName);
-                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\dr", imageName);
+                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\admin_theme\\images\\dr", imageName);
                     var stream = new FileStream(uploadFilePath, FileMode.Create);
                     drImage.CopyToAsync(stream);
                     // Using SQL Queries To Update The Image 
@@ -306,7 +306,7 @@ namespace HMSproject.Controllers
                     // Upload The Image To wwwroot Folder
                     string imageName = drImage.FileName;
                     imageName = $"{obj.Id}-" + Path.GetFileName(imageName);
-                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\dr", imageName);
+                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\admin_theme\\images\\dr", imageName);
                     var stream = new FileStream(uploadFilePath, FileMode.Create);
                     drImage.CopyToAsync(stream);
                     // Using SQL Queries To Update The Image 

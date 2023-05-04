@@ -10,8 +10,11 @@ public partial class Department
 {
     public int Id { get; set; }
 
+    [StringLength(50, MinimumLength = 3, ErrorMessage = "Dept name must be between 3 and 50 characters")]
     public string Name { get; set; } = null!;
 
+    [DisplayName("Appointment Cost")]
+    [Range(10, 1000, ErrorMessage = "Cost must be between 10 and 1000")]
     public int app_price { get; set; }
 
     [InverseProperty("Department")]

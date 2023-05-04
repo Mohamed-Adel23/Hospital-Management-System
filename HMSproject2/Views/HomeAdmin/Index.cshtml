@@ -1,0 +1,308 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+@using HMSproject.Models
+
+@model Appointment
+
+
+
+<div class="page-wrapper">
+    
+    <div class="page-breadcrumb">
+        <div class="row">
+            <div class="col-7 align-self-center">
+                <h3 class="page-title text-truncate text-dark font-weight-medium mb-1">
+                    <i class="fas fa-sun fa-2x text-warning px-2"></i>
+                    Good Morning <span class="text-muted">Mohamed!</span>
+                </h3>
+            </div>
+            <div class="col-5 align-self-center">
+                <div class="customize-input float-end">
+                    <span class="text-muted px-2 font-18">Apr 5</span>
+                    <i class="fas fa-calendar-alt text-dark"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container-fluid">
+        
+        <div class="row">
+            <div class="col-sm-6 col-lg-4">
+                <div class="card border-end">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+                            <div>
+                                <div class="d-inline-flex align-items-center">
+                                    <h2 class="text-dark mb-1 font-weight-medium">1000</h2>
+                                    <span class="badge bg-success font-12 text-white font-weight-medium rounded-pill ms-2 d-lg-block d-md-none">+18.33%</span>
+                                </div>
+                                <h6 class="text-muted font-weight-normal mb-0 w-100 text-truncate">
+                                    Patients
+                                </h6>
+                            </div>
+                            <div class="ms-auto mt-md-3 mt-lg-0">
+                                <span class="opacity-7 text-muted">
+                                    <i class="fas fa-bed-pulse fa-2x text-primary"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-4">
+                <div class="card border-end">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+                            <div>
+                                <div class="d-inline-flex align-items-center">
+                                    <h2 class="text-dark mb-1 font-weight-medium">
+                                        <small>$</small>10,005
+                                    </h2>
+                                    <span class="badge bg-danger font-12 text-white font-weight-medium rounded-pill ms-2 d-lg-block d-md-none">-10%</span>
+                                </div>
+                                <h6 class="text-muted font-weight-normal mb-0 w-100 text-truncate">
+                                    Earnings of Month
+                                </h6>
+                            </div>
+                            <div class="ms-auto mt-md-3 mt-lg-0">
+                                <span class="opacity-7 text-muted">
+                                    <i class="fas fa-dollar-sign fa-2x text-orange"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-4">
+                <div class="card border-end">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+                            <div>
+                                <div class="d-inline-flex align-items-center">
+                                    <h2 class="text-dark mb-1 font-weight-medium">423</h2>
+                                    <span class="badge bg-success font-12 text-white font-weight-medium rounded-pill ms-2 d-lg-block d-md-none">+30.45%</span>
+                                </div>
+                                <h6 class="text-muted font-weight-normal mb-0 w-100 text-truncate">
+                                    Appointments
+                                </h6>
+                            </div>
+                            <div class="ms-auto mt-md-3 mt-lg-0">
+                                <span class="opacity-7 text-muted">
+                                    <i class="fas fa-chart-bar fa-2x text-danger"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex align-items-start">
+                            <h4 class="card-title mb-0 text-info-emphasis">
+                                Appointments Day By Day
+                            </h4>
+                            <div class="ms-auto">
+                                <div class="dropdown sub-dropdown">
+                                    <button class="btn btn-link text-muted dropdown-toggle"
+                                            type="button"
+                                            id="dd1"
+                                            data-bs-toggle="dropdown"
+                                            aria-haspopup="true"
+                                            aria-expanded="false"></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pl-4 mb-5">
+                            <div class="stats ct-charts position-relative"
+                                 style="height: 315px"></div>
+                        </div>
+                        <ul class="list-inline text-center mt-4 mb-0">
+                            <li class="list-inline-item text-info fst-italic font-10">
+                                CareCoord.com
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <!-- Appointments -->
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center mb-4">
+                            <h4 class="card-title text-info-emphasis">Latest Appointments</h4>
+                            <div class="ms-auto">
+                                <div class="dropdown sub-dropdown">
+                                    <button class="btn btn-link text-muted dropdown-toggle"
+                                            type="button"
+                                            id="dd1"
+                                            data-bs-toggle="dropdown"
+                                            aria-haspopup="true"
+                                            aria-expanded="false"></button>
+                                    <a asp-controller="HomeAdmin" asp-action="ShowApp" class="btn waves-effect waves-light btn-rounded btn-outline-info">Show All</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table no-wrap v-middle mb-0">
+                                <thead>
+                                    <tr class="border-0">
+                                        <th class="border-0 font-14 font-weight-medium text-muted">
+                                            Patient Name
+                                        </th>
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Patient Age
+                                        </th>
+                                        @*<th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Patient Phone
+                                        </th>*@
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Department
+                                        </th>
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Doctor
+                                        </th>
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Day
+                                        </th>
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Status
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach(var obj in ViewBag.App) {
+                                        <tr>
+                                            @if (obj.Status == 1)
+                                            {
+                                                <td class="text-success">
+                                                    @obj.Patient.Name
+                                                </td>
+                                            }
+                                            else
+                                            {
+                                                <td class="text-warning">
+                                                    @obj.Patient.Name
+                                                </td>
+                                            }
+                                            <td class="text-center">
+                                                @obj.Patient.Age
+                                            </td>
+                                            @*<td class="text-center">
+                                                @obj.FkPatNavigation.Phone
+                                            </td>*@
+                                            <td class="text-center">@obj.Department.Name</td>
+
+                                            @foreach (KeyValuePair<int, string> name in ViewBag.Names)
+                                            {
+                                                if (name.Key == obj.DepartmentID)
+                                                {
+                                                    <td class="text-center">
+                                                        @name.Value
+                                                    </td>
+                                                    break;
+                                                }
+                                            }
+
+                                            <td class="text-center text-dark">
+                                                @obj.Day
+                                            </td>
+                                            @if (obj.Status == 1)
+                                            {
+                                                <td class="text-center">
+                                                    <i class="fa fa-circle text-success font-12"
+                                                       data-bs-toggle="tooltip"
+                                                       data-placement="top"
+                                                       title="completed"></i>
+                                                </td>
+                                            }
+                                            else
+                                            {
+                                                <td class="text-center">
+                                                    <i class="fa fa-circle text-warning font-12"
+                                                       data-bs-toggle="tooltip"
+                                                       data-placement="top"
+                                                       title="pending"></i>
+                                                </td>
+                                            }
+                                        </tr>
+                                        break;
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Doctors Availability -->
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center mb-4">
+                            <h4 class="card-title text-info-emphasis">
+                                Doctor Stuff
+                            </h4>
+                            <div class="ms-auto">
+                                <div class="dropdown sub-dropdown">
+                                    <button class="btn btn-link text-muted dropdown-toggle"
+                                            type="button"
+                                            id="dd1"
+                                            data-bs-toggle="dropdown"
+                                            aria-haspopup="true"
+                                            aria-expanded="false"></button>
+                                    <a asp-controller="Doctor" asp-action="Index" class="btn waves-effect waves-light btn-rounded btn-outline-info">Show All</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table no-wrap v-middle mb-0">
+                                <thead>
+                                    <tr class="border-0">
+                                        <th class="border-0 font-14 font-weight-medium text-muted">
+                                            Doctor
+                                        </th>
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Speciality
+                                        </th>
+                                        <th class="border-0 font-14 font-weight-medium text-muted text-center">
+                                            Year Experience
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach(var obj in ViewBag.DrData) {
+                                        <tr>
+                                            <td class="text-black">
+                                                @obj.Name
+                                            </td>
+                                            <td class="text-orange text-center">
+                                                @obj.FkDeptNavigation.Name
+                                            </td>
+                                            <td class="text-danger text-center">
+                                                @obj.Experience
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer text-center text-muted">
+        All Rights Reserved &copy; Copyright.
+        <a href="#">Before Others</a>.
+    </footer>
+</div>

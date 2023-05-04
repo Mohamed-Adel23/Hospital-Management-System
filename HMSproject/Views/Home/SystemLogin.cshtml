@@ -1,0 +1,118 @@
+@model FormSystemLogin
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+	<title>Login</title>
+
+	<!-- Mobile Specific Metas
+	================================================== -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="Health Care Medical Html5 Template">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+	<meta name="author" content="Themefisher">
+	<meta name="generator" content="Themefisher Novena HTML Template v1.0">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
+	<link rel="icon" href="https://cdn-icons-png.flaticon.com/512/4807/4807695.png" type="image/icon type"/>
+	<!--
+	Essential stylesheets
+	=====================================-->
+	<link rel="stylesheet" href="~/theme/plugins/bootstrap/bootstrap.min.css">
+	<link rel="stylesheet" href="~/theme/plugins/icofont/icofont.min.css">
+	<link rel="stylesheet" href="~/theme/plugins/slick-carousel/slick/slick.css">
+	<link rel="stylesheet" href="~/theme/plugins/slick-carousel/slick/slick-theme.css">
+
+	<!-- Main Stylesheet -->
+	<link rel="stylesheet" href="~/theme/css/style.css">
+
+</head>
+
+<body id="top">
+
+<section class="page-title bg-1">
+	<div class="overlay"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="block text-center">
+					<h1 class="text-capitalize mb-5 text-lg">Hospital Management System</h1>
+
+					<ul class="list-inline breadcumb-nav">
+						<li class="list-inline-item"><a asp-controller="Home" asp-action="Index" class="except"> Home</a></li>
+						<li class="list-inline-item"><span class="text-white">/</span></li>
+						<li class="list-inline-item"><a href="#" class="text-white-50">Login</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="appoinment section">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8">
+				@if (TempData["message"] == "invalid login")
+				{
+					<div class="alert alert-dismissible alert-danger">
+						<strong>@TempData["message"]</strong>
+					</div>
+				}
+				<div class="appoinment-wrap mt-5 mt-lg-0 pl-lg-5">
+					<h2 class="mb-2 title-color">Login</h2>
+					<p class="mb-4">Login to our system </p>
+					<form id="#" class="appoinment-form" method="post" asp-controller="Home" asp-action="SystemLogin">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="form-group">
+									<input type="email" class="form-control email" placeholder="Email" asp-for="@Model.Email">
+									<span asp-validation-for="@Model.Email" class="text-danger"></span>
+									
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="form-group">
+									<input type="password" class="form-control pass" placeholder="Password" asp-for="@Model.Password">
+									<span asp-validation-for="@Model.Password" class="text-danger"></span>
+								</div>
+							</div>
+							<div class="radio">
+								<label>You are ?</label>
+								<br/>
+								<input id="admin" type="radio" asp-for="@Model.Type" value="admin" />
+								<label for="admin">Admin</label>
+                                <br/>
+								<input id="doctor" type="radio" asp-for="@Model.Type" value="doctor" />
+								<label for="doctor" >Doctor</label>
+                                <br/>
+								<input id="nurse" type="radio" asp-for="@Model.Type" value="nurse" />
+								<label for="nurse">Nurse</label>
+                                <br/>
+								<span asp-validation-for="@Model.Type" class="text-danger"></span>
+							</div>
+						</div>
+						<div class="form-group">
+							<input type="submit" value="Login" style="padding: 13px 0;width: 30%;border-radius: 10px;border: none;transition-duration: .5s;" class="btn-primary" />
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+</body>
+</html>

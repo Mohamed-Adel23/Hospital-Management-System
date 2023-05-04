@@ -22,7 +22,6 @@
 
     <ItemGroup>
       <Folder Include="Areas\" />
-      <Folder Include="Migrations\" />
     </ItemGroup>
 
     <ItemGroup>

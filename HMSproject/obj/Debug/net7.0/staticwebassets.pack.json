@@ -5,8 +5,344 @@
       "PackagePath": "staticwebassets/HMSproject.bundle.scp.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/.DS_Store",
-      "PackagePath": "staticwebassets/.DS_Store"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/c3/c3.min.css",
+      "PackagePath": "staticwebassets/assets/extra-libs/c3/c3.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/c3/c3.min.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/c3/c3.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/c3/d3.min.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/c3/d3.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/gdp-data.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/gdp-data.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-asia-mill.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-asia-mill.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-ca-lcc.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-ca-lcc.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-de-mill.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-de-mill.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-europe-mill-en.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-europe-mill-en.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/extra-libs/jvector/jvectormap.custom.js",
+      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jvectormap.custom.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/images/favicon.ico",
+      "PackagePath": "staticwebassets/assets/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/images/logo_icon.png",
+      "PackagePath": "staticwebassets/assets/images/logo_icon.png"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/images/users/profile-pic.jpg",
+      "PackagePath": "staticwebassets/assets/images/users/profile-pic.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/chart.js/dist/Chart.bundle.min.js",
+      "PackagePath": "staticwebassets/assets/libs/chart.js/dist/Chart.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/chart.js/dist/Chart.min.css",
+      "PackagePath": "staticwebassets/assets/libs/chart.js/dist/Chart.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/chart.js/dist/Chart.min.js",
+      "PackagePath": "staticwebassets/assets/libs/chart.js/dist/Chart.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/chartist/dist/chartist.min.css",
+      "PackagePath": "staticwebassets/assets/libs/chartist/dist/chartist.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/chartist/dist/chartist.min.js",
+      "PackagePath": "staticwebassets/assets/libs/chartist/dist/chartist.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/jquery/dist/core.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery/dist/core.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/perfect-scrollbar/dist/css/perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/css/perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/perfect-scrollbar/dist/js/perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/js/perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/perfect-scrollbar/dist/js/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/js/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.common.js",
+      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.common.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.esm.js",
+      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.esm.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.min.js"
     },
     {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/css/bootstrap.css",
@@ -17,8 +353,376 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/all.min.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/all.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fa-brands.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-brands.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fa-brands.min.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-brands.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fa-regular.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-regular.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fa-regular.min.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-regular.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fa-solid.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-solid.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fa-solid.min.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-solid.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fontawesome-all.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fontawesome-all.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fontawesome-all.min.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fontawesome-all.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fontawesome.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fontawesome.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/css/fontawesome.min.css",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fontawesome.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_animated.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_animated.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_bordered-pulled.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_core.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_core.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_fixed-width.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_fixed-width.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_icons.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_icons.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_larger.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_larger.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_list.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_list.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_mixins.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_mixins.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_rotated-flipped.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_screen-reader.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_screen-reader.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_stacked.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_stacked.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/_variables.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_variables.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/fa-brands.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/fa-brands.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/fa-regular.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/fa-regular.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/fa-solid.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/fa-solid.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/less/fontawesome.less",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/fontawesome.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_animated.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_core.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_icons.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_larger.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_list.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/_variables.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/fa-brands.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/fa-brands.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/fa-regular.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/fa-regular.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/fa-solid.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/fa-solid.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/scss/fontawesome.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/fontawesome.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/simple-line-icons/css/simple-line-icons.css",
+      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/css/simple-line-icons.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/simple-line-icons/less/simple-line-icons.less",
+      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/less/simple-line-icons.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/simple-line-icons/scss/simple-line-icons.scss",
+      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/scss/simple-line-icons.scss"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/themify-icons/fonts/themify.eot",
+      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/themify-icons/fonts/themify.svg",
+      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/themify-icons/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/themify-icons/fonts/themify.woff",
+      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/themify-icons/ie7/ie7.css",
+      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/ie7/ie7.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/themify-icons/ie7/ie7.js",
+      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/ie7/ie7.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/themify-icons/themify-icons.css",
+      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/themify-icons.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/icons/themify-icons/themify-icons.less",
+      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/themify-icons.less"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/pandalocker.min.css",
+      "PackagePath": "staticwebassets/dist/css/pandalocker.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/style.css",
+      "PackagePath": "staticwebassets/dist/css/style.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/css/style.min.css",
+      "PackagePath": "staticwebassets/dist/css/style.min.css"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/app-style-switcher.js",
+      "PackagePath": "staticwebassets/dist/js/app-style-switcher.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/app-style-switcher.min.js",
+      "PackagePath": "staticwebassets/dist/js/app-style-switcher.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/custom.js",
+      "PackagePath": "staticwebassets/dist/js/custom.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/custom.min.js",
+      "PackagePath": "staticwebassets/dist/js/custom.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/feather.min.js",
+      "PackagePath": "staticwebassets/dist/js/feather.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/jquery.ui.highlight.min.js",
+      "PackagePath": "staticwebassets/dist/js/jquery.ui.highlight.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/pages/dashboards/dashboard1.js",
+      "PackagePath": "staticwebassets/dist/js/pages/dashboards/dashboard1.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/pages/dashboards/dashboard1.min.js",
+      "PackagePath": "staticwebassets/dist/js/pages/dashboards/dashboard1.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/pandalocker.js",
+      "PackagePath": "staticwebassets/dist/js/pandalocker.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/pandalocker.min.js",
+      "PackagePath": "staticwebassets/dist/js/pandalocker.min.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/sidebarmenu.js",
+      "PackagePath": "staticwebassets/dist/js/sidebarmenu.js"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/dist/js/sidebarmenu.min.js",
+      "PackagePath": "staticwebassets/dist/js/sidebarmenu.min.js"
+    },
+    {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1-1.jpg",
+      "PackagePath": "staticwebassets/images/dr/1-1.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/1-2.jpg",
+      "PackagePath": "staticwebassets/images/ns/1-2.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/17-2.jpg",
+      "PackagePath": "staticwebassets/images/ns/17-2.jpg"
     },
     {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/js/site.js",

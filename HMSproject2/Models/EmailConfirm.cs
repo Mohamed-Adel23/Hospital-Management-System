@@ -8,7 +8,9 @@ public class EmailConfirm:IEmailSender
 {
     public async Task SendEmailAsync(string email, string subject, string htmlMessage)
     {
-        var fMail = "MoatafaConfirm@outlook.com";
+        // var fMail = "MoatafaConfirm@outlook.com";
+        // var fMail = "HMSContactMostafa@outlook.com";
+        var fMail = "HMSWebProject@outlook.com";
         var fPassword = "#Bev8Y_G*dp.4Ve";
 
         var theMsg = new MailMessage();

@@ -90,15 +90,6 @@ public class HomeController : Controller
     {
         return View();
     }
-    
-    public async Task<IActionResult> Department()
-    {
-        return View();
-    }
-    public async Task<IActionResult> Doctors()
-    {
-        return View();
-    }
     public IActionResult Confirm()
     {
         return View();

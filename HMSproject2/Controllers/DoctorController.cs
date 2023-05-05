@@ -88,7 +88,6 @@ namespace HMSproject.Controllers
 
             if (ModelState.IsValid)
             {
-                //obj.Image = imageName;
                 _db.Doctors.Add(obj);
                 _db.SaveChanges();
 
@@ -111,7 +110,8 @@ namespace HMSproject.Controllers
                 }
                 catch (Exception e)
                 {
-
+                    TempData["error"] = "Oops, Errors Occured!";
+                    return View(obj);
                 }
 
                 TempData["success"] = "Doctor Created Successfully";
@@ -357,6 +357,13 @@ namespace HMSproject.Controllers
 
             TempData["success"] = "Doctor Deleted Successfully";
             return RedirectToAction("Index");
+        }
+
+        // Show our Doctors to Public 
+        public IActionResult Doctors()
+        {
+            IEnumerable<Doctor> drData = _db.Doctors.Include(dept => dept.FkDeptNavigation).ToList();
+            return View(drData);
         }
     }
 }

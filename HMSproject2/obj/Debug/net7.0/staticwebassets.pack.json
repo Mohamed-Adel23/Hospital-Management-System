@@ -1,1359 +1,1371 @@
 {
   "Files": [
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/obj/Debug/net7.0/scopedcss/projectbundle/HMSproject.bundle.scp.css",
-      "PackagePath": "staticwebassets/HMSproject.bundle.scp.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HMSproject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HMSproject.bundle.scp.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/c3/c3.min.css",
-      "PackagePath": "staticwebassets/assets/extra-libs/c3/c3.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\c3\\c3.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/c3/c3.min.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/c3/c3.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\c3\\c3.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\c3\\c3.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/c3/d3.min.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/c3/d3.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\c3\\d3.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\c3\\d3.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/gdp-data.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/gdp-data.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\gdp-data.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\gdp-data.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.css",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-2.0.2.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.min.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-2.0.2.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-asia-mill.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-asia-mill.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-asia-mill.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-asia-mill.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-au-mill.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-au-mill.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-au-mill.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-ca-lcc.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-ca-lcc.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-ca-lcc.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-ca-lcc.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-de-mill.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-de-mill.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-de-mill.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-de-mill.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-europe-mill-en.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-europe-mill-en.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-europe-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-europe-mill-en.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-in-mill.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-in-mill.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-in-mill.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-uk-mill-en.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-uk-mill-en.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-uk-mill-en.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-us-aea-en.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-us-aea-en.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-us-aea-en.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-us-il-chicago-mill-en.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-us-il-chicago-mill-en.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-us-il-chicago-mill-en.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jquery-jvectormap-world-mill-en.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jquery-jvectormap-world-mill-en.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-world-mill-en.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/extra-libs/jvector/jvectormap.custom.js",
-      "PackagePath": "staticwebassets/assets/extra-libs/jvector/jvectormap.custom.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\extra-libs\\jvector\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jvectormap.custom.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/images/favicon.ico",
-      "PackagePath": "staticwebassets/assets/images/favicon.ico"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/images/logo_icon.png",
-      "PackagePath": "staticwebassets/assets/images/logo_icon.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\images\\logo_icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_icon.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/images/users/profile-pic.jpg",
-      "PackagePath": "staticwebassets/assets/images/users/profile-pic.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\images\\users\\profile-pic.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\profile-pic.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.esm.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.esm.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/assets/libs/bootstrap/dist/js/bootstrap.min.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/chart.js/dist/Chart.bundle.min.js",
-      "PackagePath": "staticwebassets/assets/libs/chart.js/dist/Chart.bundle.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\chart.js\\dist\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chart.js\\dist\\Chart.bundle.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/chart.js/dist/Chart.min.css",
-      "PackagePath": "staticwebassets/assets/libs/chart.js/dist/Chart.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\chart.js\\dist\\Chart.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\chart.js\\dist\\Chart.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/chart.js/dist/Chart.min.js",
-      "PackagePath": "staticwebassets/assets/libs/chart.js/dist/Chart.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\chart.js\\dist\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chart.js\\dist\\Chart.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.css",
-      "PackagePath": "staticwebassets/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js",
-      "PackagePath": "staticwebassets/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/chartist/dist/chartist.min.css",
-      "PackagePath": "staticwebassets/assets/libs/chartist/dist/chartist.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\chartist\\dist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\chartist\\dist\\chartist.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/chartist/dist/chartist.min.js",
-      "PackagePath": "staticwebassets/assets/libs/chartist/dist/chartist.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\chartist\\dist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chartist\\dist\\chartist.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/jquery/dist/core.js",
-      "PackagePath": "staticwebassets/assets/libs/jquery/dist/core.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\core.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.min.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/jquery/dist/jquery.slim.js",
-      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.slim.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/jquery/dist/jquery.slim.min.js",
-      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.slim.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/jquery/dist/jquery.slim.min.map",
-      "PackagePath": "staticwebassets/assets/libs/jquery/dist/jquery.slim.min.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/perfect-scrollbar/dist/css/perfect-scrollbar.min.css",
-      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/css/perfect-scrollbar.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/perfect-scrollbar/dist/js/perfect-scrollbar.jquery.min.js",
-      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/js/perfect-scrollbar.jquery.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.jquery.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/perfect-scrollbar/dist/js/perfect-scrollbar.min.js",
-      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/js/perfect-scrollbar.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.common.js",
-      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.common.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.common.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.common.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.esm.js",
-      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.esm.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.esm.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.esm.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js",
-      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.jquery.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.min.js",
-      "PackagePath": "staticwebassets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/css/bootstrap.css",
-      "PackagePath": "staticwebassets/css/bootstrap.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/all.min.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/all.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\all.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fa-brands.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-brands.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fa-brands.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fa-brands.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fa-brands.min.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-brands.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fa-brands.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fa-brands.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fa-regular.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-regular.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fa-regular.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fa-regular.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fa-regular.min.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-regular.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fa-regular.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fa-regular.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fa-solid.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-solid.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fa-solid.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fa-solid.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fa-solid.min.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fa-solid.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fa-solid.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fa-solid.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fontawesome-all.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fontawesome-all.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fontawesome-all.min.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fontawesome-all.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fontawesome.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fontawesome.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/css/fontawesome.min.css",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/css/fontawesome.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_animated.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_animated.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_animated.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_bordered-pulled.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_bordered-pulled.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_bordered-pulled.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_core.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_core.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_core.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_fixed-width.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_fixed-width.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_fixed-width.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_icons.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_icons.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_icons.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_larger.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_larger.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_larger.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_list.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_list.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_list.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_mixins.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_mixins.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_mixins.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_rotated-flipped.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_rotated-flipped.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_rotated-flipped.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_screen-reader.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_screen-reader.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_screen-reader.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_stacked.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_stacked.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_stacked.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/_variables.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/_variables.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\_variables.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/fa-brands.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/fa-brands.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\fa-brands.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\fa-brands.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/fa-regular.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/fa-regular.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\fa-regular.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\fa-regular.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/fa-solid.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/fa-solid.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\fa-solid.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\fa-solid.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/less/fontawesome.less",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/less/fontawesome.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\less\\fontawesome.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_animated.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_animated.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_animated.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_bordered-pulled.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_bordered-pulled.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_core.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_core.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_fixed-width.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_fixed-width.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_icons.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_icons.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_larger.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_larger.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_larger.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_list.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_list.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_list.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_mixins.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_mixins.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_rotated-flipped.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_rotated-flipped.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_screen-reader.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_screen-reader.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_stacked.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_stacked.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_stacked.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/_variables.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/_variables.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/fa-brands.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/fa-brands.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\fa-brands.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\fa-brands.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/fa-regular.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/fa-regular.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\fa-regular.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\fa-regular.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/fa-solid.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/fa-solid.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\fa-solid.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\fa-solid.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/scss/fontawesome.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/scss/fontawesome.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\scss\\fontawesome.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.eot",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.eot"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.svg",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.svg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.ttf",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.ttf"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.woff",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.woff"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-brands-400.woff2",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-brands-400.woff2"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.eot",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.eot"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.svg",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.svg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.ttf",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.ttf"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.woff",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.woff"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-regular-400.woff2",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-regular-400.woff2"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.eot",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.eot"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.svg",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.svg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.ttf",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.ttf"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.woff",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.woff"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/font-awesome/webfonts/fa-solid-900.woff2",
-      "PackagePath": "staticwebassets/dist/css/icons/font-awesome/webfonts/fa-solid-900.woff2"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/simple-line-icons/css/simple-line-icons.css",
-      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/css/simple-line-icons.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\simple-line-icons\\css\\simple-line-icons.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.eot",
-      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.eot"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.svg",
-      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.svg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf",
-      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.woff",
-      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.woff"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.woff2",
-      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.woff2"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/simple-line-icons/less/simple-line-icons.less",
-      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/less/simple-line-icons.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\simple-line-icons\\less\\simple-line-icons.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\simple-line-icons\\less\\simple-line-icons.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/simple-line-icons/scss/simple-line-icons.scss",
-      "PackagePath": "staticwebassets/dist/css/icons/simple-line-icons/scss/simple-line-icons.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\simple-line-icons\\scss\\simple-line-icons.scss",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\simple-line-icons\\scss\\simple-line-icons.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/themify-icons/fonts/themify.eot",
-      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/fonts/themify.eot"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\themify-icons\\fonts\\themify.eot"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/themify-icons/fonts/themify.svg",
-      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/fonts/themify.svg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\themify-icons\\fonts\\themify.svg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/themify-icons/fonts/themify.ttf",
-      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/fonts/themify.ttf"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\themify-icons\\fonts\\themify.ttf"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/themify-icons/fonts/themify.woff",
-      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/fonts/themify.woff"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\themify-icons\\fonts\\themify.woff"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/themify-icons/ie7/ie7.css",
-      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/ie7/ie7.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\themify-icons\\ie7\\ie7.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/themify-icons/ie7/ie7.js",
-      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/ie7/ie7.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\themify-icons\\ie7\\ie7.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/themify-icons/themify-icons.css",
-      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/themify-icons.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\themify-icons\\themify-icons.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/icons/themify-icons/themify-icons.less",
-      "PackagePath": "staticwebassets/dist/css/icons/themify-icons/themify-icons.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\icons\\themify-icons\\themify-icons.less",
+      "PackagePath": "staticwebassets\\dist\\css\\icons\\themify-icons\\themify-icons.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/pandalocker.min.css",
-      "PackagePath": "staticwebassets/dist/css/pandalocker.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\pandalocker.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\pandalocker.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/style.css",
-      "PackagePath": "staticwebassets/dist/css/style.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\style.css",
+      "PackagePath": "staticwebassets\\dist\\css\\style.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/css/style.min.css",
-      "PackagePath": "staticwebassets/dist/css/style.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\style.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/app-style-switcher.js",
-      "PackagePath": "staticwebassets/dist/js/app-style-switcher.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\app-style-switcher.js",
+      "PackagePath": "staticwebassets\\dist\\js\\app-style-switcher.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/app-style-switcher.min.js",
-      "PackagePath": "staticwebassets/dist/js/app-style-switcher.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\app-style-switcher.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\app-style-switcher.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/custom.js",
-      "PackagePath": "staticwebassets/dist/js/custom.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\custom.js",
+      "PackagePath": "staticwebassets\\dist\\js\\custom.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/custom.min.js",
-      "PackagePath": "staticwebassets/dist/js/custom.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\custom.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/feather.min.js",
-      "PackagePath": "staticwebassets/dist/js/feather.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\feather.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/jquery.ui.highlight.min.js",
-      "PackagePath": "staticwebassets/dist/js/jquery.ui.highlight.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\jquery.ui.highlight.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\jquery.ui.highlight.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/pages/dashboards/dashboard1.js",
-      "PackagePath": "staticwebassets/dist/js/pages/dashboards/dashboard1.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\pages\\dashboards\\dashboard1.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboards\\dashboard1.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/pages/dashboards/dashboard1.min.js",
-      "PackagePath": "staticwebassets/dist/js/pages/dashboards/dashboard1.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\pages\\dashboards\\dashboard1.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboards\\dashboard1.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/pandalocker.js",
-      "PackagePath": "staticwebassets/dist/js/pandalocker.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\pandalocker.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pandalocker.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/pandalocker.min.js",
-      "PackagePath": "staticwebassets/dist/js/pandalocker.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\pandalocker.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pandalocker.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/sidebarmenu.js",
-      "PackagePath": "staticwebassets/dist/js/sidebarmenu.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\dist\\js\\sidebarmenu.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/dist/js/sidebarmenu.min.js",
-      "PackagePath": "staticwebassets/dist/js/sidebarmenu.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\dist\\js\\sidebarmenu.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\sidebarmenu.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/images/dr/1-1.jpg",
-      "PackagePath": "staticwebassets/images/dr/1-1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\images\\dept\\8-blog-6.jpg",
+      "PackagePath": "staticwebassets\\images\\dept\\8-blog-6.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/images/dr/3-4.jpg",
-      "PackagePath": "staticwebassets/images/dr/3-4.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\images\\dr\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\1-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/images/dr/4-test-thumb3.jpg",
-      "PackagePath": "staticwebassets/images/dr/4-test-thumb3.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\images\\dr\\3-4.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\3-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/images/ns/1-2.jpg",
-      "PackagePath": "staticwebassets/images/ns/1-2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\images\\dr\\4-test-thumb3.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\4-test-thumb3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/images/ns/17-2.jpg",
-      "PackagePath": "staticwebassets/images/ns/17-2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\images\\dr\\5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dr\\5-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\images\\ns\\1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\1-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\images\\ns\\17-2.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\17-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\images\\ns\\4-2.jpg",
+      "PackagePath": "staticwebassets\\images\\ns\\4-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/.DS_Store",
-      "PackagePath": "staticwebassets/theme/.DS_Store"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/appoinment.html",
-      "PackagePath": "staticwebassets/theme/appoinment.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/confirmation.html",
-      "PackagePath": "staticwebassets/theme/confirmation.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/contact.html",
-      "PackagePath": "staticwebassets/theme/contact.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\.DS_Store",
+      "PackagePath": "staticwebassets\\theme\\.DS_Store"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/css/style.css",
-      "PackagePath": "staticwebassets/theme/css/style.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\appoinment.html",
+      "PackagePath": "staticwebassets\\theme\\appoinment.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/css/style.css.map",
-      "PackagePath": "staticwebassets/theme/css/style.css.map"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\confirmation.html",
+      "PackagePath": "staticwebassets\\theme\\confirmation.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/department-single.html",
-      "PackagePath": "staticwebassets/theme/department-single.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\contact.html",
+      "PackagePath": "staticwebassets\\theme\\contact.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/department.html",
-      "PackagePath": "staticwebassets/theme/department.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\theme\\css\\style.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/doc_profile.html",
-      "PackagePath": "staticwebassets/theme/doc_profile.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\theme\\css\\style.css.map"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/doctor-single.html",
-      "PackagePath": "staticwebassets/theme/doctor-single.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\department-single.html",
+      "PackagePath": "staticwebassets\\theme\\department-single.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/doctor.html",
-      "PackagePath": "staticwebassets/theme/doctor.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\department.html",
+      "PackagePath": "staticwebassets\\theme\\department.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/.DS_Store",
-      "PackagePath": "staticwebassets/theme/images/.DS_Store"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\doc_profile.html",
+      "PackagePath": "staticwebassets\\theme\\doc_profile.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/05.png",
-      "PackagePath": "staticwebassets/theme/images/about/05.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\doctor-single.html",
+      "PackagePath": "staticwebassets\\theme\\doctor-single.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/1.png",
-      "PackagePath": "staticwebassets/theme/images/about/1.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\doctor.html",
+      "PackagePath": "staticwebassets\\theme\\doctor.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/2.png",
-      "PackagePath": "staticwebassets/theme/images/about/2.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\theme\\images\\.DS_Store"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/3.png",
-      "PackagePath": "staticwebassets/theme/images/about/3.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\05.png",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\05.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/4.png",
-      "PackagePath": "staticwebassets/theme/images/about/4.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\1.png",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\1.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/5.png",
-      "PackagePath": "staticwebassets/theme/images/about/5.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\2.png",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\2.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/6.png",
-      "PackagePath": "staticwebassets/theme/images/about/6.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\3.png",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\3.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/about-1.jpg",
-      "PackagePath": "staticwebassets/theme/images/about/about-1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\4.png",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\4.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/about-2.jpg",
-      "PackagePath": "staticwebassets/theme/images/about/about-2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\5.png",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\5.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/about-3.jpg",
-      "PackagePath": "staticwebassets/theme/images/about/about-3.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\6.png",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\6.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/about-4.jpg",
-      "PackagePath": "staticwebassets/theme/images/about/about-4.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\about-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/img-1.jpg",
-      "PackagePath": "staticwebassets/theme/images/about/img-1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\about-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/img-2.jpg",
-      "PackagePath": "staticwebassets/theme/images/about/img-2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\about-3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\about-3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/img-3.jpg",
-      "PackagePath": "staticwebassets/theme/images/about/img-3.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\about-4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\about-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/about/sign.png",
-      "PackagePath": "staticwebassets/theme/images/about/sign.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\img-1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\img-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/bg/22.jpg",
-      "PackagePath": "staticwebassets/theme/images/bg/22.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\img-2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\img-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/bg/banner.jpg",
-      "PackagePath": "staticwebassets/theme/images/bg/banner.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\img-3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\img-3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/bg/bg-2.jpg",
-      "PackagePath": "staticwebassets/theme/images/bg/bg-2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\about\\sign.png",
+      "PackagePath": "staticwebassets\\theme\\images\\about\\sign.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/bg/bg-4.jpg",
-      "PackagePath": "staticwebassets/theme/images/bg/bg-4.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\bg\\22.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\bg\\22.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/bg/slider-bg-1.jpg",
-      "PackagePath": "staticwebassets/theme/images/bg/slider-bg-1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\bg\\banner.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\bg\\banner.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/blog/blog-1.jpg",
-      "PackagePath": "staticwebassets/theme/images/blog/blog-1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\bg\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\bg\\bg-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/blog/blog-2.jpg",
-      "PackagePath": "staticwebassets/theme/images/blog/blog-2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\bg\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\bg\\bg-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/blog/blog-4.jpg",
-      "PackagePath": "staticwebassets/theme/images/blog/blog-4.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\bg\\slider-bg-1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\bg\\slider-bg-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/blog/blog-6.jpg",
-      "PackagePath": "staticwebassets/theme/images/blog/blog-6.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\blog\\blog-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/blog/blog-7.jpg",
-      "PackagePath": "staticwebassets/theme/images/blog/blog-7.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\blog\\blog-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/blog/blog-8.jpg",
-      "PackagePath": "staticwebassets/theme/images/blog/blog-8.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\blog\\blog-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/blog/testimonial1.jpg",
-      "PackagePath": "staticwebassets/theme/images/blog/testimonial1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\blog\\blog-6.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/blog/testimonial2.jpg",
-      "PackagePath": "staticwebassets/theme/images/blog/testimonial2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\blog\\blog-7.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/favicon.ico",
-      "PackagePath": "staticwebassets/theme/images/favicon.ico"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\blog\\blog-8.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/favicon.png",
-      "PackagePath": "staticwebassets/theme/images/favicon.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\blog\\testimonial1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\blog\\testimonial1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/logo.png",
-      "PackagePath": "staticwebassets/theme/images/logo.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\blog\\testimonial2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\blog\\testimonial2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/marker.png",
-      "PackagePath": "staticwebassets/theme/images/marker.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\theme\\images\\favicon.ico"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/profilePic.png",
-      "PackagePath": "staticwebassets/theme/images/profilePic.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\theme\\images\\favicon.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/service/bg-1.jpg",
-      "PackagePath": "staticwebassets/theme/images/service/bg-1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\logo.png",
+      "PackagePath": "staticwebassets\\theme\\images\\logo.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/service/service-1.jpg",
-      "PackagePath": "staticwebassets/theme/images/service/service-1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\marker.png",
+      "PackagePath": "staticwebassets\\theme\\images\\marker.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/service/service-2.jpg",
-      "PackagePath": "staticwebassets/theme/images/service/service-2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\profilePic.png",
+      "PackagePath": "staticwebassets\\theme\\images\\profilePic.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/service/service-3.jpg",
-      "PackagePath": "staticwebassets/theme/images/service/service-3.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\service\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\service\\bg-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/service/service-4.jpg",
-      "PackagePath": "staticwebassets/theme/images/service/service-4.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\service\\service-1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\service\\service-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/service/service-6.jpg",
-      "PackagePath": "staticwebassets/theme/images/service/service-6.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\service\\service-2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\service\\service-2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/service/service-8.jpg",
-      "PackagePath": "staticwebassets/theme/images/service/service-8.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\service\\service-3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\service\\service-3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/slogan.png",
-      "PackagePath": "staticwebassets/theme/images/slogan.png"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\service\\service-4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\service\\service-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/team/1.jpg",
-      "PackagePath": "staticwebassets/theme/images/team/1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\service\\service-6.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\service\\service-6.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/team/2.jpg",
-      "PackagePath": "staticwebassets/theme/images/team/2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\service\\service-8.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\service\\service-8.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/team/3.jpg",
-      "PackagePath": "staticwebassets/theme/images/team/3.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\slogan.png",
+      "PackagePath": "staticwebassets\\theme\\images\\slogan.png"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/team/4.jpg",
-      "PackagePath": "staticwebassets/theme/images/team/4.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\team\\1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/team/test-thumb1.jpg",
-      "PackagePath": "staticwebassets/theme/images/team/test-thumb1.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\team\\2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/team/test-thumb2.jpg",
-      "PackagePath": "staticwebassets/theme/images/team/test-thumb2.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\team\\3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/team/test-thumb3.jpg",
-      "PackagePath": "staticwebassets/theme/images/team/test-thumb3.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\team\\4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/images/team/test-thumb4.jpg",
-      "PackagePath": "staticwebassets/theme/images/team/test-thumb4.jpg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\team\\test-thumb1.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\team\\test-thumb1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/index.html",
-      "PackagePath": "staticwebassets/theme/index.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\team\\test-thumb2.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\team\\test-thumb2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/js/script.js",
-      "PackagePath": "staticwebassets/theme/js/script.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\team\\test-thumb3.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\team\\test-thumb3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/js/validation.js",
-      "PackagePath": "staticwebassets/theme/js/validation.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\images\\team\\test-thumb4.jpg",
+      "PackagePath": "staticwebassets\\theme\\images\\team\\test-thumb4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/js/validation2.js",
-      "PackagePath": "staticwebassets/theme/js/validation2.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\index.html",
+      "PackagePath": "staticwebassets\\theme\\index.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/login.html",
-      "PackagePath": "staticwebassets/theme/login.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\js\\script.js",
+      "PackagePath": "staticwebassets\\theme\\js\\script.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/theme/plugins/bootstrap/bootstrap.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\js\\validation.js",
+      "PackagePath": "staticwebassets\\theme\\js\\validation.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/bootstrap/bootstrap.min.js",
-      "PackagePath": "staticwebassets/theme/plugins/bootstrap/bootstrap.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\js\\validation2.js",
+      "PackagePath": "staticwebassets\\theme\\js\\validation2.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/google-map/gmap.js",
-      "PackagePath": "staticwebassets/theme/plugins/google-map/gmap.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\login.html",
+      "PackagePath": "staticwebassets\\theme\\login.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/icofont/demo.html",
-      "PackagePath": "staticwebassets/theme/plugins/icofont/demo.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\theme\\plugins\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/icofont/fonts/icofont.eot",
-      "PackagePath": "staticwebassets/theme/plugins/icofont/fonts/icofont.eot"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\theme\\plugins\\bootstrap\\bootstrap.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/icofont/fonts/icofont.ttf",
-      "PackagePath": "staticwebassets/theme/plugins/icofont/fonts/icofont.ttf"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\google-map\\gmap.js",
+      "PackagePath": "staticwebassets\\theme\\plugins\\google-map\\gmap.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/icofont/fonts/icofont.woff",
-      "PackagePath": "staticwebassets/theme/plugins/icofont/fonts/icofont.woff"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\icofont\\demo.html",
+      "PackagePath": "staticwebassets\\theme\\plugins\\icofont\\demo.html"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/icofont/fonts/icofont.woff2",
-      "PackagePath": "staticwebassets/theme/plugins/icofont/fonts/icofont.woff2"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\theme\\plugins\\icofont\\fonts\\icofont.eot"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/icofont/icofont.css",
-      "PackagePath": "staticwebassets/theme/plugins/icofont/icofont.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\theme\\plugins\\icofont\\fonts\\icofont.ttf"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/icofont/icofont.min.css",
-      "PackagePath": "staticwebassets/theme/plugins/icofont/icofont.min.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\theme\\plugins\\icofont\\fonts\\icofont.woff"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/jquery/jquery.js",
-      "PackagePath": "staticwebassets/theme/plugins/jquery/jquery.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\icofont\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\theme\\plugins\\icofont\\fonts\\icofont.woff2"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/shuffle/shuffle.min.js",
-      "PackagePath": "staticwebassets/theme/plugins/shuffle/shuffle.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\icofont\\icofont.css",
+      "PackagePath": "staticwebassets\\theme\\plugins\\icofont\\icofont.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/ajax-loader.gif",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/ajax-loader.gif"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\icofont\\icofont.min.css",
+      "PackagePath": "staticwebassets\\theme\\plugins\\icofont\\icofont.min.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/config.rb",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/config.rb"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\theme\\plugins\\jquery\\jquery.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.eot",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/fonts/slick.eot"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\shuffle\\shuffle.min.js",
+      "PackagePath": "staticwebassets\\theme\\plugins\\shuffle\\shuffle.min.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.svg",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/fonts/slick.svg"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\ajax-loader.gif"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.ttf",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/fonts/slick.ttf"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\config.rb"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/fonts/slick.woff",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/fonts/slick.woff"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.eot"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/slick-theme.css",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick-theme.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.svg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/slick-theme.less",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick-theme.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/slick-theme.scss",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick-theme.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.woff"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/slick.css",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.css"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\slick-theme.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/slick.js",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\slick-theme.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/slick.less",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.less"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\slick-theme.scss"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/slick.min.js",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.min.js"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\slick.css"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/plugins/slick-carousel/slick/slick.scss",
-      "PackagePath": "staticwebassets/theme/plugins/slick-carousel/slick/slick.scss"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\slick.js"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/service.html",
-      "PackagePath": "staticwebassets/theme/service.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\slick.less"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/wwwroot/theme/signup.html",
-      "PackagePath": "staticwebassets/theme/signup.html"
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\slick.min.js"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.HMSproject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\plugins\\slick-carousel\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\theme\\plugins\\slick-carousel\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\service.html",
+      "PackagePath": "staticwebassets\\theme\\service.html"
+    },
+    {
+      "Id": "D:\\Web_Development\\HMS\\HMSproject2\\wwwroot\\theme\\signup.html",
+      "PackagePath": "staticwebassets\\theme\\signup.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HMSproject.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.HMSproject.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HMSproject.props",
       "PackagePath": "build\\HMSproject.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.HMSproject.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HMSproject.props",
       "PackagePath": "buildMultiTargeting\\HMSproject.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.HMSproject.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HMSproject.props",
       "PackagePath": "buildTransitive\\HMSproject.props"
     }
   ],

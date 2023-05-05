@@ -104,35 +104,6 @@
                                 <span><i data-feather="bell" class="svg-icon"></i></span>
                                 <span class="badge text-bg-primary notify-no rounded-circle">1</span>
                             </a>
-                            <div class="dropdown-menu dropdown-menu-left mailbox animated bounceInDown">
-                                <ul class="list-style-none">
-                                    <li>
-                                        <div class="message-center notifications position-relative">
-                                            <!-- Message -->
-                                            <a href="javascript:void(0)"
-                                               class="message-item d-flex align-items-center border-bottom px-3 py-2">
-                                                <div class="btn btn-danger rounded-circle btn-circle">
-                                                    <i data-feather="airplay" class="text-white"></i>
-                                                </div>
-                                                <div class="w-75 d-inline-block v-middle ps-2">
-                                                    <h6 class="message-title mb-0 mt-1">
-                                                        Luanch Admin
-                                                    </h6>
-                                                    <span class="font-12 text-nowrap d-block text-muted">Just see the CareCoord admin!</span>
-                                                    <span class="font-12 text-nowrap d-block text-muted">9:30 AM</span>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <a class="nav-link pt-3 text-center text-dark"
-                                           href="javascript:void(0);">
-                                            <strong>Check all notifications</strong>
-                                            <i class="fa fa-angle-right"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </li>
                         <!-- End Notification -->
                         <!-- create new -->
@@ -160,44 +131,20 @@
                                data-bs-toggle="dropdown"
                                aria-haspopup="true"
                                aria-expanded="false">
-                                <img src="../assets/images/users/profile-pic.jpg"
+                                <img src="~/assets/images/users/profile-pic.jpg"
                                      alt="user"
                                      class="rounded-circle"
                                      width="40" />
                                 <span class="ms-2 d-none d-lg-inline-block">
                                     <span>Hello,</span>
-                                    <span class="text-dark">Jason Doe</span>
+                                    <span class="text-dark">Mohamed</span>
                                     <i data-feather="chevron-down" class="svg-icon"></i>
                                 </span>
                             </a>
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-right user-dd animated flipInY">
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <i data-feather="user" class="svg-icon me-2 ms-1"></i> My
-                                    Profile
-                                </a>
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <i data-feather="credit-card"
-                                       class="svg-icon me-2 ms-1"></i>
-                                    My Balance
-                                </a>
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <i data-feather="mail" class="svg-icon me-2 ms-1"></i>
-                                    Inbox
-                                </a>
                                 <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <i data-feather="settings" class="svg-icon me-2 ms-1"></i>
-                                    Account Setting
-                                </a>
+                                <a asp-controller="Home" asp-action="Index" class="dropdown-item"> <i data-feather="power" class="svg-icon me-2 ms-1"></i> Main Website</a>
                                 <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <i data-feather="power" class="svg-icon me-2 ms-1"></i>
-                                    Logout
-                                </a>
-                                <div class="dropdown-divider"></div>
-                                <div class="pl-4 p-3">
-                                    <a href="javascript:void(0)" class="btn btn-sm btn-info">View Profile</a>
-                                </div>
                             </div>
                         </li>
                         <!-- User profile and search -->
@@ -292,38 +239,12 @@
                                 </li>
                             </ul>
                         </li>
-                        @*<li class="sidebar-item">
-                            <a class="sidebar-link has-arrow" href="#" aria-expanded="false">
-                                <i class="fas fa-edit"></i><span class="hide-menu">Blogs</span>
-                            </a>
-                            <ul aria-expanded="false"
-                                class="collapse first-level base-level-line">
-                                <li class="sidebar-item">
-                                    <a href="add_blog.html" class="sidebar-link"><span class="hide-menu text-muted"> Add a Blog </span></a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="sidebar-item">
-                            <a class="sidebar-link sidebar-link"
-                               href="app-chat.html"
-                               aria-expanded="false">
-                                <i data-feather="message-square" class="feather-icon"></i><span class="hide-menu">Chat</span>
-                            </a>
-                        </li>
-                        <li class="sidebar-item">
-                            <a class="sidebar-link sidebar-link"
-                               href="app-calendar.html"
-                               aria-expanded="false">
-                                <i data-feather="calendar" class="feather-icon"></i><span class="hide-menu">Calendar</span>
-                            </a>
-                        </li>*@
+                        
                         <hr />
                         <li class="sidebar-item">
-                            <a class="sidebar-link sidebar-link"
-                               href="#"
-                               aria-expanded="false">
-                                <i class="fas fa-right-from-bracket"></i><span class="hide-menu">Logout</span>
-                            </a>
+                            <span class="hide-menu">
+                                <a asp-controller="Home" asp-action="Index" class="sidebar-link"> <i data-feather="power" class="svg-icon me-2 ms-1"></i> Main Website</a>
+                            </span>
                         </li>
                     </ul>
                 </nav>

@@ -200,16 +200,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Web_Development/HMS/HMSproject2/Views/Dept/Department.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Web_Development/HMS/HMSproject2/Views/Dept/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject2/Views/Dept/EditImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxFZGl0SW1hZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web_Development/HMS/HMSproject2/Views/Dept/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Web_Development/HMS/HMSproject2/Views/Dept/SingleDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxTaW5nbGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Web_Development/HMS/HMSproject2/Views/Doctor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject2/Views/Doctor/Doctors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERvY3RvcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web_Development/HMS/HMSproject2/Views/Doctor/Edit.cshtml]
@@ -236,16 +252,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUFkbWluXFNob3dBcHAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Web_Development/HMS/HMSproject2/Views/Home/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maXJtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Web_Development/HMS/HMSproject2/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject2/Views/Home/Department.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXBhcnRtZW50LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject2/Views/Home/Doctors.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb2N0b3JzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web_Development/HMS/HMSproject2/Views/Home/Index.cshtml]

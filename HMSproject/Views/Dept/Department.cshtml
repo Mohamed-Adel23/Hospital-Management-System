@@ -1,0 +1,73 @@
+@{
+    ViewData["Title"] = "Departments";
+    Layout = "_Layout";
+}
+
+@model IEnumerable<Department> 
+
+
+<section class="page-title bg-1">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block text-center">
+          <span class="text-white">All Department</span>
+          <h1 class="text-capitalize mb-5 text-lg">Care Department</h1>
+
+          <ul class="list-inline breadcumb-nav">
+            <li class="list-inline-item">
+              <a asp-controller="Home" asp-action="Index" class="text-white">Home</a>
+            </li>
+            <li class="list-inline-item">
+              <span class="text-white">/</span>
+            </li>
+            <li class="list-inline-item">
+              <a href="#" class="text-white-50">All Department</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section service-2">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-7 text-center">
+        <div class="section-title">
+          <h2>Award winning patient care</h2>
+          <div class="divider mx-auto my-4"></div>
+          <p>
+             Our patient-centered approach ensures that you receive personalized care tailored to your unique needs. Our team of experienced professionals works tirelessly to provide you with the highest level of care and support.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+        @foreach(var obj in Model) {
+          <div class="col-lg-4 col-md-6">
+            <div class="department-block mb-5">
+              <img
+                src="~/images/dept/@obj.Image"
+                alt=""
+                class="img-fluid w-100"
+              />
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">@obj.Name</h4>
+                <p class="mb-4">
+                  @obj.Description
+                </p>
+                    <a class="read-more" asp-controller="Dept" asp-action="SingleDepartment" asp-route-id="@obj.Id">
+                        Learn More <i class="icofont-simple-right ml-2"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+      }
+    </div>
+  </div>
+</section>
+

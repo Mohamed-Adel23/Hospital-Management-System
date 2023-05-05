@@ -57,8 +57,12 @@ namespace hmsAdmin.Controllers
         // POST
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Department obj)
+        public IActionResult Create(Department obj, IFormFile deptImage)
         {
+            // Check Image
+            if (deptImage == null)
+                ModelState.AddModelError("Image", "Please, Select an Image!");
+
             // Check The Name
             var name = _db.Departments.FromSql($"SELECT * FROM departments WHERE name = {obj.Name}");
             foreach (var p in name)
@@ -76,6 +80,29 @@ namespace hmsAdmin.Controllers
             {
                 _db.Departments.Add(obj);
                 _db.SaveChanges();
+
+                // Upload The Image
+                try
+                {
+                    // Upload The Image To wwwroot Folder
+                    string imageName = deptImage.FileName;
+                    imageName = $"{obj.Id}-" + Path.GetFileName(imageName);
+                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/dept", imageName);
+                    var stream = new FileStream(uploadFilePath, FileMode.Create);
+                    deptImage.CopyToAsync(stream);
+                    // Using SQL Queries To Update The Image 
+                    using (var trans = _db.Database.BeginTransaction())
+                    {
+                        _db.Database.ExecuteSqlInterpolated($"UPDATE departments SET image = {imageName} WHERE id = {obj.Id}");
+                        _db.SaveChanges();
+                        trans.Commit();
+                    }
+                }
+                catch (Exception e)
+                {
+                    TempData["error"] = "Oops, Errors Occured!";
+                    return View(obj);
+                }
 
                 TempData["success"] = "Department Created Successfully!";
                 return RedirectToAction("Index");
@@ -128,6 +155,64 @@ namespace hmsAdmin.Controllers
 			return View(obj);
         }
 
+        // -- Update Image --
+        // GET
+        [HttpGet]
+        public IActionResult EditImage(int? id)
+        {
+            if (id == 0 || id == null)
+                return NotFound();
+
+            var obj = _db.Departments.Find(id);
+            if (obj == null)
+                return NotFound();
+
+            return View(obj);
+        }
+        // POST
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult EditImage(Department obj, IFormFile deptImage)
+        {
+            // Check Image
+            if (deptImage == null)
+                ModelState.AddModelError("Image", "Please, Select an Image!");
+
+            if (ModelState.IsValid)
+            {
+                _db.Departments.Update(obj);
+                _db.SaveChanges();
+
+                // Update The Image if the user choose to change his image
+                try
+                {
+                    // Upload The Image To wwwroot Folder
+                    string imageName = deptImage.FileName;
+                    imageName = $"{obj.Id}-" + Path.GetFileName(imageName);
+                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/dept", imageName);
+                    var stream = new FileStream(uploadFilePath, FileMode.Create);
+                    deptImage.CopyToAsync(stream);
+                    // Using SQL Queries To Update The Image 
+                    using (var trans = _db.Database.BeginTransaction())
+                    {
+                        _db.Database.ExecuteSqlInterpolated($"UPDATE departments SET image = {imageName} WHERE id = {obj.Id}");
+                        _db.SaveChanges();
+                        trans.Commit();
+                    }
+                }
+                catch (Exception e)
+                {
+                    TempData["error"] = "Oops, Errors Occured!";
+                    return View(obj);
+                }
+
+                TempData["success"] = "Image Updated Successfully";
+                return RedirectToAction("Index");
+            }
+            TempData["error"] = "Oops, Errors Occured!";
+            return View(obj);
+        }
+
         // -- Delete --
         // POST
         [HttpPost]
@@ -154,7 +239,7 @@ namespace hmsAdmin.Controllers
                 _db.Database.ExecuteSqlInterpolated($"DELETE FROM nurses WHERE id = {ns.Id}");
                 _db.SaveChanges();
             }
-            var appIds = _db.Appointments.FromSql($"SELECT * FROM appointments WHERE fk_dept = {id}");
+            var appIds = _db.Appointments.FromSql($"SELECT * FROM appointments WHERE departmentid = {id}");
             foreach (var app in appIds)
             {
                 _db.Database.ExecuteSqlInterpolated($"DELETE FROM appointments WHERE id = {app.Id}");
@@ -168,6 +253,62 @@ namespace hmsAdmin.Controllers
 
             TempData["success"] = "Department Deleted Successfully!";
 			return RedirectToAction("Index");
+        }
+
+        // Our Departments
+        [HttpGet]
+        public IActionResult Department()
+        {
+            IEnumerable<Department> deptData = _db.Departments.ToList();
+            return View(deptData);
+        }
+        // Show a single department
+        [HttpGet]
+        public IActionResult SingleDepartment(int? id)
+        {
+            if (id == 0 || id == null)
+                return NotFound();
+
+            var obj = _db.Departments.Find(id);
+            if (obj == null)
+                return NotFound();
+
+            // Department Details
+            var deptData = _db.Departments.FromSql($"SELECT * FROM departments WHERE id = {id}");
+            deptData.ToList();
+            ViewBag.Dept = deptData;
+            
+            foreach(var dept in deptData)
+            {
+                ViewBag.Name = dept.Name;
+                break;
+            }
+
+            // Stuff Details
+            int drCnt = 0, nsCnt = 0;
+            var depts = _db.Departments.FromSql($"SELECT * FROM departments WHERE id  = {id}");
+            Dictionary<int, int> dr = new Dictionary<int, int>();
+            Dictionary<int, int> ns = new Dictionary<int, int>();
+            foreach (var d in depts)
+            {
+                var drQ = _db.Doctors.FromSql($"SELECT * FROM doctors WHERE fk_dept = {d.Id}");
+                foreach (var c in drQ)
+                {
+                    drCnt++;
+                }
+                dr.Add(d.Id, drCnt);
+                var nsQ = _db.Nurses.FromSql($"SELECT * FROM nurses WHERE fk_dept = {d.Id}");
+                foreach (var c in nsQ)
+                {
+                    nsCnt++;
+                }
+                ns.Add(d.Id, nsCnt);
+            }
+
+            ViewBag.Doc = dr;
+            ViewBag.Nur = ns;
+
+            return View();
         }
     }
 }

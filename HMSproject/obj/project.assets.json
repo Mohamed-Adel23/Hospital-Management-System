@@ -11419,11 +11419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/HMSproject.csproj",
+      "projectUniqueName": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/HMSproject.csproj",
       "projectName": "HMSproject",
-      "projectPath": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/HMSproject.csproj",
+      "projectPath": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/HMSproject.csproj",
       "packagesPath": "/Users/mostafayoussef/.nuget/packages/",
-      "outputPath": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/obj/",
+      "outputPath": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mostafayoussef/.nuget/NuGet/NuGet.Config"

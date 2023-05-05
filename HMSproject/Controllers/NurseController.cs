@@ -93,7 +93,7 @@ namespace HMSproject.Controllers
                     // Upload The Image To wwwroot Folder
                     string imageName = nsImage.FileName;
                     imageName = $"{obj.Id}-" + Path.GetFileName(imageName);
-                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\ns", imageName);
+                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/ns", imageName);
                     var stream = new FileStream(uploadFilePath, FileMode.Create);
                     nsImage.CopyToAsync(stream);
                     // Using SQL Queries To Update The Image 
@@ -302,7 +302,7 @@ namespace HMSproject.Controllers
                     // Upload The Image To wwwroot Folder
                     string imageName = nsImage.FileName;
                     imageName = $"{obj.Id}-" + Path.GetFileName(imageName);
-                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\ns", imageName);
+                    string uploadFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/ns", imageName);
                     var stream = new FileStream(uploadFilePath, FileMode.Create);
                     nsImage.CopyToAsync(stream);
                     // Using SQL Queries To Update The Image 

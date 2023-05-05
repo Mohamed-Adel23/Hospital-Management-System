@@ -9,6 +9,8 @@ using HMSproject.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
 namespace HMSproject.Areas.Identity.Pages.Account.Manage
@@ -18,15 +20,18 @@ namespace HMSproject.Areas.Identity.Pages.Account.Manage
         private readonly UserManager<Patient> _userManager;
         private readonly SignInManager<Patient> _signInManager;
         private readonly ILogger<DeletePersonalDataModel> _logger;
+        private HmsContext _context;
 
         public DeletePersonalDataModel(
             UserManager<Patient> userManager,
             SignInManager<Patient> signInManager,
-            ILogger<DeletePersonalDataModel> logger)
+            ILogger<DeletePersonalDataModel> logger,
+            HmsContext context)
         {
             _userManager = userManager;
             _signInManager = signInManager;
             _logger = logger;
+            _context = context;
         }
 
         /// <summary>
@@ -87,6 +92,21 @@ namespace HMSproject.Areas.Identity.Pages.Account.Manage
                 }
             }
 
+            var userID = _userManager.GetUserId(User);
+            using (SqlConnection connection = new SqlConnection("Server=localhost;Database=HMS;User=sa;Password=reallyStrongPwd123;TrustServerCertificate=True;Encrypt=false;MultipleActiveResultSets=true"))
+            {
+                string query = "DELETE FROM appointments where PatientID=@PatientID";
+
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@PatientID", userID);
+                    connection.Open();
+                    int rowsAffected = command.ExecuteNonQuery();
+                    connection.Close();
+                }
+            }
+            
+            await _context.SaveChangesAsync();
             var result = await _userManager.DeleteAsync(user);
             var userId = await _userManager.GetUserIdAsync(user);
             if (!result.Succeeded)

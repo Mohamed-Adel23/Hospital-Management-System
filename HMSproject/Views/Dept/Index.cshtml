@@ -24,7 +24,8 @@
                     <table class="table">
                         <thead class="bg-dark text-white">
                             <tr>
-                                <th>Dept Name</th>
+                                <th class="text-center">Image</th>
+                                <th class="text-center">Dept Name</th>
                                 <th class="text-center">Appointment Cost</th>
                                 <th class="text-center">No.doctors</th>
                                 <th class="text-center">No.Nurses</th>
@@ -35,7 +36,10 @@
                             @foreach (var obj in Model)
                             {
                                 <tr>
-                                    <td class="text-black">@obj.Name</td>
+                                    <td class="text-center text-black">
+                                        <img src="~/images/dept/@obj.Image" height="40px" width="50px" alt="DeptImage">
+                                    </td>
+                                    <td class="text-black text-center">@obj.Name</td>
                                     <td class="text-center text-orange">@obj.app_price</td>
                                     @foreach (KeyValuePair<int, int> dr in ViewBag.Doc)
                                     {
@@ -59,8 +63,14 @@
                                     }
                                     <td class="text-center">
                                         <div class="w-90 btn-group" role="group">
+                                            <a asp-controller="Dept" asp-action="SingleDepartment" asp-route-id="@obj.Id" class="btn btn-outline-primary mx-1">
+                                                <i class="fas fa-rocket"></i>
+                                            </a>
                                             <a asp-controller="Dept" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-outline-primary mx-1">
                                                 <i class="fas fa-pencil"></i>
+                                            </a>
+                                            <a asp-controller="Dept" asp-action="EditImage" asp-route-id="@obj.Id" class="btn btn-outline-primary mx-1">
+                                                <i class="fas fa-image"></i>
                                             </a>
                                             <form method="POST" asp-action="Delete" asp-route-id="@obj.Id">
                                                 <button type="submit" class="btn btn-outline-danger">

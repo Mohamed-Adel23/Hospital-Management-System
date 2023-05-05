@@ -31,8 +31,8 @@ namespace HMSproject.Controllers
             var user = await _userManager.GetUserAsync(User);
             _emailSender.SendEmailAsync(user.Email, "Confirming Your Appointment", $"Thank you for making your appointment.<br/>" +
                 $" Please make sure that you should come \"{TempData["Day"]}\" To the department of \"{TempData["Department"]}\" <br/>" +
-                $"The Price of the appointment will be \"{TempData["Price"]}\"$ if you chose to pay cash.<br/>" +
-                $"<strong>The hospital is only open from 9 am to 5 pm every day</strong>");
+                $"The Price of the appointment will be \"{TempData["Price"]}$\" if you chose to pay cash.<br/>Timing schedule.<br/><strong>Working Hours</strong><br/>" +
+                $"<strong>Sun - Wed :&nbsp&nbsp&nbsp8:00 - 17:00<br/>Thu - Fri :&nbsp&nbsp&nbsp9:00 - 17:00<br/>Sat - sun :&nbsp&nbsp&nbsp10:00 - 17:00</strong>");
             return View();
         }
         

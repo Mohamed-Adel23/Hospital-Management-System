@@ -191,7 +191,7 @@
                                             }
                                             else
                                             {
-                                                <td class="text-danger">
+                                                <td class="text-warning">
                                                     @obj.Patient.Name
                                                 </td>
                                             }
@@ -214,7 +214,7 @@
                                                 }
                                             }
 
-                                            <td class="text-center text-orange">
+                                            <td class="text-center text-dark">
                                                 @obj.Day
                                             </td>
                                             @if (obj.Status == 1)
@@ -229,10 +229,10 @@
                                             else
                                             {
                                                 <td class="text-center">
-                                                    <i class="fa fa-circle text-danger font-12"
+                                                    <i class="fa fa-circle text-warning font-12"
                                                        data-bs-toggle="tooltip"
                                                        data-placement="top"
-                                                       title="cancelled"></i>
+                                                       title="pending"></i>
                                                 </td>
                                             }
                                         </tr>

@@ -35,32 +35,7 @@
                             <span asp-validation-for="Name" class="text-danger font-12"></span>
                         </div>
                     </div>
-                    @*<div class="row form-group mt-4">
-                        <div class="col col-md-3">
-                            <label for="nd" class="form-control-label text-black">No. Doctors</label>
-                        </div>
-                        <div class="col-12 col-md-9">
-                            <input type="number"
-                                   id="nd"
-                                   asp-for="DrNumber"
-                                   placeholder="doctors"
-                                   class="form-control" />
-                            <span asp-validation-for="DrNumber" class="text-danger font-12"></span>
-                        </div>
-                    </div>
-                    <div class="row form-group mt-4">
-                        <div class="col col-md-3">
-                            <label for="nn" class="form-control-label text-black">No. Nurses</label>
-                        </div>
-                        <div class="col-12 col-md-9">
-                            <input type="number"
-                                   id="nn"
-                                   asp-for="NsNumber"
-                                   placeholder="nurses"
-                                   class="form-control" />
-                            <span asp-validation-for="NsNumber" class="text-danger font-12"></span>
-                        </div>
-                    </div>*@
+                    
                     <div class="row form-group mt-4">
                         <div class="col col-md-3">
                             <label for="name" class="form-control-label text-black">Appointment Cost</label>
@@ -72,6 +47,34 @@
                                    placeholder="cost"
                                    class="form-control" />
                             <span asp-validation-for="app_price" class="text-danger font-12"></span>
+                        </div>
+                    </div>
+
+                    <div class="row form-group mt-4">
+                        <div class="col col-md-3">
+                            <label for="textarea-input"
+                                   class="form-control-label text-black">Description</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <textarea asp-for="Description"
+                                      id="textarea-input"
+                                      rows="5"
+                                      placeholder="department description..."
+                                      class="form-control"></textarea>
+                            <span asp-validation-for="Description" class="text-danger font-12"></span>
+                        </div>
+                    </div>
+
+                    <div class="row form-group mt-4" style="display: none;">
+                        <div class="col col-md-3">
+                            <label for="file-input"
+                                   class="form-control-label text-black">Dept Image</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <input type="text"
+                                   id="file-input"
+                                   asp-for="Image"
+                                   class="form-control" />
                         </div>
                     </div>
                     <div class="card-footer"

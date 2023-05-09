@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.Dynamic;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.Identity;
 
 namespace HMSproject.Controllers
 {
@@ -49,8 +50,12 @@ namespace HMSproject.Controllers
             if(drImage == null)
 				ModelState.AddModelError("Image", "Please, Select an Image!");
 
-			// Check Password
-			var pass = _db.Doctors.FromSql($"SELECT * FROM doctors WHERE password = {obj.Password}");
+            // Hashing The Password
+            var passwordHasher = new PasswordHasher<string>();
+            string password = obj.Password;
+            string hashedPassword = passwordHasher.HashPassword(null, password);
+            // Check Password
+            var pass = _db.Doctors.FromSql($"SELECT * FROM doctors WHERE password = {hashedPassword}");
 			foreach (var p in pass)
 			{
 				if (p.Password == null)
@@ -89,6 +94,10 @@ namespace HMSproject.Controllers
             if (ModelState.IsValid)
             {
                 _db.Doctors.Add(obj);
+                _db.SaveChanges();
+
+                // Update DataBase
+                _db.Database.ExecuteSqlInterpolated($"UPDATE doctors SET password = {hashedPassword} WHERE id = {obj.Id}");
                 _db.SaveChanges();
 
                 // Upload The Image
@@ -230,8 +239,13 @@ namespace HMSproject.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult EditPass(Doctor obj)
         {
-			// Check Password
-			var pass = _db.Doctors.FromSql($"SELECT * FROM doctors WHERE password = {obj.Password} AND id != {obj.Id}");
+            // Hashing The Password
+            var passwordHasher = new PasswordHasher<string>();
+            string password = obj.Password;
+            string hashedPassword = passwordHasher.HashPassword(null, password);
+            
+            // Check Password
+            var pass = _db.Doctors.FromSql($"SELECT * FROM doctors WHERE password = {hashedPassword} AND id != {obj.Id}");
 			foreach (var p in pass)
 			{
 				if (p.Password == null)
@@ -246,6 +260,10 @@ namespace HMSproject.Controllers
 			if (ModelState.IsValid)
             {
                 _db.Doctors.Update(obj);
+                _db.SaveChanges();
+
+                // Update Hashing Password
+                _db.Database.ExecuteSqlInterpolated($"UPDATE doctors SET password = {hashedPassword} WHERE id = {obj.Id}");
                 _db.SaveChanges();
 
                 TempData["success"] = "Password Updated Successfully";

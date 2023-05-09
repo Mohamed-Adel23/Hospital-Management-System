@@ -14,7 +14,7 @@
             href="~/assets/images/favicon.ico" />
     <title>CareCoord | Admin Panel</title>
     <!-- Custom CSS -->
-    <link href="~/assets/extra-libs/c3/c3.min.css" rel="stylesheet" />
+    <link href="~/assets/extra-libs/c3/c3.css" rel="stylesheet" />
     <link href="~/assets/libs/chartist/dist/chartist.min.css"
             rel="stylesheet" />
     <link href="~/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.css"
@@ -256,7 +256,15 @@
         <!-- Partial Alerts-->
         <partial name="_Notification" />
 
-        @RenderBody()
+        <div class="page-wrapper">
+            <div class="container-fluid">
+                @RenderBody()
+            </div>
+            <footer class="footer text-center text-muted font-14">
+                All Rights Reserved &copy; Copyright.
+                <a href="#">Before Others</a>.
+            </footer>
+        </div>
 
     </div>
 

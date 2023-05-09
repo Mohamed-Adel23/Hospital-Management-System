@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using HMSproject.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -33,7 +34,9 @@ public partial class HmsContext : IdentityDbContext<Patient>
     public virtual DbSet<Nurse> Nurses { get; set; }
 
     public virtual DbSet<Pharmacy> Pharmacies { get; set; }
-    
+
+    public virtual DbSet<cash_flow> Cash_Flows { get; set; }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);

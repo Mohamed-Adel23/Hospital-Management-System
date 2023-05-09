@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Views",
+    "\\Views\\Dept"
   ],
   "SelectedNode": "\\HMSproject.sln",
   "PreviewInSolutionExplorer": false

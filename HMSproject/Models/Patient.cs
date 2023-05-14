@@ -14,6 +14,7 @@ public partial class Patient:IdentityUser
     public string? Gender { get; set; } = null!;
 
     public int? Age { get; set; }
+    public int? Condition { get; set; }
 
     public string? Address { get; set; }
 
@@ -22,4 +23,8 @@ public partial class Patient:IdentityUser
     public byte[]? profilePic { get; set; }
 
     public virtual ICollection<Appointment>? Appointments { get; set; } = new List<Appointment>();
+    public Patient()
+    {
+        this.Condition = 0;
+    }
 }

@@ -1,0 +1,283 @@
+
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  line-height: 1.6;
+  font-family: "Roboto", sans-serif;
+  color: #6f8ba4;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-family: "Exo", sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+
+
+.a-page-title {
+  padding: 120px 0.1px 70px 0.1px;
+  position: relative;
+  color: #fff;
+}
+
+.bg-1 {
+  background: url("../images/bg/22.jpg") no-repeat 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.overlay:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.9;
+  background: #223a66;
+}
+
+.column-md {
+  position:relative;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-capitalize {
+  color: white;
+}
+
+.nurse-list{
+  padding-left:0;
+  display:inline-block;
+  list-style:none;
+}
+
+.line-in-list {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.except {
+  color: #ffffff;
+  text-decoration: none;
+  transition: all 0.35s ease;
+}
+
+.except:hover {
+  color: #e12454;
+  text-decoration: none;
+}
+
+.Nurse-section {
+  display: grid ;
+  grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+  grid-template-rows: repeat(2, auto);
+  gap: 19px 80px;
+  width: 100%;
+  height: 100%;
+  justify-content: space-around;
+  align-content: flex-start;
+  margin: 30px 10px;
+}
+
+footer {
+    margit-top: 50 px;
+}
+
+@media screen and (max-width: 768px) {
+  .Nurse-section {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .Nurse-section {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+}
+
+
+.nurse-link {
+  display: flex;
+}
+
+.nurse-link:hover {
+  transform: scale(1.1);
+
+}
+
+.nurse-card {
+  margin: 5px;
+  padding: 1px;
+  width: 250px;
+  height: 250px;
+  background-color: #eee;
+  display: flex;
+  position: relative;
+  border-radius: 3%;
+  box-shadow: 1.5px 1.5px 3px 0.01px #00000031 ;
+}
+
+
+/*.nurse-card::before {*/
+/*  content: "\A";*/
+/*  font-size: 100px;*/
+/*  font-weight: 300;*/
+/*  display: flex;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+/*  color: #fff;*/
+/*  width: 100%;*/
+/*  height: 100%;*/
+/*  background-color: rgba(0, 0, 255);*/
+/*  !* opacity: 0.9; *!*/
+/*  position: absolute;*/
+/*  top: -100%;*/
+/*  left: 0%;*/
+/*  transition: .6s;*/
+/*  !* transform: scale(1.1); *!*/
+/*}*/
+/*.nurse-card:hover.nurse-card::before {*/
+/*  top: 0%;*/
+/*}*/
+
+.nurse-fontawesome{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #6f8ba4;
+  top: 3%;
+}
+
+a .nurse-fontawesome:hover{
+  transform: scale(1.1);
+  color: rgba(23, 23, 229, 0.783);
+}
+
+a p {
+  color: #6f8ba4;
+}
+
+.date-box {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 30px 0.01px;
+  width: 100%;
+  font-size: 20px;
+  color: #6f8ba4;
+  background-color: #eee;
+  cursor: not-allowed;
+}
+
+.date-item {
+  text-align: center;
+}
+
+.date-item-label {
+  font-weight: bold;
+}
+
+.search-container {
+  display: grid;
+  grid-template-columns: minmax(350px, 400px) 200px;
+  align-items: center;
+  margin: 20px;
+}
+
+#search-input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  background-color: #eee;
+  border-radius: 1.7px;
+  height: 33px;
+}
+
+#search-input:hover{
+  transform: scale(1.05);
+  background-color: white;
+  border: 1px solid rgba(0, 0, 255, 0.644);
+}
+
+#search-input:focus{
+  transform: scale(1.05);
+  background-color: white;
+  border: 1px solid rgba(0, 0, 255, 0.644);
+}
+
+#search-button {
+  padding: 5px 10px;
+  background-color: #eee;
+  color: #00f;
+  border: 1px solid #ccc;
+  border-radius: 1.7px;
+  cursor: pointer;
+  margin: 5px 15px;
+  height: 33px;
+}
+
+#search-button:hover {
+  transform: scale(1.05);
+  background-color: rgba(10, 10, 201, 0.644);
+  border: 1px solid rgba(0, 0, 255, 0.644);
+  color: white;
+}
+
+#result-table {
+  border-collapse: separate;
+  border-spacing: 5px;
+  width: 100%;
+}
+
+#result-table th,
+#result-table td {
+  padding: 7.5px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+#result-table th {
+  background-color: #eee;
+}
+
+#result-table-body th {
+  background-color: white;
+}
+
+#pay-container {
+  display: none;
+}
+
+#pay-button {
+  background-color: #6f8ba4;
+  position: relative;
+  color: white;
+  width: 100%;
+  height: 100%;
+}
+
+#pay-button:hover{
+  transform: scale(1.07);
+
+}
+
+
+  

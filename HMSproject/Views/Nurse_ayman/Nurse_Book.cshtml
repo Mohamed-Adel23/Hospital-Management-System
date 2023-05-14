@@ -1,0 +1,130 @@
+@model dynamic
+
+@{
+    ViewBag.Title = "Book  New Appointment";
+    Layout = "_Layout_Nurse_ayman";
+}
+
+
+<section class="a-page-title bg-1"> 
+      <div class="overlay"></div>
+        <div class="column-md">
+          <div class="text-center">
+            <h1 class="text-capitalize">Hospital Management System</h1>
+            <ul class="line-in-list">
+              <li class="nurse-list"><a asp-controller="Nurse_ayman" asp-action="Index" class="except"> Nurse</a></li>
+              <li class="nurse-list">/</li>
+              <li class="nurse-list">Nurse - Book an Appoinment</li>
+            </ul>
+          </div>
+        </div>
+    </section>
+
+  <section class="Nurse-Book-section"> 
+
+    <div class="date-box" id="date-box" disabled>
+        <div class="date-item">
+          <div class="date-item-label">Day</div>
+          <div id="day"></div>
+        </div>
+        <div class="date-item">
+          <div class="date-item-label">Date</div>
+          <div id="date"></div>
+        </div>
+        <div class="date-item">
+          <div class="date-item-label">Time</div>
+          <div id="time"></div>
+        </div>
+    </div>
+
+    <section class="appoinment section">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-4">
+                <div class="mt-3">
+                  <div class="feature-icon mb-3">
+                    <i class="icofont-support text-lg"></i>
+                  </div>
+                   <span class="h3">Call for an Emergency Service!</span>
+                    <h2 class="text-color mt-3">+01121664514 </h2>
+                </div>
+            </div>
+      
+            <div class="col-lg-8">
+                 <div class="appoinment-wrap mt-5 mt-lg-0 pl-lg-5">
+                  <h2 class="mb-2 title-color">Book an appoinment</h2>
+                     <form id="#" class="appoinment-form" method="post" action="#">
+                          <div class="row">
+                               <div class="col-lg-6">
+                                  <div class="form-group">
+                                      <select class="form-control" id="exampleFormControlSelect1">
+                                        <option>Choose Department</option>
+                                        <option>Orthopedic department</option>
+                                        <option>Department of Surgery</option>
+                                        <option>Department of Heart</option>
+                                        <option>Department of Dantal</option>
+                                      </select>
+                                  </div>
+                              </div>
+      
+                               <div class="col-lg-6">
+                                  <div class="form-group">
+                                      <input name="date" id="date" type="text" class="form-control" placeholder="Day/Month">
+                                  </div>
+                              </div>
+       
+                               <div class="col-lg-6">
+                                  <div class="form-group">
+                                      <input name="name" id="name" type="text" class="form-control" placeholder="Full Name">
+                                  </div>
+                              </div>
+
+                              <div class="col-lg-6">
+                                <div class="form-group">
+                                    <input name="name" id="name" type="text" class="form-control" placeholder="Age">
+                                </div>
+                              </div>
+
+                              <div class="col-lg-6">
+                                <div class="form-group">
+                                    <input name="name" id="name" type="text" class="form-control" placeholder="Gender">
+                                </div>
+                              </div>
+      
+                              <div class="col-lg-6">
+                                <div class="form-group">
+                                    <input name="name" id="name" type="text" class="form-control" placeholder="Phone nuber">
+                                </div>
+                              </div>
+                          </div>
+      
+                          <a class="btn btn-main btn-round-full" asp-controller="Nurse_ayman" asp-action="Index">Make Appointment<i class="icofont-simple-right ml-2"></i></a>
+                      </form>
+                  </div>
+              </div>
+            </div>
+          </div>
+    </section>
+  </section>
+
+      <script>
+        function updateDate() {
+          var dayDiv = document.getElementById("day");
+          var dateDiv = document.getElementById("date");
+          var timeDiv = document.getElementById("time");
+          var today = new Date();
+          var daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+          var dayOfWeek = daysOfWeek[today.getDay()];
+          var dateString = today.toLocaleDateString();
+          var timeString = today.toLocaleTimeString();
+          dayDiv.innerHTML = dayOfWeek;
+          dateDiv.innerHTML = dateString;
+          timeDiv.innerHTML = timeString;
+        }
+    
+        updateDate(); 
+        setInterval(function() {
+          updateDate();
+        }, 1000);
+        
+       </script>

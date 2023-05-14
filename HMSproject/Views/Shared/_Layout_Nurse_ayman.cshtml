@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - HMS</title>
+    <link rel="stylesheet" href="~/css/Nurse_ayman.css" asp-append-version="true"/>
+    <!-- font awesome Stylesheet -->
+        <link href="fontawesome-free-6.4.0-web/css/fontawesome.css" rel="stylesheet">
+        <!-- <link href="fontawesome-free-6.4.0-web/css/brands.css" rel="stylesheet"> -->
+        <link href="fontawesome-free-6.4.0-web/css/solid.css" rel="stylesheet">
+    <link rel="icon" href="~/theme/images/favicon.ico" type="image/icon type" />
+    <link rel="stylesheet" href="~/css/bootstrap.css"/>
+    <link rel="stylesheet" href="~/theme/plugins/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/theme/plugins/icofont/icofont.min.css" />
+    <link rel="stylesheet" href="~/theme/plugins/slick-carousel/slick/slick.css" />
+            <link
+              rel="stylesheet"
+              href="~/theme/plugins/slick-carousel/slick/slick-theme.css"
+            />
+        
+            <!-- Main Stylesheet -->
+        <link rel="stylesheet" href="~/theme/css/style.css" />
+</head>
+<body>
+
+@RenderBody()
+
+<footer class="border-top footer text-muted" style="display: flex; justify-content: center; text-align:center; ">
+    <div class="container">
+        &copy; 2023 - HMS - <a asp-controller="Home" asp-action="Index">Before Others</a>
+    </div>
+</footer>
+
+@await RenderSectionAsync("Scripts", required:false)
+
+</body>
+</html>

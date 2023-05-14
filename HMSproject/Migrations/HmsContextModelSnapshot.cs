@@ -61,9 +61,20 @@ namespace HMSproject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("Image")
+                        .HasMaxLength(255)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(255)");
+
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<int>("app_price")
                         .HasColumnType("int");
@@ -111,56 +122,82 @@ namespace HMSproject.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("id");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Address")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(200)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(200)")
+                        .HasColumnName("address");
 
                     b.Property<int>("Age")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("age");
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(255)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(255)")
+                        .HasColumnName("email");
 
                     b.Property<int>("Experience")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("experience");
 
                     b.Property<int?>("FkDept")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("FkDeptNavigationId")
-                        .HasColumnType("int");
+                        .IsRequired()
+                        .HasColumnType("int")
+                        .HasColumnName("fk_dept");
 
                     b.Property<string>("Gender")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(20)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(20)")
+                        .HasColumnName("gender");
 
                     b.Property<string>("Image")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(100)")
+                        .HasColumnName("image");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(30)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(30)")
+                        .HasColumnName("name");
 
                     b.Property<string>("Password")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(100)")
+                        .HasColumnName("password");
 
                     b.Property<string>("PersonalProfile")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(200)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(200)")
+                        .HasColumnName("personal_profile");
 
                     b.Property<string>("Phone")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(11)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(11)")
+                        .HasColumnName("phone");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("FkDeptNavigationId");
+                    b.HasIndex("FkDept");
 
-                    b.ToTable("Doctors");
+                    b.ToTable("doctors");
                 });
 
             modelBuilder.Entity("HMSproject.Models.Lab", b =>
@@ -226,49 +263,71 @@ namespace HMSproject.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("id");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Address")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(200)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(200)")
+                        .HasColumnName("address");
 
                     b.Property<int>("Age")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("age");
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(255)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(255)")
+                        .HasColumnName("email");
 
                     b.Property<int?>("FkDept")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("FkDeptNavigationId")
-                        .HasColumnType("int");
+                        .IsRequired()
+                        .HasColumnType("int")
+                        .HasColumnName("fk_dept");
 
                     b.Property<string>("Gender")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(20)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(20)")
+                        .HasColumnName("gender");
 
                     b.Property<string>("Image")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(100)")
+                        .HasColumnName("image");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(30)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(30)")
+                        .HasColumnName("name");
 
                     b.Property<string>("Password")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(100)")
+                        .HasColumnName("password");
 
                     b.Property<string>("Phone")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(11)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(11)")
+                        .HasColumnName("phone");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("FkDeptNavigationId");
+                    b.HasIndex("FkDept");
 
-                    b.ToTable("Nurses");
+                    b.ToTable("nurses");
                 });
 
             modelBuilder.Entity("HMSproject.Models.Patient", b =>
@@ -376,6 +435,25 @@ namespace HMSproject.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Pharmacies");
+                });
+
+            modelBuilder.Entity("HMSproject.Models.cash_flow", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+
+                    b.Property<int>("Lab_cash")
+                        .HasColumnType("int");
+
+                    b.Property<int>("appointments_cash")
+                        .HasColumnType("int");
+
+                    b.HasKey("id");
+
+                    b.ToTable("Cash_Flows");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -541,7 +619,9 @@ namespace HMSproject.Migrations
                 {
                     b.HasOne("HMSproject.Models.Department", "FkDeptNavigation")
                         .WithMany("Doctors")
-                        .HasForeignKey("FkDeptNavigationId");
+                        .HasForeignKey("FkDept")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("FkDeptNavigation");
                 });
@@ -568,7 +648,9 @@ namespace HMSproject.Migrations
                 {
                     b.HasOne("HMSproject.Models.Department", "FkDeptNavigation")
                         .WithMany("Nurses")
-                        .HasForeignKey("FkDeptNavigationId");
+                        .HasForeignKey("FkDept")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("FkDeptNavigation");
                 });

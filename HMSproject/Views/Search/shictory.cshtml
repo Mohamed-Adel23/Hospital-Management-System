@@ -1,0 +1,83 @@
+﻿@using HMSproject.Models;
+@model List<Diagnose>
+@*@using static H_M_S__project_.Controllers.WorkController;
+@model PatientDiagnosisViewModel
+<p>Diagnose count: @Model.diagnose?.Count</p>*@
+
+
+<style>
+    .bg-1 {
+        background-image: url("/Images/im.jpg");
+        background-size: cover;
+        position: relative;
+    }
+</style>
+<section class="page-title bg-1">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+                    <span class="text-white"></span>
+                    <h1 class="text-capitalize mb-5 text-lg">Medical History</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ****************************************Medical History****************************************************** -->
+<section class="tab">
+    <div class="container">
+        <div class="doctor-img-block">
+            <h2 style="color:black; font-style: normal;">Patient Medical History</h2>
+            <div class="table-wrapper">
+                <partial name="_Notification" />
+                <table class="fl-table">
+                    <thead>
+                        <tr>
+
+                            <th> Description</th>
+                            <th> prescription</th>
+                            <th> Medical Analysis</th>
+                            <th> Date</th>
+                            <th> Modify</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var diagnose in Model)
+                        {
+                            <tr>
+
+                                <td>@diagnose.Description</td>
+                                <td>@diagnose.Prescription</td>
+                                <td>@diagnose.Analysis</td>
+                                <td>@diagnose.Date </td>
+                                <td>
+                                    <a asp-controller="Search" asp-action="edit" asp-route-Id="@diagnose.Id"><i class="bi bi-pencil-square"></i></a>
+                                    &nbsp;
+
+                                    <a asp-controller="Search" asp-action="delete" asp-route-Id="@diagnose.Id"><i class="bi bi-trash3-fill"></i></a>
+
+
+                                </td>
+
+
+                            </tr>
+
+                        }
+
+
+                    <tbody>
+                </table>
+            </div>
+            <hr />
+            <hr />
+            <a class="btn btn-slide-9" asp-controller="Search" asp-action="spatient" type="submit" style="background-color:black; margin-left: 85%; color: white; argin-top: 10%; ">Back &nbsp; <i style="color:white; margin:auto;" class="bi bi-arrow-bar-right"></i> </a>
+
+
+        </div>
+    </div>
+</section>

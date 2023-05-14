@@ -1,0 +1,203 @@
+@model Diagnose
+
+
+@{
+    ViewBag.Title = "Pharmacy";
+    Layout = "_Layout_Nurse_ayman";
+}
+<link rel="icon" href="~/theme/images/favicon.ico" type="image/icon type" />
+
+<style>
+
+  .search-input {
+      padding: 5px;
+      border: 1px solid #ccc;
+      background-color: #eee;
+      border-radius: 1.7px;
+      height: 37px;
+  }
+
+  .search-input:hover{
+      transform: scale(1.05);
+      background-color: white;
+      border: 1px solid rgba(0, 0, 255, 0.644);
+  }
+
+  .search-input:focus{
+      transform: scale(1.05);
+      background-color: white;
+      border: 1px solid rgba(0, 0, 255, 0.644);
+  }
+
+  .search-button {
+      padding: 5px 10px;
+      background-color: #eee;
+      color: #00f;
+      border: 1px solid #ccc;
+      border-radius: 1.7px;
+      cursor: pointer;
+      margin: 5px 15px;
+      height: 37px;
+  }
+  .search-button:hover {
+      transform: scale(1.05);
+      background-color: rgba(10, 10, 201, 0.644);
+      border: 1px solid rgba(0, 0, 255, 0.644);
+      color: white;
+  }
+  
+  #result-table {
+      /* border-collapse: separate; */
+      border-spacing: 0.1px;
+      width: 100%;
+      
+  }
+
+  #result-table th,
+  #result-table td {
+      padding: 7.5px;
+      text-align: center;
+      border: 1px solid #ccc;
+  }
+
+  #result-table th {
+      background-color: #eee;
+  }
+
+  #result-table-body th {
+      background-color: white;
+      height: 30px;
+  }
+
+
+</style>
+
+<section class="a-page-title bg-1"> 
+      <div class="overlay"></div>
+        <div class="column-md">
+          <div class="text-center">
+            <h1 class="text-capitalize">Hospital Management System</h1>
+            <ul class="line-in-list">
+              <li class="nurse-list"><a asp-controller="Nurse_ayman" asp-action="Index" class="except"> Nurse</a></li>
+              <li class="nurse-list">/</li>
+              <li class="nurse-list">Nurse - Pharmacy</li>
+            </ul>
+          </div>
+        </div>
+    </section>
+
+  <section class="Nurse-Find-section">
+
+    <div class="date-box" id="date-box" disabled>
+        <div class="date-item">
+          <div class="date-item-label">Day</div>
+          <div id="day"></div>
+        </div>
+        <div class="date-item">
+          <div class="date-item-label">Date</div>
+          <div id="date"></div>
+        </div>
+        <div class="date-item">
+          <div class="date-item-label">Time</div>
+          <div id="time"></div>
+        </div>
+    </div>
+
+    <h3 style="color: #6f8ba4; margin: 10px 20px;">Pharmacy</h3>
+
+	@using (Html.BeginForm("Nurse_Pharmacy", "Nurse_ayman" ))
+            {
+                <div class="search-container" id="validation" >
+                    @* <input style="width:260px" type="text" name="SSN" id="search-input" autocomplete="off" placeholder="Find an Appointment" /> *@
+                    <input type="text" maxLength="10" name="SSN" id="SSN" autocomplete="off" placeholder="Find an Appointment" class="form-control  search-input"
+                           data-rule-SSN="true" data-msg-SSN=" Please enter a valid SSN." />
+                    <input style="width:95px" class="search-button"  type="submit" value="Find" />
+                
+                         
+                </div>
+            }
+
+    <table id="result-table">
+        <thead>
+            <tr>
+                <th>Patient Name</th>
+                <th>Department Name</th>
+                <th>Medicine Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+
+        <tbody id="result-table-body">
+            @if (Model == null)//
+                            {
+                                <tr>
+                                    <th>No Data</th>
+                                    <th>No Data</th>
+                                    <th>No Data</th>
+                                    <th>No Data</th>
+                                </tr>
+                            }
+            else
+            {
+                <tr>
+                        
+                    <th>@Model.Appointments.Patient.Name</th>
+                    <th>@Model.Appointments.Department.Name </th>
+                    <th>@Model.Prescription</th>
+                    @using (Html.BeginForm("Pharmacy_update", "Nurse_ayman"))
+                    {
+                        <form method="post">
+                            <th>
+                                <input class="search-button" type="submit" value="19$"/>
+                            </th>   
+                            @* <div class="alert alert-success" data-auto-hide="3500"> *@
+                            @*        <strong>Success!</strong> Data updated successfully. *@
+                            @*      </div>     *@
+                             
+                        </form>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+     
+
+  </section>
+
+<script>
+    function updateDate() {
+      const dayDiv = document.getElementById("day");
+      const dateDiv = document.getElementById("date");
+      const timeDiv = document.getElementById("time");
+      const today = new Date();
+      const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+      const dayOfWeek = daysOfWeek[today.getDay()];
+      const dateString = today.toLocaleDateString();
+      const timeString = today.toLocaleTimeString();
+      dayDiv.innerHTML = dayOfWeek;
+      dateDiv.innerHTML = dateString;
+      timeDiv.innerHTML = timeString;
+    }
+
+    updateDate(); 
+    setInterval(function() {
+      updateDate();
+    }, 1000);
+    
+    function onKeyPress(event) {
+      
+      var key = event.keyCode || event.which;
+    
+     
+      if (key < 48 || key > 57 ) {
+        
+        event.preventDefault();
+      }
+    }
+     
+    document.getElementById("SSN").addEventListener("keypress", onKeyPress);
+    
+ 
+
+    
+   </script>

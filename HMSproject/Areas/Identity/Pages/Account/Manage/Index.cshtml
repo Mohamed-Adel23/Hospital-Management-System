@@ -30,76 +30,76 @@
       </div>
     </section>
 
-    <section class="section doctor-single">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4 col-md-6">
-            <div class="doctor-img-block">
-              @{
-                if (Model.Input.profilePic == null)
-                {
-                  <img src="~/theme/images/profilePic.png" alt=""id="profilePicture" class="img-fluid w-100"/>
-                }
-                else
-                {
-                  <img id="profilePicture" alt="profile" class="img-fluid w-100" src="data:image/*;base64,@(Convert.ToBase64String(Model.Input.profilePic))" />
-                }
-              }
+<section class="section doctor-single">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-md-6">
+        <div class="doctor-img-block">
+          @{
+            if (Model.Input.profilePic == null)
+            {
+              <img src="~/theme/images/profilePic.png" alt=""id="profilePicture" class="img-fluid w-100"/>
+            }
+            else
+            {
+              <img id="profilePicture" alt="profile" class="img-fluid w-100" src="data:image/*;base64,@(Convert.ToBase64String(Model.Input.profilePic))" />
+            }
+          }
 
-              <div class="info-block mt-4">
-                <h4 class="mb-0"> @Model.Input.Name</h4>
-                <p> @Model.Username</p>
+          <div class="info-block mt-4">
+            <h4 class="mb-0"> @Model.Input.Name</h4>
+            <p> @Model.Username</p>
 
-                <ul class="list-inline mt-4 doctor-social-links">
-                  <li class="list-inline-item">
-                    <a href="#!"><i class="icofont-facebook"></i></a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#!"><i class="icofont-twitter"></i></a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#!"><i class="icofont-skype"></i></a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#!"><i class="icofont-linkedin"></i></a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#!"><i class="icofont-pinterest"></i></a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-8 col-md-6">
-            <div class="doctor-details mt-4 mt-lg-0">
-              <h2 class="text-md">About myself as a patient</h2>
-              <div class="divider my-4"></div>
-              <p style="font-size: 19px;
-                        line-height: 1.5;
-                        letter-spacing: 2px;
-                        font-weight: bold;">
-                Full Name : @Model.Input.Name <br/><br/>
-                Age : @Model.Input.Age <br/><br/>
-                Gender : @Model.Input.Gender <br/><br/>
-                Address : @Model.Input.Address <br/><br/>
-                Email : @Model.Username <br/><br/>
-                National ID (SSN) : @Model.Input.SSN<br/><br/>
-                Phone Number : @Model.Input.PhoneNumber<br/><br/>
-              </p>
-              <a asp-controller="Appointment"
-                 asp-action="Create"
-                 class="btn btn-main-2 btn-round-full mt-3">Make an Appoinment<i class="icofont-simple-right ml-2"></i></a>
-              <a class="btn btn-main-2 btn-round-full mt-3"
-                 asp-controller="Appointment" asp-action="Index"
-                 style="    background: #2196F3;
-                            color: #fff;
-                            border-color: #03A9F4;">Show my appointments<i class="icofont-simple-right ml-2"></i></a>
-            </div>
+            <ul class="list-inline mt-4 doctor-social-links">
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-facebook"></i></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-twitter"></i></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-skype"></i></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-linkedin"></i></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-pinterest"></i></a>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
-    </section>
+
+      <div class="col-lg-8 col-md-6">
+        <div class="doctor-details mt-4 mt-lg-0">
+          <h2 class="text-md">About myself as a patient</h2>
+          <div class="divider my-4"></div>
+          <p style="font-size: 19px;
+                        line-height: 1.5;
+                        letter-spacing: 2px;
+                        font-weight: bold;">
+            Full Name : @Model.Input.Name <br/><br/>
+            Age : @Model.Input.Age <br/><br/>
+            Gender : @Model.Input.Gender <br/><br/>
+            Address : @Model.Input.Address <br/><br/>
+            Email : @Model.Username <br/><br/>
+            National ID (SSN) : @Model.Input.SSN<br/><br/>
+            Phone Number : @Model.Input.PhoneNumber<br/><br/>
+          </p>
+          <a asp-controller="Appointment"
+             asp-action="Create"
+             class="btn btn-main-2 btn-round-full mt-3">Make an Appoinment<i class="icofont-simple-right ml-2"></i></a>
+          <a class="btn btn-main-2 btn-round-full mt-3"
+             asp-controller="Appointment" asp-action="Index"
+             style="    background: #2196F3;
+                            color: #fff;
+                            border-color: #03A9F4;">Show my appointments<i class="icofont-simple-right ml-2"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 

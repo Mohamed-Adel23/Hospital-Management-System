@@ -1,0 +1,65 @@
+@model dynamic
+
+@{
+    ViewBag.Title = "Nurse Add New Patient";
+    Layout = "_Layout_Nurse_ayman";
+}
+
+<section class="a-page-title bg-1"> 
+    <div class="overlay"></div>
+    <div class="column-md">
+        <div class="text-center">
+            <h1 class="text-capitalize">Hospital Management System</h1>
+            <ul class="line-in-list">
+                <li class="nurse-list"><a asp-controller="Nurse_ayman" asp-action="Index" class="except"> Nurse</a></li>
+                <li class="nurse-list">/</li>
+                <li class="nurse-list">Nurse - Add New Patient </li>
+            </ul>
+        </div>
+    </div>
+</section>
+    
+<section class="Nurse-Find-section">
+
+    <div class="date-box" id="date-box" disabled>
+        <div class="date-item">
+            <div class="date-item-label">Day</div>
+            <div id="day"></div>
+        </div>
+        <div class="date-item">
+            <div class="date-item-label">Date</div>
+            <div id="date"></div>
+        </div>
+        <div class="date-item">
+            <div class="date-item-label">Time</div>
+            <div id="time"></div>
+        </div>
+    </div>
+
+    <h3 style="color: #6f8ba4; margin: 10px 20px;">Add New Patient</h3>
+
+
+
+</section>
+
+<script>
+    function updateDate() {
+      const dayDiv = document.getElementById("day");
+      const dateDiv = document.getElementById("date");
+      const timeDiv = document.getElementById("time");
+      const today = new Date();
+      const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+      const dayOfWeek = daysOfWeek[today.getDay()];
+      const dateString = today.toLocaleDateString();
+      const timeString = today.toLocaleTimeString();
+      dayDiv.innerHTML = dayOfWeek;
+      dateDiv.innerHTML = dateString;
+      timeDiv.innerHTML = timeString;
+    }
+
+    updateDate(); 
+    setInterval(function() {
+      updateDate();
+    }, 1000);
+    
+   </script>

@@ -1,0 +1,194 @@
+﻿@using HMSproject.Models;
+@model Diagnose
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<!--
+ // WEBSITE: https://themefisher.com
+ // TWITTER: https://twitter.com/themefisher
+ // FACEBOOK: https://www.facebook.com/themefisher
+ // GITHUB: https://github.com/themefisher/
+-->
+
+<html lang="en">
+<head>
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Health Care Medical Html5 Template" />
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+    <meta name="author" content="Themefisher" />
+    <meta name="generator" content="Themefisher Novena HTML Template v1.0" />
+
+    <!-- Essential stylesheets
+    ===================================== -->
+    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css" />
+
+
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="css/style.css" />
+
+    <style>
+
+
+    
+        .bg-1 {
+            background-image: url("/Images/im.jpg");
+            background-size: cover;
+            position: relative;
+        }
+    
+
+
+        select {
+            /* Reset Select */
+            appearance: none;
+            outline: 0;
+            border: 0;
+            box-shadow: none;
+            /* Personalize */
+            flex: 1;
+            padding: 0 1em;
+            color: #fff;
+            background-color: var(--darkgray);
+            background-image: none;
+            cursor: pointer;
+        }
+            /* Remove IE arrow */
+            select::-ms-expand {
+                display: none;
+            }
+        /* Custom Select wrapper */
+        .select {
+            position: relative;
+            display: flex;
+            width: 20em;
+            height: 3em;
+            border-radius: .25em;
+            overflow: hidden;
+        }
+            /* Arrow */
+            .select::after {
+                content: '\25BC';
+                position: absolute;
+                top: 0;
+                right: 0;
+                padding: 1em;
+                background-color: black;
+                transition: .25s all ease;
+                pointer-events: none;
+            }
+            /* Transition */
+            .select:hover::after {
+                color: white;
+            }
+
+        /* Other styles*/
+        body {
+            color: #fff;
+        }
+
+        h1 {
+            margin: 0 0 0.25em;
+        }
+
+        a {
+            font-weight: bold;
+            color: var(--gray);
+            text-decoration: none;
+            padding: .25em;
+            border-radius: .25em;
+            background: white;
+        }
+    </style>
+
+</head>
+
+<body id="top">
+
+    <!-- ************************************************************************************************************ -->
+
+    <section class="page-title bg-1">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="block text-center">
+                        <span class="text-white"></span>
+                        <h1 class="text-capitalize mb-5 text-lg">prescription</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ****************************************Medical History****************************************************** -->
+    <section class="section doctor-qualification gray-bg">
+        <div class="container">
+            <div class="section-title">
+                <h3>Doctor Tips</h3>
+                <div class="divider my-4"></div>
+            </div>
+
+            <form method="post" asp-action="Delete" asp-controller="Search">
+                <!-- Textarea 2 rows height -->
+                <div class="form-outline">
+                    <label asp-for="Description" style="color: black;" class="form-label" for="textAreaExample3">Description </label>
+                    <textarea asp-for="Description" disabled class="form-control" id="textAreaExample3" rows="6" placeholder="Write The Patient State" required placeholder="Prescription" style="background-color:whitesmoke ; color: black;"></textarea>
+                    
+                </div>
+                <br>
+                <hr />
+
+
+
+                <div class="form-outline">
+                    <label asp-for="Prescription" style="color: black;" class="form-label" for="textAreaExample2">prescription</label>
+                    <textarea asp-for="Prescription" disabled class="form-control" id="textAreaExample2" rows="6" placeholder="Write The prescription" required placeholder="Prescription" style="background-color:whitesmoke ; color: black;"></textarea>
+                    
+                </div>
+                <br>
+
+                <!-- Textarea without sizing class -->
+                <p style="color: black; font-size: medium;">Choose The Medical Analysis</p>
+                <div class="select">
+                    <select style="background-color:black" asp-for="Analysis" disabled>
+                        <option value="No Thing">No Thing</option>
+                        <option value="CBC">CBC</option>
+                        <option value="ESR">ESR</option>
+                        <option value="APTT">APTT</option>
+                        <option value="Urea">Urea</option>
+
+
+                    </select>
+                   
+
+                </div>
+
+                <button class="btn btn-slide-9" type="submit" style="background-color:black; margin-left: 50%; color: white; ">Delete</button>
+            </form>
+
+        </div>
+    </section>
+
+    <hr />
+    <!-- ************************************************************************************************************* -->
+    <a class="btn btn-slide-9" asp-controller="Search" asp-action="shictory" type="submit" style="background-color:black; margin-left: 85%; margin-top: 10%; color: white; ">Back &nbsp; <i style="color:white; margin:auto;" class="bi bi-arrow-bar-right"></i> </a>
+
+
+
+
+</body>
+</html>
+
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial.cshtml" />
+}

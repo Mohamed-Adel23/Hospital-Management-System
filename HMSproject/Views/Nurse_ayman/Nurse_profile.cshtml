@@ -1,0 +1,97 @@
+@model dynamic
+
+@{
+    ViewBag.Title = "Nurse Profile";
+    Layout = "_Layout_Nurse_ayman";
+}
+
+<section class="page-title bg-1">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="block text-center">
+              <span class="text-white">Patient Details</span><br/><br/>
+              <h1 class="text-capitalize mb-5 text-lg"> Ayman</h1>
+
+              <ul class="list-inline breadcumb-nav">
+                <li class="list-inline-item">
+                  <a asp-controller="Home" asp-action="Index" class="text-white">Home</a>
+                </li>
+                <li class="list-inline-item">
+                  <span class="text-white">/</span>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#" class="text-white-50">Nurse Profile</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+<section class="section doctor-single">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-md-6">
+        <div class="doctor-img-block">
+          @{
+            <img src="~/theme/images/profilePic.png" alt=""id="profilePicture" class="img-fluid w-100"/>
+          }
+
+          <div class="info-block mt-4">
+            <h4 class="mb-0"> Ayman</h4>
+            <p> gguuhhidj@gmail.com</p>
+
+            <ul class="list-inline mt-4 doctor-social-links">
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-facebook"></i></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-twitter"></i></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-skype"></i></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-linkedin"></i></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#!"><i class="icofont-pinterest"></i></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-8 col-md-6">
+        <div class="doctor-details mt-4 mt-lg-0">
+          <h2 class="text-md">About myself as a patient</h2>
+          <div class="divider my-4"></div>
+          <p style="font-size: 19px;
+                        line-height: 1.5;
+                        letter-spacing: 2px;
+                        font-weight: bold;">
+            Full Name : Ayman  <br/><br/>
+            Age : 20 <br/><br/>
+            Gender : Male <br/><br/>
+            Address : Egypt <br/><br/>
+            Email : gguuhhidj@gmail.com<br/><br/>
+            National ID (SSN) : 8773623673223<br/><br/>
+            Phone Number : 01037655635<br/><br/>
+          </p>
+          <a asp-controller="Appointment"
+             asp-action="Create"
+             class="btn btn-main-2 btn-round-full mt-3">Make an Appoinment<i class="icofont-simple-right ml-2"></i></a>
+          <a class="btn btn-main-2 btn-round-full mt-3"
+             asp-controller="Appointment" asp-action="Index"
+             style="    background: #2196F3;
+                            color: #fff;
+                            border-color: #03A9F4;">Show my appointments<i class="icofont-simple-right ml-2"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

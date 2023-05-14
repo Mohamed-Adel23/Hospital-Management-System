@@ -23,7 +23,7 @@ public partial class HmsContext : IdentityDbContext<Patient>
 
     public virtual DbSet<Department> Departments { get; set; }
 
-    public virtual DbSet<Diagnose> Diagnoses { get; set; }
+    public virtual DbSet<Diagnose> Diagnose { get; set; }
 
     public virtual DbSet<Doctor> Doctors { get; set; }
 

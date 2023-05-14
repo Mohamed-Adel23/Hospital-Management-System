@@ -1,0 +1,106 @@
+@model dynamic
+
+@{
+  ViewBag.Title = "Nurse";
+  Layout = "_Layout_Nurse_ayman";
+}
+
+<title>Nurse</title>
+
+<section class="a-page-title bg-1"> 
+      <div class="overlay"></div>
+        <div class="column-md">
+          <div class="text-center">
+            <h1 class="text-capitalize">Hospital Management System</h1>
+            <ul class="line-in-list">
+              <li class="nurse-list"><a asp-controller="Home" asp-action="Index" class="except"> Home</a></li>
+              <li class="nurse-list">/</li>
+              <li class="nurse-list">Nurse</li>
+            </ul>
+          </div>
+        </div>
+    </section>
+
+<section class="Nurse-section">
+    
+      <a asp-controller="Nurse_ayman" asp-action="Nurse_profile" class="nurse-link" > 
+
+        <div class="nurse-card">
+          <i  class="nurse-fontawesome fa-solid fa-user-nurse fa-7x" style="right:30.4%;"></i> 
+          <p style="position: absolute; top: 50%;left: 33%;"> MY Profile</p>
+          <p style="position: absolute; top: 66%;left: 3%;" > Show and edit your personal data, Update your image</p>
+        </div> 
+      </a>
+    
+      <a  asp-controller="Nurse_ayman" asp-action="Nurse_search" class="nurse-link"> 
+
+        <div class="nurse-card">
+          <i  class="fa-regular fa-magnifying-glass fa-7x nurse-fontawesome" style="right:27.6%;"></i> 
+          <p style="position: absolute; top: 50%;left: 20%;"> Find an appointment</p>
+          <p style="position: absolute; top: 66%;left: 3%;" > Find an appointment by the patient's National-ID .. and Check payment status </p>
+        </div> 
+
+      </a>
+
+      <a target="_blank" asp-controller="Home" asp-action="Index" class="nurse-link">
+      
+              <div class="nurse-card">
+                <i  class="fas fa-plus fa-7x nurse-fontawesome" style="right:30.4%;"></i> 
+                <p style="position: absolute; top: 50%;left: 33%;"> New Patient</p>
+                <p style="position: absolute; top: 66%;left: 3%;" > Recording patient data for the first time</p>
+              </div> 
+      
+            </a>
+      
+            <a target="_blank" asp-controller="Home" asp-action="Index" class="nurse-link">
+      
+              <div class="nurse-card">
+                <i   class="fa-solid fa-calendar-plus fa-7x nurse-fontawesome" style="right:27.6%;"></i> 
+                <p style="position: absolute; top: 50%;left: 25%;"> New Appointment</p>
+                <p style="position: absolute; top: 66%;left: 3%;" > Book an appointment for a patient whose data is registered on the system</p>
+              </div>
+      
+            </a>
+
+      <a asp-controller="Nurse_ayman" asp-action="Nurse_Pharmacy" class="nurse-link">
+
+        <div class="nurse-card">
+          <i class="fa-solid fa-pills fa-7x nurse-fontawesome" style="display: block; position: absolute; top: 3%; right:24.8%;"></i> 
+          <p style="position: absolute; top: 50%;left: 33%;"> Pharmacy</p>
+          <p style="position: absolute; top: 66%;left: 3%;" > Dispensing the medication to the patient who has finished the visit</p>
+        </div>
+
+      </a>
+
+      <a asp-controller="Nurse_ayman" asp-action="Nurse_Lab" class="nurse-link">
+
+        <div class="nurse-card">
+          <i class="fa-solid fa-vials fa-7x nurse-fontawesome" style="right:27.6%;"></i>
+          <p style="position: absolute; top: 50%;left: 43%;"> Lab</p>
+          <p style="position: absolute; top: 66%;left: 3%;" > Medical analyzes & Examinations</p>
+        </div> 
+
+      </a>
+
+      <a asp-controller="Nurse_ayman" asp-action="Nurse_Cash_Flow" class="nurse-link">
+  
+        <div class="nurse-card">
+          <i class="fa-solid fa-square-poll-vertical fa-7x  nurse-fontawesome" style="right:30.7%;"></i> 
+          <p style="position: absolute; top: 50%;left: 33%;"> Money Flow</p>
+          <p style="position: absolute; top: 66%;left: 11%;" > Your daily financial statistics</p>
+        </div> 
+ 
+      </a>
+
+      <a asp-controller="Home" asp-action="Index" class="nurse-link">
+
+        <div class="nurse-card">
+          <i class="fa-solid fa-right-from-bracket fa-7x nurse-fontawesome" style="right:27.6%;"></i> 
+          <p style="position: absolute; top: 50%;left: 37%; justify-content: center; "> Log Out</p>
+          <p style="position: absolute; top: 66%;left: 13%;" > Log out and go home Page</p>
+        </div>
+
+      </a>
+
+    </section>
+    

@@ -6,10 +6,12 @@ namespace HMSproject.Controllers
 {
     public class HomeDoctorController : Controller
     {
-        
+	    public HomeDoctorController(HmsContext db)
+	    {
+		    _db = db;
+	    }
 
-
-
+	    private readonly HmsContext _db;
 
 		/*------------------------------------------------------------------------------*/
 
@@ -25,6 +27,22 @@ namespace HMSproject.Controllers
 		{
 			return View();
 		}
+
+		public IActionResult Close()
+		{
+			var patients = _db.AspNetUsers.ToList();
+			foreach(var patient in patients) 
+			{
+				patient.Condition = 0;
+				_db.Update(patient);
+			}
+
+			_db.SaveChanges();
+
+			return RedirectToAction("Index","Home");
+		}
+
+
 		
 
 		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

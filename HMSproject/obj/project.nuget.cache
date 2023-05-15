@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yfkb3CiSLc/KrlGP8El/UpUD9Z0P1ECUnZ/EyXgbbMK0akiA4xC3pY0Dc26FkFYv50CTF7mChU6vsHxXNaIxYw==",
+  "dgSpecHash": "OluMSHQo0IooCtB9uUx715WPX3SUqniI/WnFC/SNZutyFxWCWHaEZl2YHygpWgRCPyEzCR/tibCtIrUtyB4naA==",
   "success": true,
-  "projectFilePath": "/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/HMSproject.csproj",
+  "projectFilePath": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/HMSproject.csproj",
   "expectedPackageFiles": [
     "/Users/mostafayoussef/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/mostafayoussef/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

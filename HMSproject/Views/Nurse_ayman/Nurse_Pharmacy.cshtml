@@ -1,4 +1,4 @@
-@model Diagnose
+@model IEnumerable<Diagnose>
 
 
 @{
@@ -109,7 +109,7 @@
             {
                 <div class="search-container" id="validation" >
                     @* <input style="width:260px" type="text" name="SSN" id="search-input" autocomplete="off" placeholder="Find an Appointment" /> *@
-                    <input type="text" maxLength="10" name="SSN" id="SSN" autocomplete="off" placeholder="Find an Appointment" class="form-control  search-input"
+                    <input type="text" maxLength="20" name="SSN" id="SSN" autocomplete="off" placeholder="Find an Appointment" class="form-control  search-input"
                            data-rule-SSN="true" data-msg-SSN=" Please enter a valid SSN." />
                     <input style="width:95px" class="search-button"  type="submit" value="Find" />
                 
@@ -128,7 +128,7 @@
         </thead>
 
         <tbody id="result-table-body">
-            @if (Model == null)//
+            @if (Model == null || Model.Count()==0)//
                             {
                                 <tr>
                                     <th>No Data</th>
@@ -139,24 +139,27 @@
                             }
             else
             {
-                <tr>
-                        
-                    <th>@Model.Appointments.Patient.Name</th>
-                    <th>@Model.Appointments.Department.Name </th>
-                    <th>@Model.Prescription</th>
-                    @using (Html.BeginForm("Pharmacy_update", "Nurse_ayman"))
-                    {
-                        <form method="post">
-                            <th>
-                                <input class="search-button" type="submit" value="19$"/>
-                            </th>   
-                            @* <div class="alert alert-success" data-auto-hide="3500"> *@
-                            @*        <strong>Success!</strong> Data updated successfully. *@
-                            @*      </div>     *@
-                             
-                        </form>
-                    }
-                </tr>
+                foreach (var item in Model)
+                {
+                    <tr>
+
+                        <th>@item.Appointments.Patient.Name</th>
+                        <th>@item.Appointments.Department.Name </th>
+                        <th>@item.Prescription</th>
+                        @using (Html.BeginForm("Pharmacy_update", "Nurse_ayman"))
+                        {
+                            <form method="post">
+                                <th>
+                                    <input class="search-button" type="submit" value="19$"/>
+                                </th>
+                                @* <div class="alert alert-success" data-auto-hide="3500"> *@
+                                @*        <strong>Success!</strong> Data updated successfully. *@
+                                @*      </div>     *@
+
+                            </form>
+                        }
+                    </tr>
+                }
             }
         </tbody>
     </table>

@@ -107,20 +107,21 @@ public class Nurse_aymanController : Controller
         var patient = _db.AspNetUsers.FirstOrDefault(p => p.SSN == SSN);
         if (patient == null) {return View();}
        
-        var appointment = _db.Appointments.FirstOrDefault(a => a.PatientID == patient.Id);
-        if (appointment == null) {return View();}
-        var diagnose = _db.Diagnose.FirstOrDefault(d => d.fk_app == appointment.Id);
-        // var pharmacy = _db.Medicines.FirstOrDefault(p => p.FkDia == diagnose.Id);
-        if (diagnose == null) {return View();}
-          //ViewBag.noResult = patient == null || appointment == null || diagnose == null) return View();
-         
-        var diagnoses = _db.Diagnose.
-            Include(d => d.Appointments).
-            ThenInclude(o => o.Patient).
-            Include(dep => dep.Appointments).
-            ThenInclude(n => n.Department).
-            FirstOrDefault(d => d.fk_app == appointment.Id);
-     
+        var appointments = _db.Appointments.Where(a => a.PatientID == patient.Id).ToList();
+        if (appointments == null || appointments.Count==0) {return View();}
+
+        var diagnoses = new List<Diagnose>() { };
+
+        foreach (var app in appointments)
+          {
+             diagnoses.AddRange(_db.Diagnose.
+                  Include(d => d.Appointments).
+                  ThenInclude(o => o.Patient).
+                  Include(dep => dep.Appointments).
+                  ThenInclude(n => n.Department).
+                  Where(d => d.fk_app == app.Id).ToList());
+          }
+          if (diagnoses == null || diagnoses.Count==0) {return View();}
         return View(diagnoses);
     }
     
@@ -134,7 +135,7 @@ public class Nurse_aymanController : Controller
         _db.SaveChanges();
         //TempData["Success"] = "Data updated successfully";
 
-        return RedirectToAction("Nurse_Pharmacy");
+        return RedirectToAction("index");
     }
     
     public IActionResult Nurse_Lab()

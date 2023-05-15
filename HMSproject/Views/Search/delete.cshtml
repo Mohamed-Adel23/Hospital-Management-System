@@ -4,43 +4,16 @@
 
 
 
-
-
-<!DOCTYPE html>
-
-<!--
- // WEBSITE: https://themefisher.com
- // TWITTER: https://twitter.com/themefisher
- // FACEBOOK: https://www.facebook.com/themefisher
- // GITHUB: https://github.com/themefisher/
--->
-
-<html lang="en">
-<head>
-
-    <!-- Mobile Specific Metas
-    ================================================== -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="description" content="Health Care Medical Html5 Template" />
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-    <meta name="author" content="Themefisher" />
-    <meta name="generator" content="Themefisher Novena HTML Template v1.0" />
-
-    <!-- Essential stylesheets
-    ===================================== -->
-    <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css" />
-
-
-    <!-- Main Stylesheet -->
-    <link rel="stylesheet" href="css/style.css" />
-
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "_LayoutDoctor";
+}
     <style>
 
 
     
         .bg-1 {
-            background-image: url("/Images/im.jpg");
+            background-image: url("../Doctor/Images/22.jpg");
             background-size: cover;
             position: relative;
         }
@@ -108,10 +81,6 @@
             background: white;
         }
     </style>
-
-</head>
-
-<body id="top">
 
     <!-- ************************************************************************************************************ -->
 
@@ -181,12 +150,6 @@
     <hr />
     <!-- ************************************************************************************************************* -->
     <a class="btn btn-slide-9" asp-controller="Search" asp-action="shictory" type="submit" style="background-color:black; margin-left: 85%; margin-top: 10%; color: white; ">Back &nbsp; <i style="color:white; margin:auto;" class="bi bi-arrow-bar-right"></i> </a>
-
-
-
-
-</body>
-</html>
 
 @section Scripts
     {

@@ -383,5 +383,37 @@ namespace HMSproject.Controllers
             IEnumerable<Doctor> drData = _db.Doctors.Include(dept => dept.FkDeptNavigation).ToList();
             return View(drData);
         }
+
+        // Show Doctor Profile
+        public IActionResult SingleDoctor(int? id)
+        {
+            if (id == 0 || id == null)
+                return NotFound();
+
+            var obj = _db.Doctors.Find(id);
+            if (obj == null)
+                return NotFound();
+
+            var drData = _db.Doctors.FromSql($"SELECT * FROM doctors WHERE id = {id}");
+            drData.ToList();
+            ViewBag.Doctor = drData;
+            foreach (var d in drData)
+            {
+                ViewBag.DrName = d.Name;
+                break;
+            }
+
+            foreach(var dr in drData)
+            {
+                var deptData = _db.Departments.FromSql($"SELECT * FROM departments WHERE id = {dr.FkDept}");
+                foreach(var dept in deptData)
+                {
+                    ViewBag.DeptName = dept.Name;
+                    break;
+                }
+                break;
+            }
+            return View();
+        }
     }
 }

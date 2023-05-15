@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>@ViewData["Title"] - HMS</title>
+    <title>CareCoord - @ViewData["Title"]</title>
     <link rel="stylesheet" href="~/css/Nurse_ayman.css" asp-append-version="true"/>
     <!-- font awesome Stylesheet -->
         <link href="fontawesome-free-6.4.0-web/css/fontawesome.css" rel="stylesheet">
@@ -26,11 +26,21 @@
 
 @RenderBody()
 
-<footer class="border-top footer text-muted" style="display: flex; justify-content: center; text-align:center; ">
-    <div class="container">
-        &copy; 2023 - HMS - <a asp-controller="Home" asp-action="Index">Before Others</a>
-    </div>
-</footer>
+    <!-- footer Start -->
+    <footer class="footer section">
+        <div class="container">
+            <div class="footer-btm py-4 mt-2">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-12">
+                        <div class="copyright text-center">
+                            Copyright &copy; 2023
+                            <a href="#top">Before Others</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 
 @await RenderSectionAsync("Scripts", required:false)
 

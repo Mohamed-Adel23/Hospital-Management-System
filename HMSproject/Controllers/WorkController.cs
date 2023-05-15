@@ -55,8 +55,6 @@ namespace HMSproject.Controllers
         //GEt
         public IActionResult Click() 
         {
-           
-
             return View("prescription");
         }
         [HttpPost]

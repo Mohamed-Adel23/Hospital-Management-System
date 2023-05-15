@@ -1,4 +1,4 @@
-@model dynamic
+@model Nurse
 
 @{
   ViewBag.Title = "Nurse";
@@ -23,8 +23,7 @@
 
 <section class="Nurse-section">
     
-      <a asp-controller="Nurse_ayman" asp-action="Nurse_profile" class="nurse-link" > 
-
+      <a asp-controller="Nurse_ayman" asp-action="Nurse_profile" asp-route-id="@Model.Id" class="nurse-link" >
         <div class="nurse-card">
           <i  class="nurse-fontawesome fa-solid fa-user-nurse fa-7x" style="right:30.4%;"></i> 
           <p style="position: absolute; top: 50%;left: 33%;"> MY Profile</p>

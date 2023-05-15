@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/Doctor/Images/22.jpg"
     },
     {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/Doctor/Images/im.jpg",
+      "PackagePath": "staticwebassets/Doctor/Images/im.jpg"
+    },
+    {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/Doctor/Images/ll.jpg",
       "PackagePath": "staticwebassets/Doctor/Images/ll.jpg"
     },
@@ -1053,16 +1057,8 @@
       "PackagePath": "staticwebassets/images/.DS_Store"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/bg/.DS_Store",
-      "PackagePath": "staticwebassets/images/bg/.DS_Store"
-    },
-    {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/bg/im.jpg",
       "PackagePath": "staticwebassets/images/bg/im.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/.1007-ophthalmology-teaser.jpg.icloud",
-      "PackagePath": "staticwebassets/images/dept/.1007-ophthalmology-teaser.jpg.icloud"
     },
     {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/1-before.jpg",
@@ -1071,6 +1067,10 @@
     {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/1-m.jpg",
       "PackagePath": "staticwebassets/images/dept/1-m.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/10-blog-6.jpg",
+      "PackagePath": "staticwebassets/images/dept/10-blog-6.jpg"
     },
     {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/1008-invasive-cardiology.jpg",
@@ -1093,8 +1093,20 @@
       "PackagePath": "staticwebassets/images/dept/1012-OBGYN.jpg"
     },
     {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/11-blog-7.jpg",
+      "PackagePath": "staticwebassets/images/dept/11-blog-7.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/12-blog-4.jpg",
+      "PackagePath": "staticwebassets/images/dept/12-blog-4.jpg"
+    },
+    {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/12-me1.jpg",
       "PackagePath": "staticwebassets/images/dept/12-me1.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/12-service-3.jpg",
+      "PackagePath": "staticwebassets/images/dept/12-service-3.jpg"
     },
     {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dept/13-Photo on 11-11-2022 at 1.09 PM.jpg",
@@ -1113,52 +1125,40 @@
       "PackagePath": "staticwebassets/images/dept/9-service-3.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1-1.jpg",
-      "PackagePath": "staticwebassets/images/dr/1-1.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/10-gt.jpg",
+      "PackagePath": "staticwebassets/images/dr/10-gt.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1002-istockphoto-1390000431-170667a.jpg",
-      "PackagePath": "staticwebassets/images/dr/1002-istockphoto-1390000431-170667a.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/11-hj.jpg",
+      "PackagePath": "staticwebassets/images/dr/11-hj.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1003-360_F_295518052_aO5d9CqRhPnjlNDTRDjKLZHNftqfsxzI.jpg",
-      "PackagePath": "staticwebassets/images/dr/1003-360_F_295518052_aO5d9CqRhPnjlNDTRDjKLZHNftqfsxzI.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/12-4.jpg",
+      "PackagePath": "staticwebassets/images/dr/12-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1004-360_F_295518052_aO5d9CqRhPnjlNDTRDjKLZHNftqfsxzI.jpg",
-      "PackagePath": "staticwebassets/images/dr/1004-360_F_295518052_aO5d9CqRhPnjlNDTRDjKLZHNftqfsxzI.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/12-jo.jpg",
+      "PackagePath": "staticwebassets/images/dr/12-jo.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1004-beautiful-young-female-doctor-looking-camera-office_1301-7807.avif",
-      "PackagePath": "staticwebassets/images/dr/1004-beautiful-young-female-doctor-looking-camera-office_1301-7807.avif"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/13-hy.avif",
+      "PackagePath": "staticwebassets/images/dr/13-hy.avif"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1004-images.jpeg",
-      "PackagePath": "staticwebassets/images/dr/1004-images.jpeg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/13-we.jpg",
+      "PackagePath": "staticwebassets/images/dr/13-we.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1004-smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
-      "PackagePath": "staticwebassets/images/dr/1004-smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/14-1.jpg",
+      "PackagePath": "staticwebassets/images/dr/14-1.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1005-istockphoto-1390000431-170667a.jpg",
-      "PackagePath": "staticwebassets/images/dr/1005-istockphoto-1390000431-170667a.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/15-blog-4.jpg",
+      "PackagePath": "staticwebassets/images/dr/15-blog-4.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1006-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg",
-      "PackagePath": "staticwebassets/images/dr/1006-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/1007-istockphoto-1327024466-170667a.jpg",
-      "PackagePath": "staticwebassets/images/dr/1007-istockphoto-1327024466-170667a.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/2-IMG_8436.heic",
-      "PackagePath": "staticwebassets/images/dr/2-IMG_8436.heic"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/3-4.jpg",
-      "PackagePath": "staticwebassets/images/dr/3-4.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/16-kl.jpg",
+      "PackagePath": "staticwebassets/images/dr/16-kl.jpg"
     },
     {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/3-me1.jpg",
@@ -1169,72 +1169,64 @@
       "PackagePath": "staticwebassets/images/dr/4-me.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/4-test-thumb3.jpg",
-      "PackagePath": "staticwebassets/images/dr/4-test-thumb3.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/5-1.jpg",
-      "PackagePath": "staticwebassets/images/dr/5-1.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/6-1.jpg",
-      "PackagePath": "staticwebassets/images/dr/6-1.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/7-2.jpg",
-      "PackagePath": "staticwebassets/images/dr/7-2.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/8-blog-2.jpg",
-      "PackagePath": "staticwebassets/images/dr/8-blog-2.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/8-blog-4.jpg",
-      "PackagePath": "staticwebassets/images/dr/8-blog-4.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/dr/9-bg-1.jpg",
-      "PackagePath": "staticwebassets/images/dr/9-bg-1.jpg"
-    },
-    {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/1-2.jpg",
-      "PackagePath": "staticwebassets/images/ns/1-2.jpg"
-    },
-    {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/1-Photo on 11-11-2022 at 1.10 PM.jpg",
       "PackagePath": "staticwebassets/images/ns/1-Photo on 11-11-2022 at 1.10 PM.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/17-2.jpg",
-      "PackagePath": "staticwebassets/images/ns/17-2.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/2-5-kl.jpg",
+      "PackagePath": "staticwebassets/images/ns/2-5-kl.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/2-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg",
-      "PackagePath": "staticwebassets/images/ns/2-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/3-6-test-thumb2.jpg",
+      "PackagePath": "staticwebassets/images/ns/3-6-test-thumb2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/3-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg",
-      "PackagePath": "staticwebassets/images/ns/3-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/4-11-hj.jpg",
+      "PackagePath": "staticwebassets/images/ns/4-11-hj.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/4-2.jpg",
-      "PackagePath": "staticwebassets/images/ns/4-2.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/4-13-hy.avif",
+      "PackagePath": "staticwebassets/images/ns/4-13-hy.avif"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/4-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg",
-      "PackagePath": "staticwebassets/images/ns/4-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/4-6-test-thumb2.jpg",
+      "PackagePath": "staticwebassets/images/ns/4-6-test-thumb2.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/5-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg",
-      "PackagePath": "staticwebassets/images/ns/5-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/5-8-we.jpg",
+      "PackagePath": "staticwebassets/images/ns/5-8-we.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/6-360_F_295518052_aO5d9CqRhPnjlNDTRDjKLZHNftqfsxzI.jpg",
-      "PackagePath": "staticwebassets/images/ns/6-360_F_295518052_aO5d9CqRhPnjlNDTRDjKLZHNftqfsxzI.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/5-kl.jpg",
+      "PackagePath": "staticwebassets/images/ns/5-kl.jpg"
     },
     {
-      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/7-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg",
-      "PackagePath": "staticwebassets/images/ns/7-360_F_130455409_fTuinPO1LXECv5hlk9VBREnL6yowYUo3.jpg"
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/6-12-4.jpg",
+      "PackagePath": "staticwebassets/images/ns/6-12-4.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/6-5-kl.jpg",
+      "PackagePath": "staticwebassets/images/ns/6-5-kl.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/6-test-thumb2.jpg",
+      "PackagePath": "staticwebassets/images/ns/6-test-thumb2.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/7-13-hy.avif",
+      "PackagePath": "staticwebassets/images/ns/7-13-hy.avif"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/7-15-blog-4.jpg",
+      "PackagePath": "staticwebassets/images/ns/7-15-blog-4.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/7-service-4.jpg",
+      "PackagePath": "staticwebassets/images/ns/7-service-4.jpg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/images/ns/8-we.jpg",
+      "PackagePath": "staticwebassets/images/ns/8-we.jpg"
     },
     {
       "Id": "/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/wwwroot/js/site.js",

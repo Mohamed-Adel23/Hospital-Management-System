@@ -17,14 +17,16 @@ public class Nurse_aymanController : Controller
         
     private readonly HmsContext _db;
     // GET
-    public IActionResult Index()
+    public IActionResult Index(int id)
     {
-        return View();
+        var nurse = _db.Nurses.FirstOrDefault(d => d.Id == id);
+        return View(nurse);
     }
     
-    public IActionResult Nurse_profile()
+    public IActionResult Nurse_profile(int id)
     {
-        return View();
+        var nurse = _db.Nurses.FirstOrDefault(d => d.Id == id);
+        return View(nurse);
     }
 
     

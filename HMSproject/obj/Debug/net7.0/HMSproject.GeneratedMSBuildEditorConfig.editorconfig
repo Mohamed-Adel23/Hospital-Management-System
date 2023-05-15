@@ -244,6 +244,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/Views/Doctor/SingleDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL1NpbmdsZURvY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/Views/Home/Confirm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db25maXJtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -280,8 +284,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZURvY3Rvci9kb2N0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/Views/HomeDoctor/Indexx.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZURvY3Rvci9JbmRleHguY3NodG1s
+[/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/Views/HomeDoctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZURvY3Rvci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/Views/Nurse/Create.cshtml]
@@ -362,6 +366,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/Views/Shared/_LayoutDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXREb2N0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mostafayoussef/Desktop/Hospital-Management-System/Hospital-Management-System/HMSproject/Views/Shared/_Layout_Nurse_ayman.cshtml]

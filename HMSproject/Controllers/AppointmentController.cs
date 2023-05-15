@@ -222,6 +222,12 @@ namespace HMSproject.Controllers
             var appointment = await _context.Appointments.FindAsync(id);
             if (appointment != null)
             {
+                var diagnoses = _context.Diagnose.Where(d => d.fk_app == appointment.Id).ToList();
+                foreach (var diagnose in diagnoses)
+                {
+                    _context.Remove(diagnose);
+                    await _context.SaveChangesAsync();
+                }
                 _context.Appointments.Remove(appointment);
             }
             

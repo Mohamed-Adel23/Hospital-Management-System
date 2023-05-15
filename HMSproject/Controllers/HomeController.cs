@@ -52,24 +52,23 @@ public class HomeController : Controller
         }
         else if (model.Type == "nurse")
         {
-            return RedirectToAction("Index", "Nurse_ayman");
-            // var nurse=_context.Nurses.FromSql($"SELECT * FROM nurses where email={model.Email} and password={model.Password}");
-            // if (nurse.Count()>0)
-            // {
-            //     return RedirectToAction("Index", "Nurse_ayman");
-            // }
-            // else
-            // {
-            //     TempData["message"] = "invalid login";
-            //     return View();
-            // }
+            var nurses=_context.Nurses.FromSql($"SELECT * FROM nurses where email={model.Email} and password={model.Password}").ToList();
+            if (nurses.Count()>0)
+            {
+                return RedirectToAction("Index", "Nurse_ayman",new { id =  nurses[0].Id});
+            }
+            else
+            {
+                TempData["message"] = "invalid login";
+                return View();
+            }
         }
         else if (model.Type == "doctor")
         {
             var doctor=_context.Doctors.FromSql($"SELECT * FROM doctors where email={model.Email} and password={model.Password}");
             if (doctor.Count()>0)
             {
-                return RedirectToAction("Indexx", "HomeDoctor");
+                return RedirectToAction("Index", "HomeDoctor");
             }
             else
             {

@@ -1,13 +1,15 @@
 ﻿@using HMSproject.Models;
 @model List<Diagnose>
-@*@using static H_M_S__project_.Controllers.WorkController;
-@model PatientDiagnosisViewModel
-<p>Diagnose count: @Model.diagnose?.Count</p>*@
+
+@{
+    ViewData["Title"] = "Medical History";
+    Layout = "_LayoutDoctor";
+}
 
 
 <style>
     .bg-1 {
-        background-image: url("/Images/im.jpg");
+        background-image: url("../Doctor/Images/22.jpg");
         background-size: cover;
         position: relative;
     }

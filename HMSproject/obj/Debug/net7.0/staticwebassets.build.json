@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B4d4j7mQ85TcP3HltmKNllrNyO99b0484F/Qb4v2pfE=",
+  "Hash": "3YR9HBy9sufbRz79v8TPvGha/kvNRc9e9hs9P1apSSk=",
   "Source": "HMSproject",
   "BasePath": "_content/HMSproject",
   "Mode": "Default",
@@ -4163,6 +4163,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Doctor\\Images\\22.jpg"
+    },
+    {
+      "Identity": "D:\\Web_Development\\HMS\\HMSproject\\wwwroot\\Doctor\\Images\\im.jpg",
+      "SourceId": "HMSproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Web_Development\\HMS\\HMSproject\\wwwroot\\",
+      "BasePath": "_content/HMSproject",
+      "RelativePath": "Doctor/Images/im.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Doctor\\Images\\im.jpg"
     },
     {
       "Identity": "D:\\Web_Development\\HMS\\HMSproject\\wwwroot\\Doctor\\Images\\ll.jpg",

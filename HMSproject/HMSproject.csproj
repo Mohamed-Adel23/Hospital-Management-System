@@ -34,7 +34,7 @@
 
     <ItemGroup>
       <None Include="Views\HomeDoctor\doctor.cshtml" />
-      <None Include="Views\HomeDoctor\Indexx.cshtml" />
+      <None Include="Views\HomeDoctor\Index.cshtml" />
       <None Include="Views\Profile\profile.cshtml" />
       <None Include="Views\Search\delete.cshtml" />
       <None Include="Views\Search\edit.cshtml" />

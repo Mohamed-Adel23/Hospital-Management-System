@@ -15,7 +15,7 @@ namespace HMSproject.Controllers
 
 
 
-		public IActionResult Indexx()
+		public IActionResult Index()
         {
             return View();
         }

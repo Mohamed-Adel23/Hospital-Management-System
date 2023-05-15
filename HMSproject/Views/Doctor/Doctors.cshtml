@@ -63,7 +63,7 @@
                     </div>
                     <div class="content mt-3">
                       <h4 class="mb-0">
-                        <a href="#">@obj.Name</a>
+                        <a asp-controller="Doctor" asp-action="SingleDoctor" asp-route-id="@obj.Id">@obj.Name</a>
                       </h4>
                       <p>@obj.FkDeptNavigation.Name</p>
                     </div>

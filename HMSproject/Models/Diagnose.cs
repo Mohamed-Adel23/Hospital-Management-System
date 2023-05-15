@@ -17,7 +17,7 @@ public partial class Diagnose
 
     public string? Analysis { get; set; }
 
-    public DateTime? Date { get; set; }
+    public DateTime? Date { get; set; } = DateTime.Now;
 
     [InverseProperty("Diagnoses")]
     public virtual Appointment? Appointments { get; set; }

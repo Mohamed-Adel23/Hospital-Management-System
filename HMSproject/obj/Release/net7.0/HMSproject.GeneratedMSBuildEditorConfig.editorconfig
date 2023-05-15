@@ -244,6 +244,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Web_Development/HMS/HMSproject/Views/Doctor/SingleDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFNpbmdsZURvY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Web_Development/HMS/HMSproject/Views/HomeAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -252,8 +256,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUFkbWluXFNob3dBcHAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Web_Development/HMS/HMSproject/Views/HomeNurse/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZU51cnNlXEluZGV4LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/HomeDoctor/doctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZURvY3Rvclxkb2N0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/HomeDoctor/Indexx.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZURvY3RvclxJbmRleHguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web_Development/HMS/HMSproject/Views/Home/Confirm.cshtml]
@@ -280,42 +288,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTeXN0ZW1Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Web_Development/HMS/HMSproject/Views/NurseWork/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VXb3JrXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject/Views/NurseWork/Nurse_add_new.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VXb3JrXE51cnNlX2FkZF9uZXcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject/Views/NurseWork/Nurse_Book.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VXb3JrXE51cnNlX0Jvb2suY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject/Views/NurseWork/Nurse_Cash_Flow.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VXb3JrXE51cnNlX0Nhc2hfRmxvdy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject/Views/NurseWork/Nurse_Lab.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VXb3JrXE51cnNlX0xhYi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject/Views/NurseWork/Nurse_Pharmacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VXb3JrXE51cnNlX1BoYXJtYWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject/Views/NurseWork/Nurse_profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VXb3JrXE51cnNlX3Byb2ZpbGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject/Views/NurseWork/Nurse_search.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VXb3JrXE51cnNlX3NlYXJjaC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Web_Development/HMS/HMSproject/Views/NurseWork/Search.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VXb3JrXFNlYXJjaC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Web_Development/HMS/HMSproject/Views/Nurse/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -336,8 +308,68 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_add_new.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfYWRkX25ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_Book.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfQm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_Cash_Flow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfQ2FzaF9GbG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_Lab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfTGFiLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_Pharmacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfUGhhcm1hY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfcHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2Vfc2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Profile/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxwcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Search/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXGRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Search/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXGVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Search/shictory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXHNoaWN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Search/spatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXHNwYXRpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Web_Development/HMS/HMSproject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Shared/_Layout_Nurse_ayman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfTnVyc2VfYXltYW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web_Development/HMS/HMSproject/Views/Shared/_LoginPartial.cshtml]
@@ -350,6 +382,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Web_Development/HMS/HMSproject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Work/appointement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xhcHBvaW50ZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Work/hictory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xoaWN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Work/Patient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xQYXRpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Work/prescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xwcmVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Work/Work.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xXb3JrLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web_Development/HMS/HMSproject/Views/_ViewImports.cshtml]
@@ -367,7 +419,3 @@ build_metadata.AdditionalFiles.CssScope = b-fzqisoglk6
 [D:/Web_Development/HMS/HMSproject/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-plqsfq218r
-
-[D:/Web_Development/HMS/HMSproject/Views/Shared/_Layout_Nurse.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfTnVyc2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-o997toq5zi

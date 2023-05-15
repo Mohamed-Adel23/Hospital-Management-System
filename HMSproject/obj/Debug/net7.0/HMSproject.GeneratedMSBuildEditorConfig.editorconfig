@@ -9,409 +9,413 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HMSproject
 build_property.RootNamespace = HMSproject
-build_property.ProjectDir = /Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/
+build_property.ProjectDir = D:\Web_Development\HMS\HMSproject\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = /Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject
+build_property.MSBuildProjectDirectory = D:\Web_Development\HMS\HMSproject
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/AccessDenied.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Db25maXJtRW1haWwuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Db25maXJtRW1haWxDaGFuZ2UuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9FeHRlcm5hbExvZ2luLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Lockout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2Nrb3V0LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbldpdGgyZmEuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRGlzYWJsZTJmYS5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/Email.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRW1haWwuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRXh0ZXJuYWxMb2dpbnMuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvSW5kZXguY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvUGVyc29uYWxEYXRhLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvU2V0UGFzc3dvcmQuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX0xheW91dC5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX01hbmFnZU5hdi5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX1N0YXR1c01lc3NhZ2UuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/ResetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/Account/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Appointment/Confirm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwb2ludG1lbnQvQ29uZmlybS5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Appointment/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcQ29uZmlybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Appointment/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwb2ludG1lbnQvQ3JlYXRlLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Appointment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Appointment/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwb2ludG1lbnQvRGVsZXRlLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Appointment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Appointment/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwb2ludG1lbnQvRGV0YWlscy5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Appointment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Appointment/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwb2ludG1lbnQvRWRpdC5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Appointment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Appointment/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwb2ludG1lbnQvSW5kZXguY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Appointment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Dept/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwdC9DcmVhdGUuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Dept/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Dept/Department.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwdC9EZXBhcnRtZW50LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Dept/Department.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxEZXBhcnRtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Dept/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwdC9FZGl0LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Dept/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Dept/EditImage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwdC9FZGl0SW1hZ2UuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Dept/EditImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxFZGl0SW1hZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Dept/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwdC9JbmRleC5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Dept/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Dept/SingleDepartment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwdC9TaW5nbGVEZXBhcnRtZW50LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Dept/SingleDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxTaW5nbGVEZXBhcnRtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Doctor/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0NyZWF0ZS5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Doctor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Doctor/Doctors.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0RvY3RvcnMuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Doctor/Doctors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERvY3RvcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Doctor/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0VkaXQuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Doctor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Doctor/EditImage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0VkaXRJbWFnZS5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Doctor/EditImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXRJbWFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Doctor/EditPass.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0VkaXRQYXNzLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Doctor/EditPass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXRQYXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Doctor/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0luZGV4LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Home/Confirm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db25maXJtLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Doctor/SingleDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFNpbmdsZURvY3Rvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Home/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/HomeAdmin/ShowApp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUFkbWluXFNob3dBcHAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/HomeDoctor/doctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZURvY3Rvclxkb2N0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Home/Services.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZXJ2aWNlcy5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/HomeDoctor/Indexx.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZURvY3RvclxJbmRleHguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Home/SystemLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TeXN0ZW1Mb2dpbi5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Home/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maXJtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/HomeAdmin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZUFkbWluL0luZGV4LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/HomeAdmin/ShowApp.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZUFkbWluL1Nob3dBcHAuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/HomeDoctor/doctor.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZURvY3Rvci9kb2N0b3IuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/HomeDoctor/Indexx.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZURvY3Rvci9JbmRleHguY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2UvQ3JlYXRlLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Home/SystemLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTeXN0ZW1Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2UvRWRpdC5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Nurse/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse/EditImage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2UvRWRpdEltYWdlLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Nurse/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse/EditPass.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2UvRWRpdFBhc3MuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Nurse/EditImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcRWRpdEltYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2UvSW5kZXguY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Nurse/EditPass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcRWRpdFBhc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse_ayman/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2VfYXltYW4vSW5kZXguY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Nurse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse_ayman/Nurse_add_new.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2VfYXltYW4vTnVyc2VfYWRkX25ldy5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse_ayman/Nurse_Book.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2VfYXltYW4vTnVyc2VfQm9vay5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_add_new.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfYWRkX25ldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse_ayman/Nurse_Cash_Flow.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2VfYXltYW4vTnVyc2VfQ2FzaF9GbG93LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_Book.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfQm9vay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse_ayman/Nurse_Lab.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2VfYXltYW4vTnVyc2VfTGFiLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_Cash_Flow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfQ2FzaF9GbG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse_ayman/Nurse_Pharmacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2VfYXltYW4vTnVyc2VfUGhhcm1hY3kuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_Lab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfTGFiLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse_ayman/Nurse_profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2VfYXltYW4vTnVyc2VfcHJvZmlsZS5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_Pharmacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfUGhhcm1hY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse_ayman/Nurse_search.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2VfYXltYW4vTnVyc2Vfc2VhcmNoLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2VfcHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Nurse_ayman/Search.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnVyc2VfYXltYW4vU2VhcmNoLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Nurse_search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cTnVyc2Vfc2VhcmNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Profile/profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmlsZS9wcm9maWxlLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Nurse_ayman/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVyc2VfYXltYW5cU2VhcmNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Search/delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoL2RlbGV0ZS5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/Profile/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxwcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Search/edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoL2VkaXQuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Search/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXGRlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Search/shictory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoL3NoaWN0b3J5LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Search/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXGVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Search/spatient.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoL3NwYXRpZW50LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Search/shictory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXHNoaWN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Search/spatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXHNwYXRpZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Shared/_Layout_Nurse_ayman.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRfTnVyc2VfYXltYW4uY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Shared/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Shared/_Layout_Nurse_ayman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfTnVyc2VfYXltYW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Shared/_Notification.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Ob3RpZmljYXRpb24uY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Work/appointement.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV29yay9hcHBvaW50ZW1lbnQuY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Work/hictory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV29yay9oaWN0b3J5LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Work/appointement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xhcHBvaW50ZW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Work/Patient.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV29yay9QYXRpZW50LmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Work/hictory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xoaWN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Work/prescription.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV29yay9wcmVzY3JpcHRpb24uY3NodG1s
+[D:/Web_Development/HMS/HMSproject/Views/Work/Patient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xQYXRpZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Work/Work.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV29yay9Xb3JrLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Work/prescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xwcmVzY3JpcHRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/Web_Development/HMS/HMSproject/Views/Work/Work.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xXb3JrLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/Web_Development/HMS/HMSproject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-osn5s03r5c
+[D:/Web_Development/HMS/HMSproject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web_Development/HMS/HMSproject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fzqisoglk6
 
-[/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/Views/Shared/_LayoutAdmin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRBZG1pbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-dd09aj1lax
+[D:/Web_Development/HMS/HMSproject/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-plqsfq218r

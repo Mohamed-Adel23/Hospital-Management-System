@@ -11414,24 +11414,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/mostafayoussef/.nuget/packages/": {}
+    "C:\\Users\\zzaaa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/HMSproject.csproj",
+      "projectUniqueName": "D:\\Web_Development\\HMS\\HMSproject\\HMSproject.csproj",
       "projectName": "HMSproject",
-      "projectPath": "/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/HMSproject.csproj",
-      "packagesPath": "/Users/mostafayoussef/.nuget/packages/",
-      "outputPath": "/Users/mostafayoussef/Desktop/HMS_last/Hospital-Management-System/HMSproject/obj/",
+      "projectPath": "D:\\Web_Development\\HMS\\HMSproject\\HMSproject.csproj",
+      "packagesPath": "C:\\Users\\zzaaa\\.nuget\\packages\\",
+      "outputPath": "D:\\Web_Development\\HMS\\HMSproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mostafayoussef/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\zzaaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11504,7 +11506,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

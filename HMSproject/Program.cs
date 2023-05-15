@@ -11,10 +11,8 @@ builder.Services.AddDbContext<HmsContext>(options=>options.UseSqlServer(
     builder.Configuration.GetConnectionString("myConnection")
 ));
 
-// builder.Services.AddDefaultIdentity<Patient>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<HmsContext>();
 // "Server=localhost;Database=HMS;User=sa;Password=reallyStrongPwd123;TrustServerCertificate=True;Encrypt=false;MultipleActiveResultSets=true"
 
-// builder.Services.AddDefaultIdentity<Patient>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<AppDBContext>();
 
 builder.Services.AddIdentity<Patient, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<HmsContext>()

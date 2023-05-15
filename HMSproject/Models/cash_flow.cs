@@ -11,6 +11,6 @@ public class cash_flow
     
     public int Lab_cash { get; set; }
     
-    // public int Pharmacy_cash { get; set; }
+    public int Pharmacy_cash { get; set; }
     
 }

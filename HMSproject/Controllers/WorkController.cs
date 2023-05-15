@@ -110,8 +110,8 @@ namespace HMSproject.Controllers
                    .FirstOrDefaultAsync();
 
                if (nextPatient == null)
-                {
-                    
+               {
+                    ViewBag.NoUser="There are no patients";
                     return RedirectToAction("Work");
                 }
                 return View(nextPatient);
@@ -148,7 +148,7 @@ namespace HMSproject.Controllers
 
         public IActionResult Work()
         {
-            return View();
+            return View(ViewBag.NoUser);
         }
 
 

@@ -1,5 +1,5 @@
 ﻿@using HMSproject.Models;
-@model Patient
+@model string
             
 @{
     ViewData["Title"] = "Dashboard";
@@ -139,6 +139,12 @@
     <!-- ****************************************doctor work****************************************************** -->
     <section class="section doctor-single">
         <div class="container">
+            @if (Model == "There are no patients")
+            {
+                <div class="alert alert-dismissible alert-danger">
+                    <strong>@Model</strong>
+                </div>
+            }
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="doctor-img-block">

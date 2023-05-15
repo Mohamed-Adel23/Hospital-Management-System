@@ -19,6 +19,23 @@ public class Nurse_aymanController : Controller
     // GET
     public IActionResult Index(int id)
     {
+        
+        using (var connection = new SqlConnection("Server=localhost;Database=HMS;User=sa;Password=reallyStrongPwd123;TrustServerCertificate=True;Encrypt=false;MultipleActiveResultSets=true"))
+        {
+            connection.Open();
+
+            var command = new SqlCommand("SELECT COUNT(*) FROM Cash_Flows", connection);
+            var result = (int)command.ExecuteScalar();
+
+            if (result == 0)
+            {
+                // Create a new record in the Cash_Flows table
+                var insertCommand = new SqlCommand("INSERT INTO Cash_Flows (Appointments_Cash, Lab_Cash, Pharmacy_Cash) VALUES (0, 0, 0)", connection);
+                insertCommand.ExecuteNonQuery();
+            }
+        }
+        
+        
         var nurse = _db.Nurses.FirstOrDefault(d => d.Id == id);
         return View(nurse);
     }
@@ -132,7 +149,7 @@ public class Nurse_aymanController : Controller
     {
 
         var cash = _db.Cash_Flows.FirstOrDefault();
-        cash.Lab_cash += 19;
+        cash.Pharmacy_cash += 19;
         _db.Cash_Flows.Update(cash);
         _db.SaveChanges();
         //TempData["Success"] = "Data updated successfully";

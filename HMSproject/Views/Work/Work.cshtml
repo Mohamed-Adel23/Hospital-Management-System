@@ -5,116 +5,112 @@
     ViewData["Title"] = "Dashboard";
     Layout = "_LayoutDoctor";
 }
-    <style>
+<style>
 
-        /*.bg-1 {*/
-        /*    background-image: url("../Doctor/Images/22.jpg") ;*/
-        /*    background-size: cover;*/
-        /*    position: relative;*/
-        /*}*/
 
-        /* input */
 
-        /*Clearing Floats*/
-        .cf:before, .cf:after {
-            content: "";
-            display: table;
-        }
+    /* input */
 
-        .cf:after {
-            clear: both;
-        }
+    /*Clearing Floats*/
+    .cf:before, .cf:after {
+        content: "";
+        display: table;
+    }
 
-        .cf {
-            zoom: 1;
-        }
-        /* Form wrapper styling */
+    .cf:after {
+        clear: both;
+    }
 
-        .search-wrapper {
-            width: 450px;
-            margin: 150px auto 50px auto;
+    .cf {
+        zoom: 1;
+    }
+    /* Form wrapper styling */
+
+    .search-wrapper {
+        width: 450px;
+        margin: 150px auto 50px auto;
+        border-radius: 40px;
+        background: transparent;
+        box-shadow: 0 4px 20px -2px #e9e9e9;
+    }
+
+        /* Form text input */
+
+        .search-wrapper input {
+            padding-left: 20px;
+            width: 330px;
+            height: 40px;
+            padding: 10px 5px;
+            float: left;
+            font: bold 13px 'lucida sans', 'trebuchet MS', 'Tahoma';
+            border: 0;
+            background: #fff;
             border-radius: 40px;
-            background: transparent;
-            box-shadow: 0 4px 20px -2px #e9e9e9;
+            border-top-style: none;
         }
 
-            /* Form text input */
-
-            .search-wrapper input {
-                padding-left: 20px;
-                width: 330px;
-                height: 40px;
-                padding: 10px 5px;
-                float: left;
-                font: bold 13px 'lucida sans', 'trebuchet MS', 'Tahoma';
-                border: 0;
+            .search-wrapper input:focus {
+                outline: 0;
                 background: #fff;
-                border-radius: 40px;
-                border-top-style: none;
+                box-shadow: 0 0 2px rgba(0,0,0,0.8) inset;
             }
 
-                .search-wrapper input:focus {
-                    outline: 0;
-                    background: #fff;
-                    box-shadow: 0 0 2px rgba(0,0,0,0.8) inset;
-                }
-
-                .search-wrapper input::-webkit-input-placeholder {
-                    color: #999;
-                    font-weight: normal;
-                    font-style: italic;
-                    padding-left: 20px;
-                }
-
-                .search-wrapper input:-moz-placeholder {
-                    color: #999;
-                    font-weight: normal;
-                    font-style: italic;
-                }
-
-                .search-wrapper input:-ms-input-placeholder {
-                    color: #999;
-                    font-weight: normal;
-                    font-style: italic;
-                    border-style: none;
-                }
-
-            /* Form submit button */
-            .search-wrapper button {
-                overflow: visible;
-                position: relative;
-                float: right;
-                border: 0;
-                padding: 0;
-                cursor: pointer;
-                height: 3px;
-                width: 110px;
-                font: 13px/40px 'lucida sans', 'trebuchet MS', 'Tahoma';
-                color: #fff;
-                text-transform: uppercase;
-                background: #198cff;
-                border-radius: 40px;
-                text-shadow: 0 -1px 0 rgba(0, 0,0, .3);
+            .search-wrapper input::-webkit-input-placeholder {
+                color: #999;
+                font-weight: normal;
+                font-style: italic;
+                padding-left: 20px;
             }
+
+            .search-wrapper input:-moz-placeholder {
+                color: #999;
+                font-weight: normal;
+                font-style: italic;
+            }
+
+            .search-wrapper input:-ms-input-placeholder {
+                color: #999;
+                font-weight: normal;
+                font-style: italic;
+                border-style: none;
+            }
+
+        /* Form submit button */
+        .search-wrapper button {
+            overflow: visible;
+            position: relative;
+            float: right;
+            border: 0;
+            padding: 0;
+            cursor: pointer;
+            height: px;
+            width: 110px;
+            font: 13px/40px 'lucida sans', 'trebuchet MS', 'Tahoma';
+            color: #fff;
+            text-transform: uppercase;
+            background: #198cff;
+            border-radius: 40px;
+            text-shadow: 0 -1px 0 rgba(0, 0,0, .3);
+        }
 
 
 
             .search-wrapper button:active,
-                .search-wrapper button:focus {
-                    background: #198cff;
-                    outline: 0;
+            .search-wrapper button:focus {
+                background: #198cff;
+                outline: 0;
+            }
+
+                .search-wrapper button:focus:before,
+                .search-wrapper buttont:active:before {
+                    border-right-color: #c42f2f;
                 }
 
-            .search-wrapper button:focus:before,
-                    .search-wrapper buttont:active:before {
-                        border-right-color: #c42f2f;
-                    }
-
-                .search-wrapper button::-moz-focus-inner { /* remove extra button spacing for Mozilla Firefox */
-                    border: 0;
-                    padding: 0;
-                }
-    </style>
+            .search-wrapper button::-moz-focus-inner { /* remove extra button spacing for Mozilla Firefox */
+                border: 0;
+                padding: 0;
+            }
+</style>
 
     <!-- **firt page** -->
     <section class="page-title bg-1">

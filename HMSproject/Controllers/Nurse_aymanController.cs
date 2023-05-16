@@ -19,8 +19,7 @@ public class Nurse_aymanController : Controller
     // GET
     public IActionResult Index(int id)
     {
-        
-        using (var connection = new SqlConnection("Server=localhost;Database=HMS;User=sa;Password=reallyStrongPwd123;TrustServerCertificate=True;Encrypt=false;MultipleActiveResultSets=true"))
+        using (var connection = new SqlConnection("Server=DESKTOP-HM99MKM;Database=HMSDB;Trusted_Connection=True;Encrypt=False;MultipleActiveResultSets=true"))
         {
             connection.Open();
 
@@ -47,19 +46,20 @@ public class Nurse_aymanController : Controller
     }
 
     
-    public IActionResult Nurse_search()
+    public IActionResult Nurse_search(int id)
     {
         
         IEnumerable<Appointment> patientList = _db.Appointments
             .Include(n=>n.Patient)
             .Include(d=>d.Department)
             .ToList();
+        ViewBag.ID = id;
         // .Include(a => a.FkPat).ToList()
         return View(patientList);
     }
     
     [HttpPost]
-    public IActionResult Nurse_search(int id)
+    public IActionResult Nurse_search_post(int id)
         {
             var update = _db.Appointments
                 .Include(n=>n.Patient)
@@ -114,8 +114,9 @@ public class Nurse_aymanController : Controller
     }
     
     
-    public IActionResult Nurse_Pharmacy()
+    public IActionResult Nurse_Pharmacy(int id)
     {
+        ViewBag.ID = id;
         return View();
     }
     
@@ -157,9 +158,9 @@ public class Nurse_aymanController : Controller
         return RedirectToAction("index");
     }
     
-    public IActionResult Nurse_Lab()
+    public IActionResult Nurse_Lab(int id)
     {
-   
+        ViewBag.ID = id;
         return View();
     }
     
@@ -200,8 +201,9 @@ public class Nurse_aymanController : Controller
         return RedirectToAction("Nurse_Lab", new {SSN = SSN});
     }
     
-    public IActionResult Nurse_Cash_Flow()
+    public IActionResult Nurse_Cash_Flow(int id)
     {
+        ViewBag.ID = id ;
         var money = _db.Cash_Flows.FirstOrDefault();
         return View(money);
     }

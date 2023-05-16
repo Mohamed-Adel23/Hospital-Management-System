@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Controllers"
   ],
-  "SelectedNode": "\\appsettings.json",
+  "SelectedNode": "\\Controllers\\Nurse_aymanController.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -3,15 +3,16 @@ CareCoord is designed to enhance care coordination among all the participants co
 
 
 ## Technologies:
-Front-End:
-  - HTML
-  - CSS
-  - JavaScript
-  - BootStrap
-Back-End
-  - C#
-  - ASP.NET Core (7)
-  - MS SQL Server
+- Front-End:
+    - HTML
+    - CSS
+    - JavaScript
+    - BootStrap
+
+- Back-End
+    - C#
+    - ASP.NET Core (7)
+    - MS SQL Server
 
 
 Supervisors:

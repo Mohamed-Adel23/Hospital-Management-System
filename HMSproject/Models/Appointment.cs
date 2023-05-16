@@ -35,7 +35,7 @@ public partial class Appointment
     [InverseProperty("Appointments")]
     public virtual ICollection<Diagnose> Diagnoses { get; set; } = new List<Diagnose>();
 
-    [InverseProperty("FkAppNavigation")]
+    [InverseProperty("Appointments")]
     public virtual ICollection<Lab> Labs { get; set; } = new List<Lab>();
     
 

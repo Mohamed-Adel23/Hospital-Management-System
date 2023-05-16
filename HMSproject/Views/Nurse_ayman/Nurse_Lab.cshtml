@@ -192,8 +192,8 @@
                 {
                     <tr>
             
-                        <th>@Model.FkAppNavigation.Patient.Name</th>
-                         <th>@Model.FkAppNavigation.Department.Name </th>
+                        <th>@Model.Appointments.Patient.Name</th>
+                         <th>@Model.Appointments.Department.Name </th>
                         <th>@Model.AnaName</th>
                         @if (Model.Result == "0" || Model.Result == "" )
                         {
@@ -202,7 +202,7 @@
                                      <form method="post">
                                          <th>
                                              <input type="hidden" name="id" value="@Model.Id"/>
-                                             <input type="hidden" name="SSN" value="@Model.FkAppNavigation.Patient.SSN"/>
+                                             <input type="hidden" name="SSN" value="@Model.Appointments.Patient.SSN"/>
                                              <input type="text" name="result" class="search-input-" autocomplete="off" placeholder="Result"/>
                                          </th>       
                                          <th> <input class="search-button" type="submit" value="50$"/></th>

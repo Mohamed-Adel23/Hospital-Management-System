@@ -19,7 +19,7 @@ public class Nurse_aymanController : Controller
     // GET
     public IActionResult Index(int id)
     {
-        using (var connection = new SqlConnection("Server=DESKTOP-HM99MKM;Database=HMSDB;Trusted_Connection=True;Encrypt=False;MultipleActiveResultSets=true"))
+        using (var connection = new SqlConnection("Server=localhost;Database=HMS;User=sa;Password=reallyStrongPwd123;TrustServerCertificate=True;Encrypt=false;MultipleActiveResultSets=true"))
         {
             connection.Open();
 
@@ -155,7 +155,7 @@ public class Nurse_aymanController : Controller
         _db.SaveChanges();
         //TempData["Success"] = "Data updated successfully";
 
-        return RedirectToAction("index");
+        return RedirectToAction("Nurse_Pharmacy");
     }
     
     public IActionResult Nurse_Lab(int id)
@@ -176,9 +176,9 @@ public class Nurse_aymanController : Controller
         if (analysis == null) {return View();}
         
         var analysis_ = _db.Labs.
-            Include(d => d.FkAppNavigation).
+            Include(d => d.Appointments).
             ThenInclude(z => z.Patient).
-            Include(dep => dep.FkAppNavigation).
+            Include(dep => dep.Appointments).
             ThenInclude(n => n.Department).
             FirstOrDefault(d => d.FkApp == appointment.Id);
 

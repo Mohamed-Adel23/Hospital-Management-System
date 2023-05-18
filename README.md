@@ -5,6 +5,8 @@ The biggest problem facing health care centres remains today. Technical problems
 ## Why Carecoord ?
 CareCoord is designed to enhance care coordination among all the participants concerned with a patient’s care, ensuring that the patient’s needs and preferences are known and communicated at the right time to the right people. Whether you are a hospital administrator, a physician, a nurse, or a social worker, Carecoord can help you deliver better care with less hassle.
 
+## DataBase Diagram 
+<img width="1486" alt="HMS_DB" src="https://github.com/Mohamed-Adel23/Hospital-Management-System/assets/119868046/0a3367c8-d287-4b06-a591-0ac2c6ee981e">
 
 ## Technologies:
 - Front-End:
@@ -22,7 +24,7 @@ CareCoord is designed to enhance care coordination among all the participants co
 
 Supervisors:
   - Dr. Mai Ramadan
-  - Eng. Abelghany Adel
+  - Eng. Abdelghany Adel
 
 Contributors:
   - Ayman Mohamed 
